@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9526e94d-f893-4800-bb3d-242dc2553e3c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Getting-Started-with-TensorFlow" afterPath="$PROJECT_DIR$/Getting-Started-with-TensorFlow" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook" afterPath="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tensorflow-tutorial" afterPath="$PROJECT_DIR$/tensorflow-tutorial" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoos_tensorflow/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoos_tensorflow/mofan006.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoos_tensorflow/mofan_005.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoos_tensorflow/mofan_007.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoos_tensorflow/mofan_008.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoos_tensorflow/mofan_010.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoos_tensorflow/mofan_011.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoos_tensorflow/mofan_014.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/daoos_tensorflow/mofan_16.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DeepLearningCourseCodes/shakespeare_input.txt" afterPath="$PROJECT_DIR$/DeepLearningCourseCodes/shakespeare_input.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,93 +22,102 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/tensorflow_learn$mixed_distance_functions_knn.coverage" NAME="mixed_distance_functions_knn Coverage Results" MODIFIED="1493220710686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 05" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$deming_regression.coverage" NAME="deming_regression Coverage Results" MODIFIED="1493219970715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 03" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$operations_on_a_graph.coverage" NAME="operations_on_a_graph Coverage Results" MODIFIED="1493219929866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 02" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$gates.coverage" NAME="gates Coverage Results" MODIFIED="1493221296505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 06" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$doc2vec.coverage" NAME="doc2vec Coverage Results" MODIFIED="1493221687769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 07" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$mixed_distance_functions_knn.coverage" NAME="mixed_distance_functions_knn Coverage Results" MODIFIED="1493738427114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 05" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$deming_regression.coverage" NAME="deming_regression Coverage Results" MODIFIED="1493737442296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 03" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$operations_on_a_graph.coverage" NAME="operations_on_a_graph Coverage Results" MODIFIED="1493737430816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 02" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$gates.coverage" NAME="gates Coverage Results" MODIFIED="1493738545201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 06" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$using_multiple_devices.coverage" NAME="using_multiple_devices Coverage Results" MODIFIED="1493222693737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 10" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$lin_reg_tensorflow_way.coverage" NAME="lin_reg_tensorflow_way Coverage Results" MODIFIED="1493220083614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 03" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$nonlinear_svm.coverage" NAME="nonlinear_svm Coverage Results" MODIFIED="1493220428781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 04" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$image_recognition.coverage" NAME="image_recognition Coverage Results" MODIFIED="1493220696707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 05" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$loss_functions.coverage" NAME="loss_functions Coverage Results" MODIFIED="1493219824602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 02" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$back_propagation.coverage" NAME="back_propagation Coverage Results" MODIFIED="1493218763259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 02" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$multiclass_svm.coverage" NAME="multiclass_svm Coverage Results" MODIFIED="1493220315935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 04" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$address_matching.coverage" NAME="address_matching Coverage Results" MODIFIED="1493220619036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 05" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$doc2vec.coverage" NAME="doc2vec Coverage Results" MODIFIED="1493739136255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 07" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$lin_reg_tensorflow_way.coverage" NAME="lin_reg_tensorflow_way Coverage Results" MODIFIED="1493737497277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 03" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$nonlinear_svm.coverage" NAME="nonlinear_svm Coverage Results" MODIFIED="1493737943092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 04" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$image_recognition.coverage" NAME="image_recognition Coverage Results" MODIFIED="1493738254278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 05" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$loss_functions.coverage" NAME="loss_functions Coverage Results" MODIFIED="1493737370922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 02" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$back_propagation.coverage" NAME="back_propagation Coverage Results" MODIFIED="1493736811701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 02" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$multiclass_svm.coverage" NAME="multiclass_svm Coverage Results" MODIFIED="1493737930467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 04" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$address_matching.coverage" NAME="address_matching Coverage Results" MODIFIED="1493738248390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 05" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$solving_ode_system.coverage" NAME="solving_ode_system Coverage Results" MODIFIED="1493222823274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 11" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$using_a_multiple_layer_network.coverage" NAME="using_a_multiple_layer_network Coverage Results" MODIFIED="1493221513559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 06" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$using_word2vec.coverage" NAME="using_word2vec Coverage Results" MODIFIED="1493221756675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 07" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$using_a_multiple_layer_network.coverage" NAME="using_a_multiple_layer_network Coverage Results" MODIFIED="1493738660489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 06" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$using_word2vec.coverage" NAME="using_word2vec Coverage Results" MODIFIED="1493739242540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 07" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$partial_differential_equation.coverage" NAME="partial_differential_equation Coverage Results" MODIFIED="1493214452913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Getting-Started-with-TensorFlow/Chapter 2" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$production_tips_for_tf.coverage" NAME="production_tips_for_tf Coverage Results" MODIFIED="1493222680633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 10" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$course_3_tf_mnist_cnn.coverage" NAME="course_3_tf_mnist_cnn Coverage Results" MODIFIED="1493303919257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearningCourseCodes" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$course_2_tf_nn.coverage" NAME="course_2_tf_nn Coverage Results" MODIFIED="1493303356514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearningCourseCodes" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$Unittests_in_course_7_seq2seq_py.coverage" NAME="Unittests in course_7_seq2seq.py Coverage Results" MODIFIED="1493304224801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearningCourseCodes" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$batch_stochastic_training.coverage" NAME="batch_stochastic_training Coverage Results" MODIFIED="1493218790813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 02" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$implementing_lstm.coverage" NAME="implementing_lstm Coverage Results" MODIFIED="1493222390598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 09" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$batch_stochastic_training.coverage" NAME="batch_stochastic_training Coverage Results" MODIFIED="1493736819191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 02" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$implementing_lstm.coverage" NAME="implementing_lstm Coverage Results" MODIFIED="1493739750507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 09" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$programming_model.coverage" NAME="programming_model Coverage Results" MODIFIED="1493213762689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Getting-Started-with-TensorFlow/Chapter 1" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$handling_tensors.coverage" NAME="handling_tensors Coverage Results" MODIFIED="1493214388197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Getting-Started-with-TensorFlow/Chapter 2" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$ptb_word_lm.coverage" NAME="ptb_word_lm Coverage Results" MODIFIED="1493217668849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Getting-Started-with-TensorFlow/Chapter 5" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$nearest_neighbor.coverage" NAME="nearest_neighbor Coverage Results" MODIFIED="1493220805741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 05" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$lasso_and_ridge_regression.coverage" NAME="lasso_and_ridge_regression Coverage Results" MODIFIED="1493220038485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 03" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$text_helpers.coverage" NAME="text_helpers Coverage Results" MODIFIED="1493221624609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 07" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$nearest_neighbor.coverage" NAME="nearest_neighbor Coverage Results" MODIFIED="1493738470623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 05" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$lasso_and_ridge_regression.coverage" NAME="lasso_and_ridge_regression Coverage Results" MODIFIED="1493737461414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 03" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$text_helpers.coverage" NAME="text_helpers Coverage Results" MODIFIED="1493739177161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 07" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$montecarlo_method.coverage" NAME="montecarlo_method Coverage Results" MODIFIED="1493214440195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Getting-Started-with-TensorFlow/Chapter 2" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$bag_of_words.coverage" NAME="bag_of_words Coverage Results" MODIFIED="1493221549156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 07" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$course_7_shakespeare_gen.coverage" NAME="course_7_shakespeare_gen Coverage Results" MODIFIED="1493304777935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearningCourseCodes" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$lin_reg_decomposition.coverage" NAME="lin_reg_decomposition Coverage Results" MODIFIED="1493220052985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 03" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$seq2seq_translation.coverage" NAME="seq2seq_translation Coverage Results" MODIFIED="1493222429851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 09" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$linear_svm.coverage" NAME="linear_svm Coverage Results" MODIFIED="1493220129287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 04" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$tic_tac_toe_moves.coverage" NAME="tic_tac_toe_moves Coverage Results" MODIFIED="1493221191752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 06/tic_tac_toe" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$deepdream.coverage" NAME="deepdream Coverage Results" MODIFIED="1493221885197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 08" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$bag_of_words.coverage" NAME="bag_of_words Coverage Results" MODIFIED="1493738714223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 07" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$lin_reg_decomposition.coverage" NAME="lin_reg_decomposition Coverage Results" MODIFIED="1493737471894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 03" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$seq2seq_translation.coverage" NAME="seq2seq_translation Coverage Results" MODIFIED="1493739852170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 09" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$linear_svm.coverage" NAME="linear_svm Coverage Results" MODIFIED="1493737917921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 04" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$tic_tac_toe_moves.coverage" NAME="tic_tac_toe_moves Coverage Results" MODIFIED="1493738492576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 06/tic_tac_toe" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$deepdream.coverage" NAME="deepdream Coverage Results" MODIFIED="1493739298384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 08" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$handling_tensors_II.coverage" NAME="handling_tensors_II Coverage Results" MODIFIED="1493214413626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Getting-Started-with-TensorFlow/Chapter 2" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$elasticnet_regression.coverage" NAME="elasticnet_regression Coverage Results" MODIFIED="1493220003981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 03" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$using_tensorboard.coverage" NAME="using_tensorboard Coverage Results" MODIFIED="1493223084836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 11" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$lin_reg_inverse.coverage" NAME="lin_reg_inverse Coverage Results" MODIFIED="1493220061704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 03" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$evaluating_models.coverage" NAME="evaluating_models Coverage Results" MODIFIED="1493218947172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 02" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$elasticnet_regression.coverage" NAME="elasticnet_regression Coverage Results" MODIFIED="1493737451806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 03" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$lin_reg_inverse.coverage" NAME="lin_reg_inverse Coverage Results" MODIFIED="1493737479684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 03" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$evaluating_models.coverage" NAME="evaluating_models Coverage Results" MODIFIED="1493737116398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 02" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$defining_tensors.coverage" NAME="defining_tensors Coverage Results" MODIFIED="1493214101078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Getting-Started-with-TensorFlow/Chapter 2" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$tensors.coverage" NAME="tensors Coverage Results" MODIFIED="1493218664954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 01" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$lin_reg_l1_vs_l2.coverage" NAME="lin_reg_l1_vs_l2 Coverage Results" MODIFIED="1493220071899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 03" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$data_gathering.coverage" NAME="data_gathering Coverage Results" MODIFIED="1493218369080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 01" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$introductory_cnn.coverage" NAME="introductory_cnn Coverage Results" MODIFIED="1493222003897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 08" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$text_distances.coverage" NAME="text_distances Coverage Results" MODIFIED="1493221063157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 05" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$implementing_different_layers.coverage" NAME="implementing_different_layers Coverage Results" MODIFIED="1493221481673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 06" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$mofan_007.coverage" NAME="mofan_007 Coverage Results" MODIFIED="1493824221204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daoos_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$mofan_013.coverage" NAME="mofan_013 Coverage Results" MODIFIED="1493907000321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daoos_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$mofan006.coverage" NAME="mofan006 Coverage Results" MODIFIED="1493823723128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daoos_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$tensors.coverage" NAME="tensors Coverage Results" MODIFIED="1493736801413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 01" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$lin_reg_l1_vs_l2.coverage" NAME="lin_reg_l1_vs_l2 Coverage Results" MODIFIED="1493737487633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 03" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$data_gathering.coverage" NAME="data_gathering Coverage Results" MODIFIED="1493736616246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 01" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$introductory_cnn.coverage" NAME="introductory_cnn Coverage Results" MODIFIED="1493739620488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 08" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$parallelizing_tensorflow.coverage" NAME="parallelizing_tensorflow Coverage Results" MODIFIED="1493222584772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 10" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$implementing_rnn.coverage" NAME="implementing_rnn Coverage Results" MODIFIED="1493222273974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 09" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$text_distances.coverage" NAME="text_distances Coverage Results" MODIFIED="1493738482096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 05" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$implementing_different_layers.coverage" NAME="implementing_different_layers Coverage Results" MODIFIED="1493738550871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 06" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$mofan_001.coverage" NAME="mofan_001 Coverage Results" MODIFIED="1493823339780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daoos_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$implementing_rnn.coverage" NAME="implementing_rnn Coverage Results" MODIFIED="1493739796015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 09" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$course_1_tf_lr.coverage" NAME="course_1_tf_lr Coverage Results" MODIFIED="1493303291753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearningCourseCodes" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$logistic_regression.coverage" NAME="logistic_regression Coverage Results" MODIFIED="1493220093476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 03" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$activation_functions.coverage" NAME="activation_functions Coverage Results" MODIFIED="1493221240069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 06" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$logistic_regression.coverage" NAME="logistic_regression Coverage Results" MODIFIED="1493737821351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 03" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$activation_functions.coverage" NAME="activation_functions Coverage Results" MODIFIED="1493738533857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 06" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$mofan_008.coverage" NAME="mofan_008 Coverage Results" MODIFIED="1493824559591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daoos_tensorflow" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$linear_regression.coverage" NAME="linear_regression Coverage Results" MODIFIED="1493214659646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Getting-Started-with-TensorFlow/Chapter 3" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$Unittests_in_production_ex_eval_py.coverage" NAME="Unittests in production_ex_eval.py Coverage Results" MODIFIED="1493222592153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 10" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$gradient.coverage" NAME="gradient Coverage Results" MODIFIED="1493214379492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Getting-Started-with-TensorFlow/Chapter 2" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$Kmeans.coverage" NAME="Kmeans Coverage Results" MODIFIED="1493214606383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Getting-Started-with-TensorFlow/Chapter 3" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$svm_kernels.coverage" NAME="svm_kernels Coverage Results" MODIFIED="1493220533632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 04" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$tf_idf.coverage" NAME="tf_idf Coverage Results" MODIFIED="1493221719350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 07" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$combining_everything_together.coverage" NAME="combining_everything_together Coverage Results" MODIFIED="1493218850177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 02" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$operations.coverage" NAME="operations Coverage Results" MODIFIED="1493736702449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 01" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$svm_kernels.coverage" NAME="svm_kernels Coverage Results" MODIFIED="1493738031707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 04" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$tf_idf.coverage" NAME="tf_idf Coverage Results" MODIFIED="1493739215581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 07" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$combining_everything_together.coverage" NAME="combining_everything_together Coverage Results" MODIFIED="1493736828100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 02" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$genetic_algorithm.coverage" NAME="genetic_algorithm Coverage Results" MODIFIED="1493222756634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 11" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$k_means.coverage" NAME="k_means Coverage Results" MODIFIED="1493222814357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 11" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$word2vec_cbow.coverage" NAME="word2vec_cbow Coverage Results" MODIFIED="1493221763426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 07" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$support_vector_regression.coverage" NAME="support_vector_regression Coverage Results" MODIFIED="1493220442099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 04" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$download_cifar10.coverage" NAME="download_cifar10 Coverage Results" MODIFIED="1493221899740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 08" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$single_hidden_layer_network.coverage" NAME="single_hidden_layer_network Coverage Results" MODIFIED="1493221503388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 06" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$improving_linear_regression.coverage" NAME="improving_linear_regression Coverage Results" MODIFIED="1493221489088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 06" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$word2vec_cbow.coverage" NAME="word2vec_cbow Coverage Results" MODIFIED="1493739252687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 07" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$support_vector_regression.coverage" NAME="support_vector_regression Coverage Results" MODIFIED="1493738020008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 04" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$matrices.coverage" NAME="matrices Coverage Results" MODIFIED="1493736647599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 01" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$download_cifar10.coverage" NAME="download_cifar10 Coverage Results" MODIFIED="1493739310166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 08" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$single_hidden_layer_network.coverage" NAME="single_hidden_layer_network Coverage Results" MODIFIED="1493738634619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 06" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$improving_linear_regression.coverage" NAME="improving_linear_regression Coverage Results" MODIFIED="1493738598079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 06" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$random_numbers.coverage" NAME="random_numbers Coverage Results" MODIFIED="1493214496572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Getting-Started-with-TensorFlow/Chapter 2" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$vgg16_test.coverage" NAME="vgg16_test Coverage Results" MODIFIED="1493304068574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearningCourseCodes/course_example_vgg" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$first_session.coverage" NAME="first_session Coverage Results" MODIFIED="1493213712234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Getting-Started-with-TensorFlow/Chapter 1" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$fractals.coverage" NAME="fractals Coverage Results" MODIFIED="1493214295476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Getting-Started-with-TensorFlow/Chapter 2" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$cnn_cifar10.coverage" NAME="cnn_cifar10 Coverage Results" MODIFIED="1493221802827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 08" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$stacking_multiple_lstm.coverage" NAME="stacking_multiple_lstm Coverage Results" MODIFIED="1493222449091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 09" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$cnn_cifar10.coverage" NAME="cnn_cifar10 Coverage Results" MODIFIED="1493739270007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 08" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$stacking_multiple_lstm.coverage" NAME="stacking_multiple_lstm Coverage Results" MODIFIED="1493739866563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 09" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$mlp_function_approximation.coverage" NAME="mlp_function_approximation Coverage Results" MODIFIED="1493214741214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Getting-Started-with-TensorFlow/Chapter 4" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$multiple_layers.coverage" NAME="multiple_layers Coverage Results" MODIFIED="1493219782693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 02" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$multiple_layers.coverage" NAME="multiple_layers Coverage Results" MODIFIED="1493737424809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 02" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$handling_tensors_III.coverage" NAME="handling_tensors_III Coverage Results" MODIFIED="1493214427077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Getting-Started-with-TensorFlow/Chapter 2" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$input_data.coverage" NAME="input_data Coverage Results" MODIFIED="1493217616624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Getting-Started-with-TensorFlow/Chapter 5" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$course_1_tf_basic_operation.coverage" NAME="course_1_tf_basic_operation Coverage Results" MODIFIED="1493303269837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearningCourseCodes" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$stylenet.coverage" NAME="stylenet Coverage Results" MODIFIED="1493222054418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 08" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$word2vec_skipgram.coverage" NAME="word2vec_skipgram Coverage Results" MODIFIED="1493221770566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 07" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$Unittests_in_implementing_unit_tests_py.coverage" NAME="Unittests in implementing_unit_tests.py Coverage Results" MODIFIED="1493222468729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 10" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$stylenet.coverage" NAME="stylenet Coverage Results" MODIFIED="1493739631222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 08" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$word2vec_skipgram.coverage" NAME="word2vec_skipgram Coverage Results" MODIFIED="1493739260590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 07" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$Unittests_in_implementing_unit_tests_py.coverage" NAME="Unittests in implementing_unit_tests.py Coverage Results" MODIFIED="1493739973766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 10" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$production_ex_train.coverage" NAME="production_ex_train Coverage Results" MODIFIED="1493222628538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 10" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$FVGG_Emo.coverage" NAME="FVGG_Emo Coverage Results" MODIFIED="1493304464131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearningCourseCodes/Course_5_emotion_vgg_finetune" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$first_session_only_tensorflow.coverage" NAME="first_session_only_tensorflow Coverage Results" MODIFIED="1493213716946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Getting-Started-with-TensorFlow/Chapter 1" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$reader.coverage" NAME="reader Coverage Results" MODIFIED="1493217713825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Getting-Started-with-TensorFlow/Chapter 5" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$layering_nested_operations.coverage" NAME="layering_nested_operations Coverage Results" MODIFIED="1493219623127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 02" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$mofan_010.coverage" NAME="mofan_010 Coverage Results" MODIFIED="1493828925640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daoos_tensorflow" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$layering_nested_operations.coverage" NAME="layering_nested_operations Coverage Results" MODIFIED="1493737190513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 02" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$placeholders.coverage" NAME="placeholders Coverage Results" MODIFIED="1493736794452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 01" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -120,106 +134,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="caption_generator.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_8_image2txt/inference_utils/caption_generator.py">
+      <file leaf-file-name="mofan_014.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/daoos_tensorflow/mofan_014.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="2916">
+              <caret line="83" column="23" lean-forward="false" selection-start-line="83" selection-start-column="23" selection-end-line="83" selection-end-column="23" />
+              <folding>
+                <element signature="e#38#61#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="caption_generator_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_8_image2txt/inference_utils/caption_generator_test.py">
+      <file leaf-file-name="mofan_16.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/daoos_tensorflow/mofan_16.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="72">
+              <caret line="2" column="61" lean-forward="false" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
+              <folding>
+                <element signature="e#14#37#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FVGG_Emo.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/Course_5_emotion_vgg_finetune/FVGG_Emo.py">
+      <file leaf-file-name="mofan_011.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/daoos_tensorflow/mofan_011.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1224">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="72">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding>
+                <element signature="e#14#32#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="configuration.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_8_image2txt/configuration.py">
+      <file leaf-file-name="mofan_010.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/daoos_tensorflow/mofan_010.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="evaluate.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_8_image2txt/evaluate.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="inference_wrapper.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_8_image2txt/inference_wrapper.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="24" column="11" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="course_3_tf_mnist_cnn.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_3_tf_mnist_cnn.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="course_3_tf_mnist_cnn.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_3_tf_mnist_cnn.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="course_7_seq2seq.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_7_seq2seq.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="course_7_shakespeare_gen.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_7_shakespeare_gen.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="2412">
+              <caret line="69" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+              <folding>
+                <element signature="e#38#61#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -232,57 +202,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 02/operations_on_a_graph.py" />
-        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 03/deming_regression.py" />
-        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 03/elasticnet_regression.py" />
-        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 03/lasso_and_ridge_regression.py" />
-        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 04/multiclass_svm.py" />
-        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 04/nonlinear_svm.py" />
-        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 04/svm_kernels.py" />
-        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 05/address_matching.py" />
-        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 05/image_recognition.py" />
-        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 05/nearest_neighbor.py" />
-        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 06/tic_tac_toe/tic_tac_toe_moves.py" />
         <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 06/activation_functions.py" />
         <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 06/gates.py" />
         <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 06/implementing_different_layers.py" />
-        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 07/bag_of_words.py" />
         <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 07/doc2vec.py" />
         <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 07/text_helpers.py" />
-        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 07/tf_idf.py" />
+        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 07/word2vec_cbow.py" />
+        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 07/word2vec_skipgram.py" />
         <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 08/cnn_cifar10.py" />
         <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 08/deepdream.py" />
+        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 08/download_cifar10.py" />
+        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 08/stylenet.py" />
         <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 09/implementing_rnn.py" />
-        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 09/implementing_lstm.py" />
+        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 09/seq2seq_translation.py" />
+        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 10/implementing_unit_tests.py" />
+        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 10/parallelizing_tensorflow.py" />
+        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 10/production_ex_eval.py" />
         <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 10/production_ex_train.py" />
         <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 10/production_tips_for_tf.py" />
+        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 10/using_multiple_devices.py" />
         <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 11/genetic_algorithm.py" />
+        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 11/k_means.py" />
+        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 11/solving_ode_system.py" />
         <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 11/using_tensorboard.py" />
-        <option value="$PROJECT_DIR$/DeepLearningCourseCodes/course_3_tf_mnist_cnn.py" />
-        <option value="$PROJECT_DIR$/DeepLearningCourseCodes/course_1_tf_lr.py" />
-        <option value="$PROJECT_DIR$/DeepLearningCourseCodes/course_1_tf_basic_operation.py" />
-        <option value="$PROJECT_DIR$/DeepLearningCourseCodes/course_2_tf_nn.py" />
-        <option value="$PROJECT_DIR$/DeepLearningCourseCodes/course_7_seq2seq.py" />
-        <option value="$PROJECT_DIR$/DeepLearningCourseCodes/course_7_shakespeare_gen.py" />
-        <option value="$PROJECT_DIR$/DeepLearningCourseCodes/course_example_vgg/course_4_vgg16_test.py" />
-        <option value="$PROJECT_DIR$/DeepLearningCourseCodes/course_example_vgg/np_plot.py" />
-        <option value="$PROJECT_DIR$/DeepLearningCourseCodes/course_example_vgg/utils.py" />
-        <option value="$PROJECT_DIR$/DeepLearningCourseCodes/course_example_vgg/vgg16.py" />
-        <option value="$PROJECT_DIR$/DeepLearningCourseCodes/course_example_vgg/vgg16_test.py" />
-        <option value="$PROJECT_DIR$/DeepLearningCourseCodes/course_8_image2txt/configuration.py" />
-        <option value="$PROJECT_DIR$/DeepLearningCourseCodes/course_8_image2txt/evaluate.py" />
-        <option value="$PROJECT_DIR$/DeepLearningCourseCodes/course_8_image2txt/inference_wrapper.py" />
-        <option value="$PROJECT_DIR$/DeepLearningCourseCodes/course_8_image2txt/run_inference.py" />
-        <option value="$PROJECT_DIR$/DeepLearningCourseCodes/course_8_image2txt/show_and_tell_model.py" />
-        <option value="$PROJECT_DIR$/DeepLearningCourseCodes/course_8_image2txt/show_and_tell_model_test.py" />
-        <option value="$PROJECT_DIR$/DeepLearningCourseCodes/course_8_image2txt/train.py" />
-        <option value="$PROJECT_DIR$/DeepLearningCourseCodes/course_8_image2txt/ops/image_embedding.py" />
-        <option value="$PROJECT_DIR$/DeepLearningCourseCodes/course_8_image2txt/ops/image_embedding_test.py" />
-        <option value="$PROJECT_DIR$/DeepLearningCourseCodes/course_8_image2txt/ops/image_processing.py" />
-        <option value="$PROJECT_DIR$/DeepLearningCourseCodes/course_8_image2txt/ops/inputs.py" />
-        <option value="$PROJECT_DIR$/DeepLearningCourseCodes/course_8_image2txt/inference_utils/caption_generator.py" />
-        <option value="$PROJECT_DIR$/DeepLearningCourseCodes/course_8_image2txt/inference_utils/caption_generator_test.py" />
-        <option value="$PROJECT_DIR$/DeepLearningCourseCodes/Course_5_emotion_vgg_finetune/FVGG_Emo.py" />
+        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 01/operations.py" />
+        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 01/placeholders.py" />
+        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 02/evaluating_models.py" />
+        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 02/loss_functions.py" />
+        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 03/logistic_regression.py" />
+        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 04/linear_svm.py" />
+        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 04/support_vector_regression.py" />
+        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 05/mixed_distance_functions_knn.py" />
+        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 05/nearest_neighbor.py" />
+        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 06/improving_linear_regression.py" />
+        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 06/single_hidden_layer_network.py" />
+        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 06/using_a_multiple_layer_network.py" />
+        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 07/bag_of_words.py" />
+        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 07/tf_idf.py" />
+        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 07/using_word2vec.py" />
+        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 08/introductory_cnn.py" />
+        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 09/implementing_lstm.py" />
+        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 09/stacking_multiple_lstm.py" />
+        <option value="$PROJECT_DIR$/daoos_tensorflow/mofan_001.py" />
+        <option value="$PROJECT_DIR$/daoos_tensorflow/mofan006.py" />
+        <option value="$PROJECT_DIR$/daoos_tensorflow/mofan_007.py" />
+        <option value="$PROJECT_DIR$/daoos_tensorflow/mofan_008.py" />
+        <option value="$PROJECT_DIR$/daoos_tensorflow/mofan_009.py" />
+        <option value="$PROJECT_DIR$/daoos_tensorflow/mofan_011.py" />
+        <option value="$PROJECT_DIR$/daoos_tensorflow/mofan_010.py" />
+        <option value="$PROJECT_DIR$/daoos_tensorflow/mofan_013.py" />
+        <option value="$PROJECT_DIR$/daoos_tensorflow/mofan_014.py" />
+        <option value="$PROJECT_DIR$/daoos_tensorflow/mofan_16.py" />
       </list>
     </option>
   </component>
@@ -293,10 +263,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1431" />
-    <option name="y" value="-4" />
-    <option name="width" value="1855" />
-    <option name="height" value="1084" />
+    <option name="x" value="1430" />
+    <option name="y" value="-11" />
+    <option name="width" value="1857" />
+    <option name="height" value="1092" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -313,6 +283,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -336,72 +307,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DeepLearningCourseCodes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tensorflow_learn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tensorflow_learn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeepLearningCourseCodes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="course_example_vgg" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tensorflow_learn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tensorflow_learn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeepLearningCourseCodes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="course_8_image2txt" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tensorflow_learn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tensorflow_learn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeepLearningCourseCodes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Course_5_emotion_vgg_finetune" />
+              <option name="myItemId" value="daoos_tensorflow" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/小象金融大数据第一期" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
   </component>
   <component name="RunDashboard">
@@ -416,94 +332,97 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.course_7_shakespeare_gen">
-    <configuration default="false" name="course_3_tf_mnist_cnn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.mofan_013">
+    <configuration default="false" name="mofan006" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearningCourseCodes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/daoos_tensorflow" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="tensorflow_learn" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearningCourseCodes/course_3_tf_mnist_cnn.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/daoos_tensorflow/mofan006.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="vgg16_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="mofan_007" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearningCourseCodes/course_example_vgg" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/daoos_tensorflow" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="tensorflow_learn" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearningCourseCodes/course_example_vgg/vgg16_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/daoos_tensorflow/mofan_007.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Unittests in course_7_seq2seq.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearningCourseCodes" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="tensorflow_learn" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/DeepLearningCourseCodes/course_7_seq2seq.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method />
-    </configuration>
-    <configuration default="false" name="course_7_shakespeare_gen" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="mofan_008" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearningCourseCodes" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/daoos_tensorflow" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="tensorflow_learn" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearningCourseCodes/course_7_shakespeare_gen.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/daoos_tensorflow/mofan_008.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="FVGG_Emo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="mofan_010" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearningCourseCodes/Course_5_emotion_vgg_finetune" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/daoos_tensorflow" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="tensorflow_learn" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearningCourseCodes/Course_5_emotion_vgg_finetune/FVGG_Emo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/daoos_tensorflow/mofan_010.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="mofan_013" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/daoos_tensorflow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="tensorflow_learn" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/daoos_tensorflow/mofan_014.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -658,19 +577,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.course_3_tf_mnist_cnn" />
-      <item index="1" class="java.lang.String" itemvalue="Python.vgg16_test" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in course_7_seq2seq.py" />
-      <item index="3" class="java.lang.String" itemvalue="Python.course_7_shakespeare_gen" />
-      <item index="4" class="java.lang.String" itemvalue="Python.FVGG_Emo" />
+      <item index="0" class="java.lang.String" itemvalue="Python.mofan006" />
+      <item index="1" class="java.lang.String" itemvalue="Python.mofan_007" />
+      <item index="2" class="java.lang.String" itemvalue="Python.mofan_008" />
+      <item index="3" class="java.lang.String" itemvalue="Python.mofan_010" />
+      <item index="4" class="java.lang.String" itemvalue="Python.mofan_013" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.course_7_shakespeare_gen" />
-        <item index="1" class="java.lang.String" itemvalue="Python.FVGG_Emo" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in course_7_seq2seq.py" />
-        <item index="3" class="java.lang.String" itemvalue="Python.vgg16_test" />
-        <item index="4" class="java.lang.String" itemvalue="Python.course_3_tf_mnist_cnn" />
+        <item index="0" class="java.lang.String" itemvalue="Python.mofan_013" />
+        <item index="1" class="java.lang.String" itemvalue="Python.mofan_010" />
+        <item index="2" class="java.lang.String" itemvalue="Python.mofan_008" />
+        <item index="3" class="java.lang.String" itemvalue="Python.mofan_007" />
+        <item index="4" class="java.lang.String" itemvalue="Python.mofan006" />
       </list>
     </recent_temporary>
   </component>
@@ -708,13 +627,13 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1431" y="-4" width="1855" height="1084" extended-state="6" />
+    <frame x="1430" y="-11" width="1857" height="1092" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17628032" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2432283" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33892968" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33010754" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -742,7 +661,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 02/evaluating_models.py</url>
-          <line>39</line>
+          <line>41</line>
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -753,407 +672,372 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 09/implementing_rnn.py">
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 03/lasso_and_ridge_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 03/lin_reg_decomposition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 03/lin_reg_inverse.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="104" column="45" lean-forward="false" selection-start-line="104" selection-start-column="36" selection-end-line="104" selection-end-column="45" />
+          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 03/lin_reg_l1_vs_l2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 03/lin_reg_tensorflow_way.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="17" column="20" lean-forward="false" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 03/logistic_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="66" column="90" lean-forward="false" selection-start-line="66" selection-start-column="90" selection-end-line="66" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 04/linear_svm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="144" column="21" lean-forward="false" selection-start-line="144" selection-start-column="21" selection-end-line="144" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 04/multiclass_svm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 04/nonlinear_svm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 04/support_vector_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 04/svm_kernels.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 05/address_matching.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 05/image_recognition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 05/mixed_distance_functions_knn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="98" column="30" lean-forward="false" selection-start-line="98" selection-start-column="30" selection-end-line="98" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 05/nearest_neighbor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="85" column="27" lean-forward="false" selection-start-line="85" selection-start-column="27" selection-end-line="85" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 05/text_distances.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 06/tic_tac_toe/tic_tac_toe_moves.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="160" column="0" lean-forward="false" selection-start-line="160" selection-start-column="0" selection-end-line="160" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 06/activation_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 06/gates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 06/implementing_different_layers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 06/improving_linear_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="89" column="90" lean-forward="false" selection-start-line="89" selection-start-column="90" selection-end-line="89" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 06/single_hidden_layer_network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="32" column="72" lean-forward="false" selection-start-line="32" selection-start-column="72" selection-end-line="32" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 06/using_a_multiple_layer_network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="61" column="72" lean-forward="false" selection-start-line="61" selection-start-column="72" selection-end-line="61" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 07/bag_of_words.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3780">
+          <caret line="115" column="90" lean-forward="false" selection-start-line="115" selection-start-column="90" selection-end-line="115" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 07/doc2vec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 07/temp_spam_data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 07/text_helpers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 07/tf_idf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="87" column="104" lean-forward="false" selection-start-line="87" selection-start-column="104" selection-end-line="87" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 07/using_word2vec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 07/word2vec_cbow.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 07/word2vec_skipgram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 08/cnn_cifar10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2160">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 08/deepdream.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 08/download_cifar10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 08/introductory_cnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3672">
+          <caret line="106" column="97" lean-forward="false" selection-start-line="106" selection-start-column="97" selection-end-line="106" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 08/stylenet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 09/implementing_lstm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="137" column="8" lean-forward="false" selection-start-line="137" selection-start-column="8" selection-end-line="137" selection-end-column="8" />
+        <state relative-caret-position="4536">
+          <caret line="136" column="54" lean-forward="false" selection-start-line="136" selection-start-column="54" selection-end-line="136" selection-end-column="66" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 09/stacking_multiple_lstm.py">
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 09/implementing_rnn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="25" lean-forward="false" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 10/implementing_unit_tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 10/parallelizing_tensorflow.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="41" column="21" lean-forward="false" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 10/production_ex_eval.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 10/production_ex_train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="125" column="25" lean-forward="false" selection-start-line="125" selection-start-column="25" selection-end-line="125" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 10/using_multiple_devices.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 11/genetic_algorithm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2592">
-          <caret line="76" column="57" lean-forward="false" selection-start-line="76" selection-start-column="57" selection-end-line="76" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python2.7/dist-packages/tensorflow/python/framework/tensor_util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12816">
-          <caret line="366" column="0" lean-forward="false" selection-start-line="366" selection-start-column="0" selection-end-line="366" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python2.7/dist-packages/tensorflow/python/framework/constant_op.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3564">
-          <caret line="109" column="0" lean-forward="false" selection-start-line="109" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python2.7/dist-packages/tensorflow/python/framework/ops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24228">
-          <caret line="701" column="0" lean-forward="false" selection-start-line="701" selection-start-column="0" selection-end-line="701" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 11/k_means.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 11/solving_ode_system.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 11/using_tensorboard.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4284">
-          <caret line="124" column="5" lean-forward="false" selection-start-line="124" selection-start-column="5" selection-end-line="124" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 10/production_tips_for_tf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2088">
-          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="1296">
+          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 09/seq2seq_translation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="22" column="54" lean-forward="false" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="54" />
-          <folding />
+        <state relative-caret-position="828">
+          <caret line="23" column="43" lean-forward="false" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/README.md">
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 09/stacking_multiple_lstm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="4536">
+          <caret line="136" column="39" lean-forward="false" selection-start-line="136" selection-start-column="39" selection-end-line="136" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_2_tf_nn.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_6_obj_detection.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_9_pix2pix_file.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_10_dqn.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_8_image2txt/inference_utils/inference_wrapper_base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1512">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_8_image2txt/inference_utils/vocabulary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-432">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_1_tf_lr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_1_tf_lr.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_1_tf_basic_operation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_2_tf_nn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_example_vgg/course_4_vgg16_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-          <folding>
-            <element signature="e#14#32#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_example_vgg/np_plot.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#120#138#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_example_vgg/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-          <folding>
-            <element signature="e#14#28#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_example_vgg/vgg16.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_example_vgg/vgg16_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_8_image2txt/run_inference.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_8_image2txt/show_and_tell_model.py">
+    <entry file="file://$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 10/implementing_unit_tests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
-          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding />
+          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_8_image2txt/show_and_tell_model_test.py">
+    <entry file="file://$PROJECT_DIR$/tensorflow-tutorial/Deep_Learning_with_TensorFlow/tensorflow1_1/Chapter03/1.图,张量及会话.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="-1676">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_8_image2txt/train.py">
+    <entry file="file://$PROJECT_DIR$/tensorflow-tutorial/Deep_Learning_with_TensorFlow/tensorflow1_1/Chapter03/2.三层简单神经网络的前向传播方法.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="26" column="22" lean-forward="false" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-          <folding />
+        <state relative-caret-position="-92">
+          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_8_image2txt/ops/image_embedding.py">
+    <entry file="file://$PROJECT_DIR$/daoos_tensorflow/mofan_005.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="479">
+          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_8_image2txt/ops/image_embedding_test.py">
+    <entry file="file://$PROJECT_DIR$/daoos_tensorflow/mofan006.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="335">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_8_image2txt/ops/image_processing.py">
+    <entry file="file://$PROJECT_DIR$/daoos_tensorflow/mofan_007.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="443">
+          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_8_image2txt/ops/inputs.py">
+    <entry file="file://$PROJECT_DIR$/daoos_tensorflow/mofan_008.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="216">
+          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_8_image2txt/inference_utils/caption_generator.py">
+    <entry file="file://$PROJECT_DIR$/daoos_tensorflow/mofan_011.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="72">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#32#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_8_image2txt/inference_utils/caption_generator_test.py">
+    <entry file="file://$PROJECT_DIR$/daoos_tensorflow/mofan_014.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="2916">
+          <caret line="83" column="23" lean-forward="false" selection-start-line="83" selection-start-column="23" selection-end-line="83" selection-end-column="23" />
+          <folding>
+            <element signature="e#38#61#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_3_tf_mnist_cnn.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_3_tf_mnist_cnn.py">
+    <entry file="file://$PROJECT_DIR$/daoos_tensorflow/mofan_010.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="2412">
+          <caret line="69" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding>
+            <element signature="e#38#61#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_7_seq2seq.py">
+    <entry file="file://$PROJECT_DIR$/daoos_tensorflow/mofan_16.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/Course_5_emotion_vgg_finetune/FVGG_Emo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1224">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_8_image2txt/configuration.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_8_image2txt/evaluate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_8_image2txt/inference_wrapper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="24" column="11" lean-forward="false" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DeepLearningCourseCodes/course_7_shakespeare_gen.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="72">
+          <caret line="2" column="61" lean-forward="false" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
+          <folding>
+            <element signature="e#14#37#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
