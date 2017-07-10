@@ -20,7 +20,7 @@ from pprint import pprint
 def save_image(im, i):
     im = 255 - im
     a = im.astype(np.uint8)
-    output_path = '.\\HandWritten'
+    output_path = './HandWritten'
     if not os.path.exists(output_path):
         os.mkdir(output_path)
     Image.fromarray(a).save(output_path + ('\\%d.png' % i))
@@ -41,7 +41,7 @@ if __name__ == "__main__":
 
     print '载入训练数据...'
     t = time()
-    data = pd.read_csv('.\\MNIST.train.csv', header=0, dtype=np.int)
+    data = pd.read_csv('./MNIST.train.csv', header=0, dtype=np.int)
     print '载入完成，耗时%f秒' % (time() - t)
     y = data['label'].values
     x = data.values[:, 1:]
@@ -51,7 +51,7 @@ if __name__ == "__main__":
 
     print '载入测试数据...'
     t = time()
-    data_test = pd.read_csv('.\\MNIST.test.csv', header=0, dtype=np.int)
+    data_test = pd.read_csv('./MNIST.test.csv', header=0, dtype=np.int)
     data_test = data_test.values
     images_test_result = data_test.reshape(-1, 28, 28)
     print '载入完成，耗时%f秒' % (time() - t)

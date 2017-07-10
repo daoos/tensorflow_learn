@@ -15,7 +15,7 @@ iris_feature = u'花萼长度', u'花萼宽度', u'花瓣长度', u'花瓣宽度
 
 
 if __name__ == "__main__":
-    path = '..\\8.Regression\\iris.data'  # 数据文件路径
+    path = '../8.Regression/iris.data'  # 数据文件路径
     data = pd.read_csv(path, header=None)
     x, y = data[range(4)], data[4]
     y = pd.Categorical(y).codes

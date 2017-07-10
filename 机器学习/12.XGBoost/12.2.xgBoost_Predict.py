@@ -13,7 +13,7 @@ def iris_type(s):
 
 
 if __name__ == "__main__":
-    path = u'..\\8.Regression\\iris.data'  # 数据文件路径
+    path = u'../8.Regression/iris.data'  # 数据文件路径
     data = np.loadtxt(path, dtype=float, delimiter=',', converters={4: iris_type})
     data = pd.read_csv(path, header=None)
     x, y = data[range(4)], data[4]

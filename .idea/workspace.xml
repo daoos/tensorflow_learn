@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9526e94d-f893-4800-bb3d-242dc2553e3c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tensorflow_demo/001Start" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Tensorflow_demo/001study.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/机器学习/12.XGBoost/12.2.xgBoost_Predict.py" afterPath="$PROJECT_DIR$/机器学习/12.XGBoost/12.2.xgBoost_Predict.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/机器学习/12.XGBoost/New_Data.csv" afterPath="$PROJECT_DIR$/机器学习/12.XGBoost/New_Data.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/机器学习/14.SVM/14.1.SVM_intro.py" afterPath="$PROJECT_DIR$/机器学习/14.SVM/14.1.SVM_intro.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/机器学习/14.SVM/14.7.MNIST.py" afterPath="$PROJECT_DIR$/机器学习/14.SVM/14.7.MNIST.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/机器学习/14.SVM/Prediction.csv" afterPath="$PROJECT_DIR$/机器学习/14.SVM/Prediction.csv" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,6 +17,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/tensorflow_learn$10_2_Iris_DecisionTree_Enum.coverage" NAME="10.2.Iris_DecisionTree_Enum Coverage Results" MODIFIED="1499699441445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/10.RandomForest" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$14_2_decision_function.coverage" NAME="14.2.decision_function Coverage Results" MODIFIED="1499699815916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/14.SVM" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$course_1_tf_lr__1_.coverage" NAME="course_1_tf_lr (1) Coverage Results" MODIFIED="1494422984811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xiaoxiang_deeplearning4/day01" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$retrain.coverage" NAME="retrain Coverage Results" MODIFIED="1494513056854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/google_examples/image_retraining" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$4_6_Ensumble.coverage" NAME="4.6.Ensumble Coverage Results" MODIFIED="1499698558050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/4.Python" />
@@ -83,6 +84,7 @@
     <SUITE FILE_PATH="coverage/tensorflow_learn$5_1_hashlib.coverage" NAME="5.1.hashlib Coverage Results" MODIFIED="1499698578464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/5.Package" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$5_11_odeint.coverage" NAME="5.11.odeint Coverage Results" MODIFIED="1499698851486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/5.Package" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$8_2_LinearRegression_CV.coverage" NAME="8.2.LinearRegression_CV Coverage Results" MODIFIED="1499699108196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/8.Regression" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$14_8_SVR.coverage" NAME="14.8.SVR Coverage Results" MODIFIED="1499699983952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/14.SVM" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$first_session_only_tensorflow.coverage" NAME="first_session_only_tensorflow Coverage Results" MODIFIED="1493213716946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Getting-Started-with-TensorFlow/Chapter 1" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$course_1_tf_basic_operation__1_.coverage" NAME="course_1_tf_basic_operation (1) Coverage Results" MODIFIED="1494422728363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xiaoxiang_deeplearning4/day01" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$reader.coverage" NAME="reader Coverage Results" MODIFIED="1493217713825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Getting-Started-with-TensorFlow/Chapter 5" />
@@ -90,19 +92,24 @@
     <SUITE FILE_PATH="coverage/tensorflow_learn$placeholders.coverage" NAME="placeholders Coverage Results" MODIFIED="1493736794452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 01" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$mixed_distance_functions_knn.coverage" NAME="mixed_distance_functions_knn Coverage Results" MODIFIED="1493738427114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 05" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$5_8_stock.coverage" NAME="5.8.stock Coverage Results" MODIFIED="1499698698470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/5.Package" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$14_7_MNIST.coverage" NAME="14.7.MNIST Coverage Results" MODIFIED="1499699915506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/14.SVM" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$14_9_CV.coverage" NAME="14.9.CV Coverage Results" MODIFIED="1499699994074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/14.SVM" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$deming_regression.coverage" NAME="deming_regression Coverage Results" MODIFIED="1493737442296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 03" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$operations_on_a_graph.coverage" NAME="operations_on_a_graph Coverage Results" MODIFIED="1493737430816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 02" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$gates.coverage" NAME="gates Coverage Results" MODIFIED="1493738545201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 06" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$8_8_roc_auc.coverage" NAME="8.8.roc_auc Coverage Results" MODIFIED="1499699193223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/8.Regression" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$using_multiple_devices.coverage" NAME="using_multiple_devices Coverage Results" MODIFIED="1493222693737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 10" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$6_3_pandas.coverage" NAME="6.3.pandas Coverage Results" MODIFIED="1499698992485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/6.Data" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$14_10_grid.coverage" NAME="14.10.grid Coverage Results" MODIFIED="1499700002426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/14.SVM" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$back_propagation.coverage" NAME="back_propagation Coverage Results" MODIFIED="1493736811701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 02" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$multiclass_svm.coverage" NAME="multiclass_svm Coverage Results" MODIFIED="1493737930467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 04" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$6_6_LR.coverage" NAME="6.6.LR Coverage Results" MODIFIED="1499699078234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/6.Data" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$12_3_xgBoost_Wine.coverage" NAME="12.3.xgBoost_Wine Coverage Results" MODIFIED="1499699768011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/12.XGBoost" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$solving_ode_system.coverage" NAME="solving_ode_system Coverage Results" MODIFIED="1493222823274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 11" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$using_a_multiple_layer_network.coverage" NAME="using_a_multiple_layer_network Coverage Results" MODIFIED="1493738660489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 06" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$12_4_xgBoost_ReadData.coverage" NAME="12.4.xgBoost_ReadData Coverage Results" MODIFIED="1499699775725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/12.XGBoost" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$course_2_tf_nn__1_.coverage" NAME="course_2_tf_nn (1) Coverage Results" MODIFIED="1494424435564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/xiaoxiang_deeplearning4/day02" />
-    <SUITE FILE_PATH="coverage/tensorflow_learn$12_1_xgBoost_Intro.coverage" NAME="12.1.xgBoost_Intro Coverage Results" MODIFIED="1499699518303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/12.XGBoost" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$12_1_xgBoost_Intro.coverage" NAME="12.1.xgBoost_Intro Coverage Results" MODIFIED="1499699739635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/12.XGBoost" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$partial_differential_equation.coverage" NAME="partial_differential_equation Coverage Results" MODIFIED="1493214452913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Getting-Started-with-TensorFlow/Chapter 2" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$course_2_tf_nn.coverage" NAME="course_2_tf_nn Coverage Results" MODIFIED="1494341808615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearningCourseCodes" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$Unittests_in_course_7_seq2seq_py.coverage" NAME="Unittests in course_7_seq2seq.py Coverage Results" MODIFIED="1493304224801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearningCourseCodes" />
@@ -118,14 +125,18 @@
     <SUITE FILE_PATH="coverage/tensorflow_learn$8_6_ARIMA.coverage" NAME="8.6.ARIMA Coverage Results" MODIFIED="1499699174246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/8.Regression" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$6_4_PCA.coverage" NAME="6.4.PCA Coverage Results" MODIFIED="1499699054116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/6.Data" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$elasticnet_regression.coverage" NAME="elasticnet_regression Coverage Results" MODIFIED="1493737451806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 03" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$14_6_HandWrittenDigits.coverage" NAME="14.6.HandWrittenDigits Coverage Results" MODIFIED="1499699868028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/14.SVM" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$lin_reg_inverse.coverage" NAME="lin_reg_inverse Coverage Results" MODIFIED="1493737479684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 03" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$5_6_fft.coverage" NAME="5.6.fft Coverage Results" MODIFIED="1499698634972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/5.Package" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$8_5_Boston.coverage" NAME="8.5.Boston Coverage Results" MODIFIED="1499699149581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/8.Regression" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$14_5_unBalance.coverage" NAME="14.5.unBalance Coverage Results" MODIFIED="1499699857210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/14.SVM" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$mofan_013.coverage" NAME="mofan_013 Coverage Results" MODIFIED="1494341119104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daoos_tensorflow" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$word2vec_basic.coverage" NAME="word2vec_basic Coverage Results" MODIFIED="1494513172977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/google_examples/tutorials/word2vec" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$tensors.coverage" NAME="tensors Coverage Results" MODIFIED="1493736801413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 01" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$4_7_Benford.coverage" NAME="4.7.Benford Coverage Results" MODIFIED="1499698566589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/4.Python" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$8_7_roc_auc_intro.coverage" NAME="8.7.roc_auc_intro Coverage Results" MODIFIED="1499699185426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/8.Regression" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$12_2_xgBoost_Predict.coverage" NAME="12.2.xgBoost_Predict Coverage Results" MODIFIED="1499699761001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/12.XGBoost" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$14_1_SVM_intro.coverage" NAME="14.1.SVM_intro Coverage Results" MODIFIED="1499699805241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/14.SVM" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$5_4_gamma.coverage" NAME="5.4.gamma Coverage Results" MODIFIED="1499698618517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/5.Package" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$parallelizing_tensorflow.coverage" NAME="parallelizing_tensorflow Coverage Results" MODIFIED="1493222584772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 10" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$text_distances.coverage" NAME="text_distances Coverage Results" MODIFIED="1493738482096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 05" />
@@ -134,6 +145,8 @@
     <SUITE FILE_PATH="coverage/tensorflow_learn$logistic_regression.coverage" NAME="logistic_regression Coverage Results" MODIFIED="1493737821351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 03" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$mofan_008.coverage" NAME="mofan_008 Coverage Results" MODIFIED="1494341171391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/daoos_tensorflow" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$linear_regression.coverage" NAME="linear_regression Coverage Results" MODIFIED="1493214659646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Getting-Started-with-TensorFlow/Chapter 3" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$12_5_Titanic.coverage" NAME="12.5.Titanic Coverage Results" MODIFIED="1499699782856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/12.XGBoost" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$14_4_ClassifierIndex.coverage" NAME="14.4.ClassifierIndex Coverage Results" MODIFIED="1499699850093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/14.SVM" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$Unittests_in_production_ex_eval_py.coverage" NAME="Unittests in production_ex_eval.py Coverage Results" MODIFIED="1493222592153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 10" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$Kmeans.coverage" NAME="Kmeans Coverage Results" MODIFIED="1493214606383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Getting-Started-with-TensorFlow/Chapter 3" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$operations.coverage" NAME="operations Coverage Results" MODIFIED="1493736702449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 01" />
@@ -163,6 +176,7 @@
     <SUITE FILE_PATH="coverage/tensorflow_learn$production_ex_train.coverage" NAME="production_ex_train Coverage Results" MODIFIED="1493222628538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 10" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$8_4_Iris_LR.coverage" NAME="8.4.Iris_LR Coverage Results" MODIFIED="1499699136139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/8.Regression" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$8_3_ElasticNet.coverage" NAME="8.3.ElasticNet Coverage Results" MODIFIED="1499699116164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/8.Regression" />
+    <SUITE FILE_PATH="coverage/tensorflow_learn$14_3_SVM_draw.coverage" NAME="14.3.SVM_draw Coverage Results" MODIFIED="1499699825665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/14.SVM" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$10_3_DecisionTreeRegressor.coverage" NAME="10.3.DecisionTreeRegressor Coverage Results" MODIFIED="1499699452092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/机器学习/10.RandomForest" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$FVGG_Emo.coverage" NAME="FVGG_Emo Coverage Results" MODIFIED="1493304464131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DeepLearningCourseCodes/Course_5_emotion_vgg_finetune" />
     <SUITE FILE_PATH="coverage/tensorflow_learn$layering_nested_operations.coverage" NAME="layering_nested_operations Coverage Results" MODIFIED="1493737190513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 02" />
@@ -182,103 +196,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="8.8.roc_auc.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/机器学习/8.Regression/8.8.roc_auc.py">
+      <file leaf-file-name="14.1.SVM_intro.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/机器学习/14.SVM/14.1.SVM_intro.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="396">
-              <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+              <caret line="17" column="28" lean-forward="false" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="8.9.roc_auc_iris.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/机器学习/8.Regression/8.9.roc_auc_iris.py">
+      <file leaf-file-name="14.2.decision_function.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/机器学习/14.SVM/14.2.decision_function.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="14.3.SVM_draw.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/机器学习/14.SVM/14.3.SVM_draw.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="14.4.ClassifierIndex.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/机器学习/14.SVM/14.4.ClassifierIndex.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="24" column="26" lean-forward="false" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Advertising.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/机器学习/8.Regression/Advertising.csv">
+      <file leaf-file-name="14.5.unBalance.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/机器学习/14.SVM/14.5.unBalance.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="324">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="10.1.Iris_DecisionTree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/机器学习/10.RandomForest/10.1.Iris_DecisionTree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="51" column="21" lean-forward="false" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
-              <folding>
-                <element signature="e#42#60#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="10.2.Iris_DecisionTree_Enum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/机器学习/10.RandomForest/10.2.Iris_DecisionTree_Enum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="10.3.DecisionTreeRegressor.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/机器学习/10.RandomForest/10.3.DecisionTreeRegressor.py">
+      <file leaf-file-name="14.6.HandWrittenDigits.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/机器学习/14.SVM/14.6.HandWrittenDigits.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="12" column="31" lean-forward="false" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="10.4.MultiOutput_DTR.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/机器学习/10.RandomForest/10.4.MultiOutput_DTR.py">
+      <file leaf-file-name="14.7.MNIST.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/机器学习/14.SVM/14.7.MNIST.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+            <state relative-caret-position="-2739">
+              <caret line="53" column="31" lean-forward="false" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="10.5.Iris_RandomForest_Enum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/机器学习/10.RandomForest/10.5.Iris_RandomForest_Enum.py">
+      <file leaf-file-name="14.8.SVR.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/机器学习/14.SVM/14.8.SVR.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="21" column="28" lean-forward="false" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+            <state relative-caret-position="180">
+              <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="10.6.Bagging.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/机器学习/10.RandomForest/10.6.Bagging.py">
+      <file leaf-file-name="14.9.CV.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/机器学习/14.SVM/14.9.CV.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+            <state relative-caret-position="504">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="12.1.xgBoost_Intro.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/机器学习/12.XGBoost/12.1.xgBoost_Intro.py">
+      <file leaf-file-name="14.10.grid.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/机器学习/14.SVM/14.10.grid.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="14" />
+            <state relative-caret-position="396">
+              <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -305,9 +317,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 08/download_cifar10.py" />
-        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 08/stylenet.py" />
-        <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 09/implementing_rnn.py" />
         <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 09/seq2seq_translation.py" />
         <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 10/implementing_unit_tests.py" />
         <option value="$PROJECT_DIR$/TensorFlow-Machine-Learning-Cookbook/Chapter 10/parallelizing_tensorflow.py" />
@@ -356,6 +365,9 @@
         <option value="$PROJECT_DIR$/机器学习/10.RandomForest/10.1.Iris_DecisionTree.py" />
         <option value="$PROJECT_DIR$/机器学习/10.RandomForest/10.2.Iris_DecisionTree_Enum.py" />
         <option value="$PROJECT_DIR$/机器学习/10.RandomForest/10.5.Iris_RandomForest_Enum.py" />
+        <option value="$PROJECT_DIR$/机器学习/12.XGBoost/12.2.xgBoost_Predict.py" />
+        <option value="$PROJECT_DIR$/机器学习/14.SVM/14.1.SVM_intro.py" />
+        <option value="$PROJECT_DIR$/机器学习/14.SVM/14.7.MNIST.py" />
       </list>
     </option>
   </component>
@@ -559,97 +571,97 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.12.1.xgBoost_Intro">
-    <configuration default="false" name="10.3.DecisionTreeRegressor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.14.10.grid">
+    <configuration default="false" name="14.6.HandWrittenDigits" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/10.RandomForest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/14.SVM" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="tensorflow_learn" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/10.RandomForest/10.3.DecisionTreeRegressor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/14.SVM/14.6.HandWrittenDigits.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="10.4.MultiOutput_DTR" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="14.7.MNIST" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/10.RandomForest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/14.SVM" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="tensorflow_learn" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/10.RandomForest/10.4.MultiOutput_DTR.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/14.SVM/14.7.MNIST.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="10.5.Iris_RandomForest_Enum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="14.8.SVR" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/10.RandomForest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/14.SVM" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="tensorflow_learn" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/10.RandomForest/10.5.Iris_RandomForest_Enum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/14.SVM/14.8.SVR.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="10.6.Bagging" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="14.9.CV" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/10.RandomForest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/14.SVM" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="tensorflow_learn" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/10.RandomForest/10.6.Bagging.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/14.SVM/14.9.CV.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="12.1.xgBoost_Intro" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="14.10.grid" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/12.XGBoost" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/机器学习/14.SVM" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="tensorflow_learn" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/12.XGBoost/12.1.xgBoost_Intro.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/机器学习/14.SVM/14.10.grid.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -804,19 +816,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.10.3.DecisionTreeRegressor" />
-      <item index="1" class="java.lang.String" itemvalue="Python.10.4.MultiOutput_DTR" />
-      <item index="2" class="java.lang.String" itemvalue="Python.10.5.Iris_RandomForest_Enum" />
-      <item index="3" class="java.lang.String" itemvalue="Python.10.6.Bagging" />
-      <item index="4" class="java.lang.String" itemvalue="Python.12.1.xgBoost_Intro" />
+      <item index="0" class="java.lang.String" itemvalue="Python.14.6.HandWrittenDigits" />
+      <item index="1" class="java.lang.String" itemvalue="Python.14.7.MNIST" />
+      <item index="2" class="java.lang.String" itemvalue="Python.14.8.SVR" />
+      <item index="3" class="java.lang.String" itemvalue="Python.14.9.CV" />
+      <item index="4" class="java.lang.String" itemvalue="Python.14.10.grid" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.12.1.xgBoost_Intro" />
-        <item index="1" class="java.lang.String" itemvalue="Python.10.6.Bagging" />
-        <item index="2" class="java.lang.String" itemvalue="Python.10.5.Iris_RandomForest_Enum" />
-        <item index="3" class="java.lang.String" itemvalue="Python.10.4.MultiOutput_DTR" />
-        <item index="4" class="java.lang.String" itemvalue="Python.10.3.DecisionTreeRegressor" />
+        <item index="0" class="java.lang.String" itemvalue="Python.14.10.grid" />
+        <item index="1" class="java.lang.String" itemvalue="Python.14.9.CV" />
+        <item index="2" class="java.lang.String" itemvalue="Python.14.8.SVR" />
+        <item index="3" class="java.lang.String" itemvalue="Python.14.7.MNIST" />
+        <item index="4" class="java.lang.String" itemvalue="Python.14.6.HandWrittenDigits" />
       </list>
     </recent_temporary>
   </component>
@@ -858,8 +870,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1430" y="-11" width="1857" height="1092" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25428414" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25428414" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -902,133 +915,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/google_examples/image_retraining/retrain.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9684">
-          <caret line="290" column="0" lean-forward="false" selection-start-line="290" selection-start-column="0" selection-end-line="290" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/google_examples/label_image/main.cc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8568">
-          <caret line="238" column="17" lean-forward="false" selection-start-line="238" selection-start-column="17" selection-end-line="238" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/google_examples/saved_model/saved_model_half_plus_two.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/google_examples/tutorials/word2vec/word2vec_basic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/google_examples/tutorials/mnist/input_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="10" column="28" lean-forward="false" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-          <folding>
-            <element signature="e#746#784#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/google_examples/tutorials/mnist/mnist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1980">
-          <caret line="61" column="20" lean-forward="false" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/google_examples/tutorials/mnist/mnist_deep.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tensorflow_demo/001study.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="4" column="52" lean-forward="false" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/机器学习/4.Python/4.1.intro.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3600">
-          <caret line="59" column="26" lean-forward="true" selection-start-line="59" selection-start-column="26" selection-end-line="59" selection-end-column="26" />
-          <folding>
-            <element signature="e#83#101#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/机器学习/4.Python/4.2.calc_e.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/机器学习/4.Python/4.3.calc_sin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/机器学习/4.Python/4.4.class_intro.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="24" column="25" lean-forward="false" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/机器学习/4.Python/4.5.pi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="6" column="27" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/机器学习/4.Python/4.6.Ensumble.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/机器学习/4.Python/4.7.Benford.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -1283,7 +1169,7 @@
     <entry file="file://$PROJECT_DIR$/机器学习/10.RandomForest/10.2.Iris_DecisionTree_Enum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
-          <caret line="17" column="27" lean-forward="true" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -1299,7 +1185,7 @@
     <entry file="file://$PROJECT_DIR$/机器学习/10.RandomForest/10.4.MultiOutput_DTR.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <caret line="12" column="11" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
           <folding />
         </state>
       </provider>
@@ -1322,8 +1208,122 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/机器学习/12.XGBoost/12.1.xgBoost_Intro.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="14" />
+        <state relative-caret-position="249">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="e#44#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/机器学习/12.XGBoost/12.2.xgBoost_Predict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/机器学习/12.XGBoost/12.3.xgBoost_Wine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="13" column="31" lean-forward="false" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/机器学习/12.XGBoost/12.4.xgBoost_ReadData.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="15" lean-forward="false" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/机器学习/12.XGBoost/12.5.Titanic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/机器学习/14.SVM/14.1.SVM_intro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="17" column="28" lean-forward="false" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/机器学习/14.SVM/14.2.decision_function.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="17" column="26" lean-forward="false" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/机器学习/14.SVM/14.3.SVM_draw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/机器学习/14.SVM/14.4.ClassifierIndex.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/机器学习/14.SVM/14.5.unBalance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/机器学习/14.SVM/14.6.HandWrittenDigits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/机器学习/14.SVM/14.7.MNIST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2739">
+          <caret line="53" column="31" lean-forward="false" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/机器学习/14.SVM/14.8.SVR.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/机器学习/14.SVM/14.9.CV.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/机器学习/14.SVM/14.10.grid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="15" column="16" lean-forward="false" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
           <folding />
         </state>
       </provider>
