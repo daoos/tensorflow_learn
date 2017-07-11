@@ -8,7 +8,8 @@ import matplotlib.pyplot as plt
 from sklearn.tree import DecisionTreeRegressor
 from sklearn.ensemble import BaggingRegressor
 
-
+# mpl.rcParams['font.sans-serif'] = [u'simHei']
+# mpl.rcParams['axes.unicode_minus'] = False
 def read_data():
     plt.figure(figsize=(13, 7), facecolor='w')
     plt.subplot(121)
@@ -33,8 +34,7 @@ def read_data():
 
 
 if __name__ == "__main__":
-    mpl.rcParams['font.sans-serif'] = [u'simHei']
-    mpl.rcParams['axes.unicode_minus'] = False
+
 
     # read_data()
     data = pd.read_csv('C0904.csv', header=0)   # C0911.csv, C0904.csv
@@ -54,9 +54,9 @@ if __name__ == "__main__":
             abnormal.append(range(i, i+width))
     abnormal = np.array(abnormal).flatten()
     abnormal = np.unique(abnormal)
-    # plt.plot(p, lw=1)
-    # plt.grid(b=True)
-    # plt.show()
+    plt.plot(p, lw=1)
+    plt.grid(b=True)
+    plt.show()
 
     plt.figure(figsize=(18, 7), facecolor='w')
     plt.subplot(131)

@@ -48,8 +48,8 @@ if __name__ == "__main__":
     u_g, sigma_g, v_g = np.linalg.svd(a[:, :, 1])
     u_b, sigma_b, v_b = np.linalg.svd(a[:, :, 2])
     plt.figure(figsize=(10,10), facecolor='w')
-    mpl.rcParams['font.sans-serif'] = [u'simHei']
-    mpl.rcParams['axes.unicode_minus'] = False
+    # mpl.rcParams['font.sans-serif'] = [u'simHei']
+    # mpl.rcParams['axes.unicode_minus'] = False
     for k in range(1, K+1):
         print k
         R = restore1(sigma_r, u_r, v_r, k)

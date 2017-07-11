@@ -7,8 +7,8 @@ import matplotlib.pyplot as plt
 from scipy.special import gamma
 from scipy.special import factorial
 
-mpl.rcParams['axes.unicode_minus'] = False
-mpl.rcParams['font.sans-serif'] = 'SimHei'
+# mpl.rcParams['axes.unicode_minus'] = False
+# mpl.rcParams['font.sans-serif'] = 'SimHei'
 
 
 if __name__ == '__main__':

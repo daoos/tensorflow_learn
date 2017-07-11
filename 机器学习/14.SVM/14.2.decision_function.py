@@ -47,8 +47,8 @@ if __name__ == "__main__":
     y_test = y_test.reshape(x1.shape)
     cm_light = mpl.colors.ListedColormap(['#FF8080', '#A0FFA0', '#6060FF', '#F080F0'])
     cm_dark = mpl.colors.ListedColormap(['r', 'g', 'b', 'm'])
-    mpl.rcParams['font.sans-serif'] = [u'SimHei']
-    mpl.rcParams['axes.unicode_minus'] = False
+    # mpl.rcParams['font.sans-serif'] = [u'SimHei']
+    # mpl.rcParams['axes.unicode_minus'] = False
     plt.figure(facecolor='w')
     plt.pcolormesh(x1, x2, y_test, cmap=cm_light)
     plt.scatter(x[:, 0], x[:, 1], s=40, c=y, cmap=cm_dark, alpha=0.7)

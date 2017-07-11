@@ -16,28 +16,28 @@ if __name__ == "__main__":
     path = 'iris.data'  # 数据文件路径
 
     # # # 手写读取数据
-    # f = file(path)
-    # x = []
-    # y = []
-    # for d in f:
-    #     d = d.strip()
-    #     if d:
-    #         d = d.split(',')
-    #         y.append(d[-1])
-    #         x.append(map(float, d[:-1]))
-    # print '原始数据X：\n', x
-    # print '原始数据Y：\n', y
-    # x = np.array(x)
-    # print 'Numpy格式X：\n', x
-    # y = np.array(y)
-    # print 'Numpy格式Y - 1:\n', y
-    # y[y == 'Iris-setosa'] = 0
-    # y[y == 'Iris-versicolor'] = 1
-    # y[y == 'Iris-virginica'] = 2
-    # print 'Numpy格式Y - 2:\n', y
-    # y = y.astype(dtype=np.int)
-    # print 'Numpy格式Y - 3:\n', y
-    # print '\n\n============================================\n\n'
+    f = file(path)
+    x = []
+    y = []
+    for d in f:
+        d = d.strip()
+        if d:
+            d = d.split(',')
+            y.append(d[-1])
+            x.append(map(float, d[:-1]))
+    print '原始数据X：\n', x
+    print '原始数据Y：\n', y
+    x = np.array(x)
+    print 'Numpy格式X：\n', x
+    y = np.array(y)
+    print 'Numpy格式Y - 1:\n', y
+    y[y == 'Iris-setosa'] = 0
+    y[y == 'Iris-versicolor'] = 1
+    y[y == 'Iris-virginica'] = 2
+    print 'Numpy格式Y - 2:\n', y
+    y = y.astype(dtype=np.int)
+    print 'Numpy格式Y - 3:\n', y
+    print '\n\n============================================\n\n'
 
     # # 使用sklearn的数据预处理
     # df = pd.read_csv(path, header=None)
@@ -98,8 +98,8 @@ if __name__ == "__main__":
     # x4 = np.ones(x1.size) * np.average(x[:, 3])
     # x_test = np.stack((x1.flat, x2.flat, x3, x4), axis=1)  # 测试点
 
-    mpl.rcParams['font.sans-serif'] = [u'simHei']
-    mpl.rcParams['axes.unicode_minus'] = False
+    # mpl.rcParams['font.sans-serif'] = [u'simHei']
+    # mpl.rcParams['axes.unicode_minus'] = False
     cm_light = mpl.colors.ListedColormap(['#77E0A0', '#FF8080', '#A0A0FF'])
     cm_dark = mpl.colors.ListedColormap(['g', 'r', 'b'])
     y_hat = lr.predict(x_test)                  # 预测值

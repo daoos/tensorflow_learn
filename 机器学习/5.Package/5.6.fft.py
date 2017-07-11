@@ -37,8 +37,8 @@ def non_zero(f):
 
 
 if __name__ == "__main__":
-    mpl.rcParams['font.sans-serif'] = [u'simHei']
-    mpl.rcParams['axes.unicode_minus'] = False
+    # mpl.rcParams['font.sans-serif'] = [u'simHei']
+    # mpl.rcParams['axes.unicode_minus'] = False
     np.set_printoptions(suppress=True)
 
     x = np.linspace(0, 2*np.pi, 16, endpoint=False)
@@ -77,7 +77,7 @@ if __name__ == "__main__":
     # x, y = sawtooth_wave(20, 5)
     N = len(y)
     f = np.fft.fft(y)
-    # print '原始频域信号：', np.real(f), np.imag(f)
+    print '原始频域信号0：', np.real(f), np.imag(f)
     print '原始频域信号：', non_zero(f)
     a = np.abs(f / N)
 

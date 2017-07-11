@@ -27,8 +27,8 @@ if __name__ == "__main__":
     y_hat = clf.predict(x)
     print '准确率：%.1f%%' % (np.mean(y_hat == y) * 100)
 
-    mpl.rcParams['font.sans-serif'] = [u'SimHei']
-    mpl.rcParams['axes.unicode_minus'] = False
+    # mpl.rcParams['font.sans-serif'] = [u'SimHei']
+    # mpl.rcParams['axes.unicode_minus'] = False
     cm_light = mpl.colors.ListedColormap(['#77E0A0', '#FFA0A0'])
     cm_dark = mpl.colors.ListedColormap(['g', 'r'])
     x1_min, x1_max = extend(x[:, 0].min(), x[:, 0].max())  # 第0列的范围

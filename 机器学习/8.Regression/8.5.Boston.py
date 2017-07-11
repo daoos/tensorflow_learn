@@ -61,8 +61,8 @@ if __name__ == "__main__":
     print u'均方误差：', mse
 
     t = np.arange(len(y_pred))
-    mpl.rcParams['font.sans-serif'] = [u'simHei']
-    mpl.rcParams['axes.unicode_minus'] = False
+    # mpl.rcParams['font.sans-serif'] = [u'simHei']
+    # mpl.rcParams['axes.unicode_minus'] = False
     plt.figure(facecolor='w')
     plt.plot(t, y_test, 'r-', lw=2, label=u'真实值')
     plt.plot(t, y_pred, 'g-', lw=2, label=u'估计值')

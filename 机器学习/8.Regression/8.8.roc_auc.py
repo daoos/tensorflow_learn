@@ -32,8 +32,8 @@ if __name__ == '__main__':
     fpr = dict()
     tpr = dict()
     auc = np.empty(n_class+2)
-    mpl.rcParams['font.sans-serif'] = u'SimHei'
-    mpl.rcParams['axes.unicode_minus'] = False
+    # mpl.rcParams['font.sans-serif'] = u'SimHei'
+    # mpl.rcParams['axes.unicode_minus'] = False
     plt.figure(figsize=(7, 6), facecolor='w')
     for i, color in zip(np.arange(n_class), colors):
         fpr[i], tpr[i], thresholds = metrics.roc_curve(y[:, i], y_score[:, i])

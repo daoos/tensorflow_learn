@@ -7,8 +7,8 @@ import matplotlib as mpl
 import matplotlib.pyplot as plt
 import warnings
 
-mpl.rcParams['axes.unicode_minus'] = False
-mpl.rcParams['font.sans-serif'] = 'SimHei'
+# mpl.rcParams['axes.unicode_minus'] = False
+# mpl.rcParams['font.sans-serif'] = 'SimHei'
 
 
 def calc_pearson(x, y):
@@ -73,23 +73,25 @@ if __name__ == '__main__':
     x = np.random.rand(N)
     y = np.zeros(N) + np.random.randn(N)*0.001
 
-    # tip = u'二次函数关系'
-    # x = np.random.rand(N)
-    # y = x ** 2 #+ np.random.randn(N)*0.002
+    tip = u'二次函数关系'
+    x = np.random.rand(N)
+    y = x ** 2 #+ np.random.randn(N)*0.002
+    pearson(x, y, tip)
 
-    # tip = u'正切关系'
-    # x = np.random.rand(N) * 1.4
-    # y = np.tan(x)
+    tip = u'正切关系'
+    x = np.random.rand(N) * 1.4
+    y = np.tan(x)
+    pearson(x, y, tip)
 
-    # tip = u'二次函数关系'
-    # x = np.linspace(-1, 1, 101)
-    # y = x ** 2
+    tip = u'二次函数关系'
+    x = np.linspace(-1, 1, 101)
+    y = x ** 2
+    pearson(x, y, tip)
 
-    # tip = u'椭圆'
-    # x, y = np.random.rand(2, N) * 60 - 30
-    # y /= 5
-    # idx = (x**2 / 900 + y**2 / 36 < 1)
-    # x = x[idx]
-    # y = y[idx]
-
+    tip = u'椭圆'
+    x, y = np.random.rand(2, N) * 60 - 30
+    y /= 5
+    idx = (x**2 / 900 + y**2 / 36 < 1)
+    x = x[idx]
+    y = y[idx]
     pearson(x, y, tip)

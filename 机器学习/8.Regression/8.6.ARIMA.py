@@ -26,8 +26,8 @@ if __name__ == '__main__':
     data = pd.read_csv('AirPassengers.csv', header=0, parse_dates=['Month'], date_parser=date_parser, index_col=['Month'])
     data.rename(columns={'#Passengers': 'Passengers'}, inplace=True)
     print data.dtypes
-    mpl.rcParams['font.sans-serif'] = [u'SimHei']
-    mpl.rcParams['axes.unicode_minus'] = False
+    # mpl.rcParams['font.sans-serif'] = [u'SimHei']
+    # mpl.rcParams['axes.unicode_minus'] = False
 
     x = data['Passengers'].astype(np.float)
     x = np.log(x)

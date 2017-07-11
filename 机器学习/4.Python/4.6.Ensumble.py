@@ -26,8 +26,8 @@ if __name__ == "__main__":
         y[i] = bagging(t, 0.6)
         if t % 10 == 9:
             print t, '次采样正确率：', y[i]
-    mpl.rcParams[u'font.sans-serif'] = u'SimHei'
-    mpl.rcParams[u'axes.unicode_minus'] = False
+    # mpl.rcParams[u'font.sans-serif'] = u'SimHei'
+    # mpl.rcParams[u'axes.unicode_minus'] = False
     plt.figure(facecolor='w')
     plt.plot(x, y, 'ro-', lw=2)
     plt.xlim(0,100)

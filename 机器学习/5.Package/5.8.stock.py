@@ -29,8 +29,8 @@ if __name__ == "__main__":
     print poly
     stock_ema_hat = np.polyval(poly, t)
 
-    mpl.rcParams['font.sans-serif'] = [u'SimHei']
-    mpl.rcParams['axes.unicode_minus'] = False
+    # mpl.rcParams['font.sans-serif'] = [u'SimHei']
+    # mpl.rcParams['axes.unicode_minus'] = False
     plt.figure(facecolor='w')
     plt.plot(np.arange(N), stock_close, 'ro-', linewidth=2, label=u'原始收盘价')
     t = np.arange(n-1, N)

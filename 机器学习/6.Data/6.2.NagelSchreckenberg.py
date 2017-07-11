@@ -5,6 +5,8 @@ import numpy as np
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 
+# mpl.rcParams['font.sans-serif'] = [u'SimHei']
+# mpl.rcParams['axes.unicode_minus'] = False
 
 def clip(x, path):
     for i in range(len(x)):
@@ -13,8 +15,6 @@ def clip(x, path):
 
 
 if __name__ == "__main__":
-    mpl.rcParams['font.sans-serif'] = [u'SimHei']
-    mpl.rcParams['axes.unicode_minus'] = False
 
     path = 5000     # 环形公路的长度
     n = 100         # 公路中的车辆数目

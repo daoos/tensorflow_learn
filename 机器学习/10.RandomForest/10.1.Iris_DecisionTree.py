@@ -19,8 +19,8 @@ iris_class = 'Iris-setosa', 'Iris-versicolor', 'Iris-virginica'
 
 
 if __name__ == "__main__":
-    mpl.rcParams['font.sans-serif'] = [u'SimHei']
-    mpl.rcParams['axes.unicode_minus'] = False
+    # mpl.rcParams['font.sans-serif'] = [u'SimHei']
+    # mpl.rcParams['axes.unicode_minus'] = False
 
     path = '../8.Regression/iris.data'  # 数据文件路径
     data = pd.read_csv(path, header=None)
@@ -49,8 +49,8 @@ if __name__ == "__main__":
     dot_data = tree.export_graphviz(model, out_file=None, feature_names=iris_feature_E, class_names=iris_class,
                                     filled=True, rounded=True, special_characters=True)
     graph = pydotplus.graph_from_dot_data(dot_data)
-    graph.write_pdf('iris.pdf')
-    f = open('iris.png', 'wb')
+    graph.write_pdf('./iris.pdf')
+    f = open('./iris.png', 'wb')
     f.write(graph.create_png())
     f.close()
 

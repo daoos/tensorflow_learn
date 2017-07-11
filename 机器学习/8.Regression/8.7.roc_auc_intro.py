@@ -21,8 +21,8 @@ if __name__ == '__main__':
     auc = metrics.auc(fpr, tpr)
     print(metrics.roc_auc_score(y, y_pred))
 
-    mpl.rcParams['font.sans-serif'] = u'SimHei'
-    mpl.rcParams['axes.unicode_minus'] = False
+    # mpl.rcParams['font.sans-serif'] = u'SimHei'
+    # mpl.rcParams['axes.unicode_minus'] = False
     plt.figure(facecolor='w')
     plt.plot(fpr, tpr, marker='o', lw=2, ls='-', mfc='g', mec='g', color='r')
     plt.plot([0,1], [0,1], lw=2, ls='--', c= 'b')

@@ -40,8 +40,8 @@ if __name__ == "__main__":
         print 'e^', x, ' = ', y[i], '(近似值)\t', math.exp(x), '(真实值)'
         # print '误差：', y[i] - math.exp(x)
     plt.figure(facecolor='w')
-    mpl.rcParams['font.sans-serif'] = [u'SimHei']
-    mpl.rcParams['axes.unicode_minus'] = False
+    # mpl.rcParams['font.sans-serif'] = [u'SimHei']
+    # mpl.rcParams['axes.unicode_minus'] = False
     plt.plot(t, y, 'r-', t, y, 'go', linewidth=2)
     plt.title(u'Taylor展式的应用 - 指数函数', fontsize=18)
     plt.xlabel('X', fontsize=15)

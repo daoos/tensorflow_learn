@@ -7,7 +7,8 @@ import matplotlib as mpl
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 
-
+# mpl.rcParams['font.sans-serif'] = [u'SimHei']
+# mpl.rcParams['axes.unicode_minus'] = False
 def lorenz(state, t):
     # print w
     # print t
@@ -34,8 +35,7 @@ def lorenz_trajectory(s0, N):
 
 
 if __name__ == "__main__":
-    mpl.rcParams['font.sans-serif'] = [u'SimHei']
-    mpl.rcParams['axes.unicode_minus'] = False
+
 
     # Figure 1
     s0 = (0., 1., 0.)

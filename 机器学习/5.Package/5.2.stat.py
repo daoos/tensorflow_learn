@@ -48,8 +48,8 @@ if __name__ == '__main__':
     mu, sigma, skew, kurtosis = calc_statistics(d)
     print '函数库计算均值、标准差、偏度、峰度：', mu, sigma, skew, kurtosis
     # 一维直方图
-    mpl.rcParams[u'font.sans-serif'] = 'SimHei'
-    mpl.rcParams[u'axes.unicode_minus'] = False
+    # mpl.rcParams[u'font.sans-serif'] = 'SimHei'
+    # mpl.rcParams[u'axes.unicode_minus'] = False
     y1, x1, dummy = plt.hist(d, bins=50, normed=True, color='g', alpha=0.75)
     t = np.arange(x1.min(), x1.max(), 0.05)
     y = np.exp(-t**2 / 2) / math.sqrt(2*math.pi)

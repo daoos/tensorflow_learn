@@ -39,8 +39,8 @@ if __name__ == "__main__":
     print mse, rmse
 
     t = np.arange(len(x_test))
-    mpl.rcParams['font.sans-serif'] = [u'simHei']
-    mpl.rcParams['axes.unicode_minus'] = False
+    # mpl.rcParams['font.sans-serif'] = [u'simHei']
+    # mpl.rcParams['axes.unicode_minus'] = False
     plt.figure(facecolor='w')
     plt.plot(t, y_test, 'r-', linewidth=2, label=u'真实数据')
     plt.plot(t, y_hat, 'g-', linewidth=2, label=u'预测数据')

@@ -29,8 +29,8 @@ if __name__ == "__main__":
 
     cm_light = mpl.colors.ListedColormap(['#77E0A0', '#FFA0A0'])
     cm_dark = mpl.colors.ListedColormap(['g', 'r'])
-    mpl.rcParams['font.sans-serif'] = [u'SimHei']
-    mpl.rcParams['axes.unicode_minus'] = False
+    # mpl.rcParams['font.sans-serif'] = [u'SimHei']
+    # mpl.rcParams['axes.unicode_minus'] = False
     plt.figure(figsize=(14, 10), facecolor='w')
     for i, param in enumerate(clf_param):
         clf = svm.SVC(C=param[1], kernel=param[0])

@@ -39,8 +39,8 @@ if __name__ == '__main__':
         ['SVM(Linear)', GridSearchCV(SVC(kernel='linear', decision_function_shape='ovr'), param_grid={'C': alpha})],
         ['SVM(RBF)', GridSearchCV(SVC(kernel='rbf', decision_function_shape='ovr'), param_grid={'C': alpha, 'gamma': alpha})]]
     colors = cycle('gmcr')
-    mpl.rcParams['font.sans-serif'] = u'SimHei'
-    mpl.rcParams['axes.unicode_minus'] = False
+    # mpl.rcParams['font.sans-serif'] = u'SimHei'
+    # mpl.rcParams['axes.unicode_minus'] = False
     plt.figure(figsize=(7, 6), facecolor='w')
     for (name, model), color in zip(models, colors):
         model.fit(x, y)

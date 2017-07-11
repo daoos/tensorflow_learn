@@ -8,8 +8,8 @@ from time import time
 from scipy.special import factorial
 import math
 
-mpl.rcParams['axes.unicode_minus'] = False
-mpl.rcParams['font.sans-serif'] = 'SimHei'
+# mpl.rcParams['axes.unicode_minus'] = False
+# mpl.rcParams['font.sans-serif'] = 'SimHei'
 
 
 def top1(number, a):

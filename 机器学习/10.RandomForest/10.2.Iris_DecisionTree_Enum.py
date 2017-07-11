@@ -12,8 +12,8 @@ from sklearn.tree import DecisionTreeClassifier
 iris_feature = u'花萼长度', u'花萼宽度', u'花瓣长度', u'花瓣宽度'
 
 if __name__ == "__main__":
-    mpl.rcParams['font.sans-serif'] = [u'SimHei']  # 黑体 FangSong/KaiTi
-    mpl.rcParams['axes.unicode_minus'] = False
+    # mpl.rcParams['font.sans-serif'] = [u'SimHei']  # 黑体 FangSong/KaiTi
+    # mpl.rcParams['axes.unicode_minus'] = False
 
     path = '../8.Regression/iris.data'  # 数据文件路径
     data = pd.read_csv(path, header=None)

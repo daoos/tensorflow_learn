@@ -34,8 +34,8 @@ if __name__ == "__main__":
         ('Bagging Ridge(%d Degree)' % degree, bagging_ridged),
         ('Bagging DecisionTree Regressor', BaggingRegressor(dtr, n_estimators=100, max_samples=0.2))]
     x_test = np.linspace(1.1*x.min(), 1.1*x.max(), 1000)
-    mpl.rcParams['font.sans-serif'] = [u'SimHei']
-    mpl.rcParams['axes.unicode_minus'] = False
+    # mpl.rcParams['font.sans-serif'] = [u'SimHei']
+    # mpl.rcParams['axes.unicode_minus'] = False
     plt.figure(figsize=(12, 8), facecolor='w')
     plt.plot(x, y, 'ro', label=u'训练数据')
     plt.plot(x_test, f(x_test), color='k', lw=3.5, label=u'真实值')

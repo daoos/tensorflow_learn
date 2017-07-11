@@ -34,8 +34,8 @@ if __name__ == "__main__":
         y[i] = calc_sin(x)
         print 'sin(', x, ') = ', y[i], '(近似值)\t', math.sin(x), '(真实值)'
         # print '误差：', y[i] - math.exp(x)
-    mpl.rcParams['font.sans-serif'] = [u'SimHei']
-    mpl.rcParams['axes.unicode_minus'] = False
+    # mpl.rcParams['font.sans-serif'] = [u'SimHei']
+    # mpl.rcParams['axes.unicode_minus'] = False
     plt.figure(facecolor='w')
     plt.plot(t, y, 'r-', t, y, 'go', linewidth=2)
     plt.title(u'Taylor展式的应用 - 正弦函数', fontsize=18)

@@ -23,6 +23,9 @@ def save_image(im, i):
     output_path = './HandWritten'
     if not os.path.exists(output_path):
         os.mkdir(output_path)
+    plt.title(u'%d.png' % i, fontsize=18)
+    plt.imshow(a)
+    plt.show()
     Image.fromarray(a).save(output_path + ('\\%d.png' % i))
 
 
@@ -62,8 +65,8 @@ if __name__ == "__main__":
     images_test = x_test.reshape(-1, 28, 28)
     print x.shape, x_test.shape
 
-    matplotlib.rcParams['font.sans-serif'] = [u'SimHei']
-    matplotlib.rcParams['axes.unicode_minus'] = False
+    # matplotlib.rcParams['font.sans-serif'] = [u'SimHei']
+    # matplotlib.rcParams['axes.unicode_minus'] = False
     plt.figure(figsize=(15, 9), facecolor='w')
     for index, image in enumerate(images[:16]):
         plt.subplot(4, 8, index + 1)

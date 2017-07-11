@@ -47,8 +47,8 @@ if __name__ == "__main__":
     # print Z
     grid_hat = clf.predict(grid_test)       # 预测分类值
     grid_hat = grid_hat.reshape(x1.shape)  # 使之与输入的形状相同
-    mpl.rcParams['font.sans-serif'] = [u'SimHei']
-    mpl.rcParams['axes.unicode_minus'] = False
+    # mpl.rcParams['font.sans-serif'] = [u'SimHei']
+    # mpl.rcParams['axes.unicode_minus'] = False
 
     cm_light = mpl.colors.ListedColormap(['#A0FFA0', '#FFA0A0', '#A0A0FF'])
     cm_dark = mpl.colors.ListedColormap(['g', 'r', 'b'])

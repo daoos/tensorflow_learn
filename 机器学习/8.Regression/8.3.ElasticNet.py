@@ -58,8 +58,8 @@ if __name__ == "__main__":
             ('linear', ElasticNetCV(alphas=np.logspace(-3, 2, 50), l1_ratio=[.1, .5, .7, .9, .95, .99, 1],
                                     fit_intercept=False))])
     ]
-    mpl.rcParams['font.sans-serif'] = [u'simHei']
-    mpl.rcParams['axes.unicode_minus'] = False
+    # mpl.rcParams['font.sans-serif'] = [u'simHei']
+    # mpl.rcParams['axes.unicode_minus'] = False
     np.set_printoptions(suppress=True)
 
     plt.figure(figsize=(18, 12), facecolor='w')

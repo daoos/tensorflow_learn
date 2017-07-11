@@ -8,8 +8,8 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 from matplotlib import cm
 
-mpl.rcParams['axes.unicode_minus'] = False
-mpl.rcParams['font.sans-serif'] = 'SimHei'
+# mpl.rcParams['axes.unicode_minus'] = False
+# mpl.rcParams['font.sans-serif'] = 'SimHei'
 
 if __name__ == '__main__':
     x1, x2 = np.mgrid[-5:5:51j, -5:5:51j]

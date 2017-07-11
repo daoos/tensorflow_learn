@@ -13,36 +13,36 @@ from pprint import pprint
 
 if __name__ == "__main__":
     path = 'Advertising.csv'
-    # # 手写读取数据
-    # f = file(path)
-    # x = []
-    # y = []
-    # for i, d in enumerate(f):
-    #     if i == 0:
-    #         continue
-    #     d = d.strip()
-    #     if not d:
-    #         continue
-    #     d = map(float, d.split(','))
-    #     x.append(d[1:-1])
-    #     y.append(d[-1])
-    # pprint(x)
-    # pprint(y)
-    # x = np.array(x)
-    # y = np.array(y)
+    # 手写读取数据
+    f = file(path)
+    x = []
+    y = []
+    for i, d in enumerate(f):
+        if i == 0:
+            continue
+        d = d.strip()
+        if not d:
+            continue
+        d = map(float, d.split(','))
+        x.append(d[1:-1])
+        y.append(d[-1])
+    pprint(x)
+    pprint(y)
+    x = np.array(x)
+    y = np.array(y)
 
     # Python自带库
-    # f = file(path, 'r')
-    # print f
-    # d = csv.reader(f)
-    # for line in d:
-    #     print line
-    # f.close()
+    f = file(path, 'r')
+    print f
+    d = csv.reader(f)
+    for line in d:
+        print line
+    f.close()
 
     # # numpy读入
-    # p = np.loadtxt(path, delimiter=',', skiprows=1)
-    # print p
-    # print '\n\n===============\n\n'
+    p = np.loadtxt(path, delimiter=',', skiprows=1)
+    print p
+    print '\n\n===============\n\n'
 
     # pandas读入
     data = pd.read_csv(path)    # TV、Radio、Newspaper、Sales
@@ -52,8 +52,8 @@ if __name__ == "__main__":
     print x
     print y
 
-    mpl.rcParams['font.sans-serif'] = [u'simHei']
-    mpl.rcParams['axes.unicode_minus'] = False
+    # mpl.rcParams['font.sans-serif'] = [u'simHei']
+    # mpl.rcParams['axes.unicode_minus'] = False
 
     # 绘制1
     plt.figure(facecolor='w')

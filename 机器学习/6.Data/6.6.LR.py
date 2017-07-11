@@ -48,8 +48,8 @@ if __name__ == '__main__':
     auc = metrics.roc_auc_score(y_test_one_hot, y_test_one_hot_hat, average='macro')
     print 'Macro AUC:\t', auc
 
-    mpl.rcParams['font.sans-serif'] = u'SimHei'
-    mpl.rcParams['axes.unicode_minus'] = False
+    # mpl.rcParams['font.sans-serif'] = u'SimHei'
+    # mpl.rcParams['axes.unicode_minus'] = False
     plt.figure(figsize=(8, 7), dpi=80, facecolor='w')
     plt.plot(fpr, tpr, 'r-', lw=2, label='AUC=%.4f' % auc)
     plt.legend(loc='lower right')

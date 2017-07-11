@@ -12,6 +12,8 @@ import matplotlib.patches as mpatches
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import PolynomialFeatures
 
+# mpl.rcParams['font.sans-serif'] = u'SimHei'
+# mpl.rcParams['axes.unicode_minus'] = False
 
 def extend(a, b):
     return 1.05*a-0.05*b, 1.05*b-0.05*a
@@ -34,8 +36,7 @@ if __name__ == '__main__':
     print x[:5]
     cm_light = mpl.colors.ListedColormap(['#77E0A0', '#FF8080', '#A0A0FF'])
     cm_dark = mpl.colors.ListedColormap(['g', 'r', 'b'])
-    mpl.rcParams['font.sans-serif'] = u'SimHei'
-    mpl.rcParams['axes.unicode_minus'] = False
+
     plt.figure(facecolor='w')
     plt.scatter(x[:, 0], x[:, 1], s=30, c=y, marker='o', cmap=cm_dark)
     plt.grid(b=True, ls=':')

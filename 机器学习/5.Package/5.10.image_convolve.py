@@ -4,7 +4,8 @@
 import numpy as np
 import os
 from PIL import Image
-
+import matplotlib as mpl
+import matplotlib.pyplot as plt
 
 def convolve(image, weight):
     height, width = image.shape
@@ -23,9 +24,12 @@ def convolve(image, weight):
 
 if __name__ == "__main__":
     A = Image.open("lena.png", 'r')
-    output_path = '.\\Pic2\\'
+    output_path = './Pic2/'
     if not os.path.exists(output_path):
         os.mkdir(output_path)
+    plt.title(u'lena.png-原图', fontsize=18)
+    plt.imshow(A)
+    plt.show()
     a = np.array(A)
     soble_x = np.array(([-1, 0, 1], [-2, 0, 2], [-1, 0, 1]))
     soble_y = np.array(([-1, -2, -1], [0, 0, 0], [1, 2, 1]))
@@ -45,28 +49,34 @@ if __name__ == "__main__":
         print 'B'
         B = convolve(a[:, :, 2], eval(weight))
         I = 255 - np.stack((R, G, B), 2)
-        Image.fromarray(I).save(output_path + weight + '.png')
+        plt.title(u'梯度检测-I值为:%s'%I, fontsize=18)
+        plt.imshow(Image.fromarray(I))
+        plt.show()
+        # Image.fromarray(I).save(output_path + weight + '.png')
 
     # # X & Y
-    # print '梯度检测XY：'
-    # for w in (0, 2):
-    #     weight = weight_list[w]
-    #     print weight, 'R',
-    #     R = convolve(a[:, :, 0], eval(weight))
-    #     print 'G',
-    #     G = convolve(a[:, :, 1], eval(weight))
-    #     print 'B'
-    #     B = convolve(a[:, :, 2], eval(weight))
-    #     I1 = np.stack((R, G, B), 2)
-    #
-    #     weight = weight_list[w+1]
-    #     print weight, 'R',
-    #     R = convolve(a[:, :, 0], eval(weight))
-    #     print 'G',
-    #     G = convolve(a[:, :, 1], eval(weight))
-    #     print 'B'
-    #     B = convolve(a[:, :, 2], eval(weight))
-    #     I2 = np.stack((R, G, B), 2)
-    #
-    #     I = 255 - np.maximum(I1, I2)
-    #     Image.fromarray(I).save(output_path + weight[:-2] + '.png')
+    print '梯度检测XY：'
+    for w in (0, 2):
+        weight = weight_list[w]
+        print weight, 'R',
+        R = convolve(a[:, :, 0], eval(weight))
+        print 'G',
+        G = convolve(a[:, :, 1], eval(weight))
+        print 'B'
+        B = convolve(a[:, :, 2], eval(weight))
+        I1 = np.stack((R, G, B), 2)
+
+        weight = weight_list[w+1]
+        print weight, 'R',
+        R = convolve(a[:, :, 0], eval(weight))
+        print 'G',
+        G = convolve(a[:, :, 1], eval(weight))
+        print 'B'
+        B = convolve(a[:, :, 2], eval(weight))
+        I2 = np.stack((R, G, B), 2)
+
+        I = 255 - np.maximum(I1, I2)
+        plt.title(u'梯度检测XY-I值为:%s' % I, fontsize=18)
+        plt.imshow(Image.fromarray(I))
+        plt.show()
+        # Image.fromarray(I).save(output_path + weight[:-2] + '_XY.png')

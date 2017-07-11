@@ -41,8 +41,8 @@ if __name__ == "__main__":
 
     cm_light = matplotlib.colors.ListedColormap(['#77E0A0', '#FF8080'])
     cm_dark = matplotlib.colors.ListedColormap(['g', 'r'])
-    matplotlib.rcParams['font.sans-serif'] = [u'SimHei']
-    matplotlib.rcParams['axes.unicode_minus'] = False
+    # matplotlib.rcParams['font.sans-serif'] = [u'SimHei']
+    # matplotlib.rcParams['axes.unicode_minus'] = False
     plt.figure(figsize=(10, 8), facecolor='w')
     for i, clf in enumerate(clfs):
         clf.fit(x, y)
