@@ -1,0 +1,67 @@
+原始链接：http://news.163.com/17/0707/07/CONMII200001875P.html
+
+李昌钰:章莹颖仍有生还可能 FBI应尽快找到其下落
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/7/E/U/VANQNENEU.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1707/07/IVYhe9925/SD/IVYhe9925-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+章莹颖仍可能生还？ 神探李昌钰教你如何防绑架
+（来源：original）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+章莹颖仍可能生还？ 神探李昌钰教你如何防绑架
+（来源：original）
+
+法制晚报·看法新闻讯 关心章莹颖案的知名华人律师邓洪6日与华裔神探、美国刑事鉴定专家李昌钰博士就此案讨论，并于今晨向法制晚报·看法新闻记者透露了李昌钰博士对章莹颖案的看法。李昌钰认为章莹颖仍有生还的可能性，FBI 应该全力出动来寻找所有线索，尽快找到章的下落。
+邓洪律师向法晚·看法记者表示，章莹颖案发生时正准备起程到东欧讲学的李昌钰曾在出发前收到伊利诺伊州警刑侦人员的求助请求，李昌钰提供了十点破案建议, 后来FBI 接手处理此案后因为在东欧讲学而没有继续参与此案，不过，因为该案涉及到中国留学生的安全问题，他日前返美后马上通过媒体了解到最新的进展。他表示，虽然嫌犯被逮捕，但是在找到章莹颖下落之前，仍不算破案。
+李昌钰表示，一般绑架案的动机有三大类，一为钱，利用绑架手段来勒索家人以获取到钱财，二为帮派为不法交易而绑架对手以作为交换的手段，三是为满足变态的性需求。在此案中，动机很可能是为了性需求。在性绑架案中，受害者百分之九十是女性，而传统的嫌疑犯特征是白人男性，二十五岁到三十七岁间，高智商，成长过程中在性方面曾受到挫折或被虐待过。
+李昌钰表示，大部分嫌犯将受害人放置在一个隐蔽的地方来作为自己发泄的性奴隶，也有小部分案件是满足性发泄后马上杀死受害者。如果受害者被当作性奴隶掩藏在一个地方，现在嫌犯已被逮捕，除非有人协助他照顾受害者，否则，时间拖延越长，生存的机会就越少，因而警方应该在近日全力去寻找受害者的下落。
+过去五十多年来处理过无数失踪案的李昌钰在寻找失踪人口线索方面作出一些建议，如从嫌犯的汽车使用，加油的次数，加油站的录像，嫌犯手机使用的位置，嫌犯信用卡使用的位置等大数据中划出一个搜索圆圈，从他停留过，工作过，生活过等地方进行仔细的搜索，查看是否有任何密室，地下室，看他是否有驾驶过其它汽车，查看汽车车箱是否存放受害者，调查他是否有租一些仓库空间。
+李昌钰表示，一般这类有性变态行为的绑架人士往往不是一次犯案而已，因而，调查人员必须调查他以往生活以及工作过的地方，了解他的作案方式。而这些犯案人士一般都会有心理问题，他们也会重返现场作为同情人士，一方面是了解案件进情，另一方面会因为警方无法破案而从中获取心理上的快感。
+对于如何自保，李昌钰建议，首先，犯案人士往往会争取到受害者的信任，如声称自己是警察，教授，然后会故意主动提供一些协助，如免费接送，主动买饮料等，千万要防范这些看起来非常好心的行为，坚持要看清他们的证件；其次，不要单独一个人行动，犯案人士往往将目标瞄准一些独行独往的女子；再者，不要轻信陌生人，不要随便进入陌生人或交往不深人士的住家，许多连环杀手都是逐步取得女子或小孩的信任而引到住家或他们已设立好的掩藏地方开始行动的。
+作为美国历史上第一位华裔首席刑事专家，李昌钰是美国警界迄今为止职位最高的亚裔人士。他鉴识过几个全球重大的案件，如肯尼迪总统被杀案、尼克松“水门事件”“9·11事件”等。
+章莹颖案拘留听证会举行 法官拒绝保释申请

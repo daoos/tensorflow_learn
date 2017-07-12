@@ -1,0 +1,167 @@
+原始链接：http://news.163.com/17/0712/06/CP4G5RPS0001875P.html
+
+被撞"暴走团"：道路施工无路走 社会对老人不宽容
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/7/N/Q/VAO7OP0NQ.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1707/12/ZgQrz7239/SD/ZgQrz7239-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+交警回应出租车撞“暴走团”：双方均违法
+（来源：original）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+交警回应出租车撞“暴走团”：双方均违法
+（来源：original）
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/7/M/6/VCO2KEJM6.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1707/10/ojLKP5198/SD/ojLKP5198-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+临沂女司机开车冲进暴走队伍
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+临沂女司机开车冲进暴走队伍
+（来源：~）
+
+山鹰协会会长表示，事发路段正在修路，两侧“路不好走”。受访者供图
+视频显示，一辆出租车冲进暴走团队伍。网络截图
+一支由中老年人组成的晨跑团，出发22分钟后，在距离终点约30米的路段，遭到一辆出租车的冲撞，导致一人死亡，两人受伤。
+临沂“暴走团”事件引发关注。在接受新京报记者采访时，多位亲历者承认存在占用机动车道情形，但强调事发路段正在施工，处于半封闭状态，因而选择“上主路”。而在律师看来，活动的组织者、参与者和肇事司机，均涉违法情形。
+出租车撞晨跑团致一死两伤
+“闪电”怎么也想不起来，那名叫“商利生”（音）的男子，是什么时候，在什么位置加入的晨跑队伍。事实上，在“闪电”看来，晨跑过程中有市民加入，是“常有的事”。
+“闪电”是微信昵称，这名临沂籍中年男子，拒绝向新京报记者透露真实姓名和职业。不过，“闪电”表示，自己是户外组织临沂山鹰运动协会的一名成员，是该组织的“晨跑团长”。
+7月8日早上5点，山鹰“晨跑团”在位于临沂市区的十二路桥集合，三十余名成员，穿着蓝色或粉色的“团服”，排成两列纵队，前往4公里外的十一路桥。
+现场视频显示，晨跑团成员以跑步方式行进在一条四车道的最左侧车道。出发约20分钟后，跑在队伍前列的“闪电”估算了一下，此处距离终点，大约还有30米。
+惨剧突然发生。5点22分，一辆蓝色涂装的出租车，突然出现在晨跑团同向车道的后方，并朝着左前方冲过去，途中，将多名队员撞飞、甩下。
+7月9日，临沂市公安局交警支队直属二大队官微通报，“7月8日5时22分许，临沂市兰山区涑河北街与临西十二路交会东50米发生一起交通事故，出租车驾驶人董某因操作不当，与正在晨练的行人丁某、王某、商某发生碰撞，致使丁某、王某、商某受伤，商某经抢救无效死亡”。
+“闪电”说，死者并非晨跑团固定成员，而是当天“即兴”加入的过路市民，因此并不知道其具体姓名及家庭状况。
+承认占用机动车道
+“不是我们故意要上马路。”山鹰协会会长许贵林解释，晨跑路段正在修路，两侧“路不好走”，而且当时路上车很少，所以晨跑团才会上机动车道。
+现场图片显示，事发道路附近确实有蓝色工程围挡，并立有施工示意图。路牌旁文字标注，“临西十路至十二路之间半封闭施工，临西十二路至西外环路绿化带之间全封闭施工”。
+“闪电”承认队伍占用机动车道，他介绍，队伍沿着这条路晨跑，已经有十多天，“平时没什么车，加上时间也早，所以不觉得有问题。”他回忆，司机冲入人群后并未刹车，“反应很慢”。但“闪电”的这一说法，尚未得到交警部门证实。
+资料显示，事发地附近修建滨河大道的工程于今年6月底开工。临沂交警部门称，由于死亡鉴定书、司机的酒精测试等鉴定结果还没有出来，双方的责任划分暂无结论。临沂交警通报称，事发后，出租车驾驶人董某因涉嫌交通肇事罪被刑事拘留。
+对话
+队伍平时活动“很注意安全”
+涉事的山鹰运动协会秘书长田小雨不喜欢外界用“暴走团”形容这支队伍。她说，尽管成员以中老年为主，但平时“很注意安全”，此事发生后，也并未影响日常活动。
+“中老年占比很大”
+新京报：发生事故的山鹰户外协会，是一个怎样的团体？
+田小雨：团队正式名称叫兰山区户外运动协会，一般都叫山鹰运动协会。这是一个民间组织，只要人在临沂市内，想要参加运动都可以加入。
+新京报：现在的团队是什么规模？
+田小雨：按照登山、徒步、健跑这些不同的项目，分成若干个中队，现在应该有50多个中队了。人数比较多的中队，有超过200人，少的也有几十个，但是没有一个确切的总数。活跃成员过千是应该有的。
+新京报：这些成员都是些什么人？
+田小雨：都是临沂市民，40后、50后到80后都有。总的来说年轻人不多，中老年人占比很大。
+“平时很注意安全问题”
+新京报：平时主要开展什么活动？
+田小雨：一般就是健步跑，场地上会选择附近的广场，或者是河边绿道这种空旷地带。距离上，短的两三公里，长的十公里也有，都比较随意的。
+新京报：活动的流程是怎么样的？
+田小雨：一般来说就是在群里发布一下时间和集合地点，然后到了时间大家自行去参加，没有强制性，所以每次活动的人数都不一样，通常是二三十人一个团。
+新京报：过程中会有什么注意事项吗？
+田小雨：抛开这次，其实平时一直是很注意安全的。比如成员都有团服，而且颜色都是很亮的。过程中有领队，而且只能是女性，这样队伍不至于速度过快。另外，队伍里还有专门的护队、收尾人员。
+“不能简单贴标签”
+新京报：为什么这么多人参与健跑活动？
+田小雨：团员年龄普遍偏大，相比较来说，徒步、健步跑是门槛最低的一种体育运动。
+新京报：如何看待你们被称为“暴走团”？
+田小雨：其实团队从来没有这么称呼过自己。这个词本身是一个外来词，在我看来，“暴走”的速度要求比较高，我们这种速度，不能叫暴走，这么叫不合适。
+新京报：有没有想过，为什么这么多人关注此事？
+田小雨：现在社会上整体对老年人不够宽容，之前发生的一些事情也强化了这种印象。我们这个团队，主要成员都是中老年人，所以也导致了一些关注。团队成员中，既有公务员，也有小商贩，什么行业都有，我们与社会上的人都是一样的，不能只是因为年龄，就贴上标签。
+新京报：以后还会不会开展活动？
+田小雨：目前的团队活动，是一切正常的，以后也会继续举办。
+律师
+“暴走团”司机均涉交通违法
+北京京师律师事务所律师张新年表示，未经许可，任何单位和个人不得占用道路从事非交通活动。“暴走团”擅自占用机动车道，涉嫌道路交通违法。另外，组团扰乱公共交通秩序，亦属治安违法行为，情节严重的甚至可依法追究刑事责任。
+张新年认为，在没有交通信号的道路上，即便暴走团有错在先，司机也应当及时避让，确保安全。如果司机的行为最终被认定为交通肇事罪，将被处三年以下有期徒刑或者拘役，还应当承担民事赔偿责任。
+北京康达律师事务所律师韩骁认为，依据《侵权责任法》第三十七条规定：“群众性活动的组织者，未尽到安全保障义务，造成他人损害的，应当承担侵权责任”。如果能证明活动组织者在路线选择、安全提示等方面未尽到安全保障义务，同样需承担相应的赔偿。
+链接
+交警协调“暴走老人”入校锻炼
+今年六月，有媒体报道称青岛两个老年暴走团，每天早6点后在街上暴走健身，而且走的路线是位于马路中间的超车道。团队里有人高举着旗帜，昂首向前迈步。一些车辆只能慢慢跟在暴走团的后面选择避让。这些老年暴走团有二三十人，主要由中老年人组成。一些大爷大妈掉队后，为了追上队伍，会不顾红绿灯一直向前，不看来往车辆，造成交通安全隐患。
+6月18日，青岛市李沧区交警部门经过协调，“暴走团”可以进入附近学校进行锻炼。
+交警回应"出租车撞暴走团":健跑队与司机均违法
+临沂交警支队11日就“7.8”交通事故接受记者采访时回应，健跑队与出租车司机均存在违法行为。回应中说，7月8日5时22分许，驾驶人董某驾驶的出租车沿临沂市兰山区涑河北街由东向西行驶至临西十二路交汇东50米处时，与正在晨练的“山鹰涑河黎明健跑队”队员发生碰撞，致使丁某、王某、商某受伤，商某经抢救无效死亡。
+暴走队伍占行车道晨练 遭的姐驾车冲撞致1死多伤

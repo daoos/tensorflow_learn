@@ -1,0 +1,64 @@
+原始链接：http://news.163.com/17/0711/22/CP3LODPO0001875P.html
+
+云南镇雄男子被打断多根肋骨 家属:政府的人打的
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/7/V/4/VCO5RUUV4.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1707/11/kbljY3752/SD/kbljY3752-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+云南镇雄一男子被围殴打断多跟肋骨  家属称打人者是镇政府的人
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+云南镇雄一男子被围殴打断多跟肋骨  家属称打人者是镇政府的人
+（来源：~）
+
+云南网讯 近日，一段关于“昭通镇雄打人”的视频在朋友圈流传，视频中一男子被多人殴打。被打者家属称打人的是当地镇政府部门的人，起因是该男子骑摩托车压到了刚划的道路交通线。针对此事，镇雄相关部门回应称正在核查中。
+视频中，在街道上，多名男子手持铲子、锄头、长棍追着一名身穿黑色外套的男子进行殴打，嘴里还在大声叫骂，直至该男子倒在地上。现场有多人围观。
+云南网 了解到，事情发生在镇雄县碗厂镇，被打男子名叫龙安友。其儿子龙克山说，8日下午5点，他父亲做完工骑摩托车到碗厂镇街上购买药品。当时镇政府的工作人员正在路面上划交通线，龙安友的摩托车轮子压在了刚划好的线上，对方立即骂了起来。当龙安友骑着车到下一个路口时，被挡住，对方不仅用矿泉水瓶砸他，还将摩托车扣了。龙安友赶紧到镇政府找人去帮忙解决此事。不料，再次到现场后，就有人对他大打出手，后来十多人带着水管、铲子、竹子一起殴打他。
+龙安林和龙安明是龙安友的堂兄弟，当天两人在附近买东西，听到消息后，马上跑过去，“打了两次，最开始是三个人，后来他们又叫来了十几个人。”龙安林说，当时他们想劝架，没想到也被打，他身上被打了几处伤痕，“打我哥的就是政府里面的工作人员，其中有政府计生办、残疾办的人，在一个镇上大家都认识。”
+其家人出示的由镇雄县人民医院开具的的诊断报告书显示，龙安友的左右2根肋骨骨折，同时还有3根肋骨陈旧性骨折复发等多处骨伤。7月10日下午4点，家人陪着龙安友来到镇雄县南城派出所，等待做伤检报告。
+龙克山说，9日晚上，镇政府的工作人员来看望过他父亲，让他“好好养伤”，并未提及打人者怎么处理。

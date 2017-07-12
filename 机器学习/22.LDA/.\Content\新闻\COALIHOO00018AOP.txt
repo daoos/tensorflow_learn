@@ -1,0 +1,101 @@
+原始链接：http://news.163.com/17/0702/05/COALIHOO00018AOP.html
+
+章莹颖案律师:家人很悲伤 希望给嫌犯最严厉的死刑
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/6/P/D/VCLS5QAPD.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1706/13/dMBep0970/SD/dMBep0970-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+中国女生在美离奇失踪，失联前被黑色Saturn Astra 接走
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+中国女生在美离奇失踪，失联前被黑色Saturn Astra 接走
+（来源：~）
+
+嫌疑人曾用手机访问一个网站论坛，并发布帖子，标题是询问“一次完美的诱拐”是什么样。
+美国司法部提供的材料显示，嫌疑人为克里斯滕森。
+美国司法部于北京时间昨日凌晨发布消息，美国联邦调查局探员认为在美国失踪了20余天的中大女毕业生章莹颖已经死亡，警方逮捕了28岁的嫌疑人克里斯滕森，他被控绑架章莹颖。该嫌疑人目前与章莹颖在同一所学校攻读博士学位，并曾担任助教。
+义务为章莹颖家人提供法律咨询的芝加哥华人律师王志东向南都记者表示，章莹颖的父亲很悲伤，希望给嫌疑人以最严厉的刑罚：死刑，章家希望能尽快找到章莹颖，带她回家。
+事发三天后找到涉事车辆
+根据美国司法部提供的材料显示，嫌疑人名叫克里斯滕森，今年27岁，是与章莹颖同校(伊利诺伊大学香槟分校)的物理学在读博士生，他是伊利诺伊州香槟地区(学校所在地)人。
+目前该嫌疑人已经被起诉，将于当地时间7月3日在法庭进行第一次聆讯。章莹颖的父亲及亲属、中国驻芝加哥领事馆、伊利诺伊大学都已经被告知克里斯滕森被捕。
+章莹颖于今年4至5月间在美国伊利诺伊大学香槟分校就读，当地时间6月9日中午，章莹颖用手机向当地一处公寓的一名房产经理发送了一条短信，原计划去签租约。在发给房产经理的短信中，章莹颖表示，她可能会迟到10分钟左右，预计在当日14时10分到达。
+当日13时56分，章莹颖被拍摄到试图叫停一辆M T D公交车，而该辆公交车从章莹颖身边驶过，没有停下。14时04分，嫌疑人驾驶着黑色轿车出现在了监控里，在经过27秒的交谈后，章莹颖上了这辆黑色轿车，至此失踪再没能联系上。
+6月12日，警方搜索了伊利诺伊州车辆的数据库，寻找在伊利诺伊州注册、符合监控录像里描述的车辆，本次搜索共找到了18辆注册在当地的同款轿车，警方通过其他公共数据库搜索进一步缩小了范围，并随后对这些车辆以及车主进行了询问。
+6月12日20时10分左右，警官访问嫌疑人的住所，并在其公寓停车场里发现了一辆伊利诺伊州牌照为P 399495的2008年款黑色土星轿车，根据车辆数据库，嫌疑人就是这辆车的拥有者。
+嫌疑人车辆破损终露馅
+随后，警方盘问了嫌疑人，但嫌疑人表示在事发当天自己在家里睡觉或者打游戏，根本没有出去过。他也允许警方搜查车辆，遗憾的是，当天警方在车里没有搜到任何有价值的线索。
+6月14日，经过对监控视频进一步分析发现，嫌疑人的车辆有天窗，而且右前轮轮胎保护盖上有处破损。随后，警方返回了嫌疑人住所，并且确认这辆车也在右前轮保护盖有破损，这与监控录像中的车辆高度吻合。正是这条重要的信息，让联邦调查局确定涉事车辆。
+6月14日，美国伊利诺伊州中部地区联邦法院批准了一项搜查令，批准在嫌疑人车辆里寻找章莹颖失踪时身上的物件，包括痕迹等证据。6月15日，嫌疑人接受了警方的问讯，并表示曾在当天开车的过程中，发现有一名亚裔女性背着背包站在街角，神色很焦急。
+嫌疑人与章莹颖简单交谈后得知章莹颖快迟到了，表示可以载她一程，随后章莹颖就上了他的车，在车上还给他用手机导航软件演示了要去的地方。嫌疑人表示，后来因为自己“转错了弯”导致章莹颖开始惊恐，然后他就让章莹颖下了车。
+嫌疑人曾在网上发帖询问如何“诱拐”
+6月15日，联邦调查局探员申请到了联邦搜查令，开始检查嫌疑人持有的手机。经过查询，在今年4月29日左右，该手机访问了网站一个论坛，并发布帖子，标题是询问“一次完美的诱拐”是什么样。
+6月15日，依照搜查令，联邦调查局探员搜查了嫌疑人的车辆。并于三天后将车辆运送到了联邦调查局春田办公室。
+根据联邦调查局的详细调查，嫌疑人的车辆上章莹颖坐过的副驾驶位置，曾经有清洗过的痕迹，根据联邦调查局经验判断，这是一种试图隐瞒和摧毁证据的行为。
+从2017年6月16日起，执法部门开始对嫌疑人进行监视，并监听他的一切活动。
+6月29日，嫌疑人在一段音频记录上被发现曾提到了他如何绑架了章莹颖。嫌疑人表示他将章莹颖带回了他的公寓，并违反她的意愿，在他的公寓里囚禁了她。
+直到2017年6月30日，章莹颖仍处于失踪状态。基于此情况，和其他在调查过程中发现的事实，联邦调查局认为，章莹颖已经遇害，而涉嫌绑架章莹颖的嫌疑人就是克里斯滕森。
+声音
+美方校长：将举行纪念活动
+根据嫌疑人克里斯滕森的社交账号显示，他目前与章莹颖在同一所学校攻读博士学位，还曾担任过助教，他在威斯康辛麦迪逊大学读完四年本科，获得物理学士学位后，还曾于2012-2013年在瑞士担任研究助理。从瑞士回来后，于2013年开始在伊大担任研究生助教，职责是指导和管理大约20名学生，他负责监督、评分以及监考。
+从2014年1月起，他一直在学校担任博士生研究员。
+章莹颖的学校伊利诺伊大学香槟分校校长琼斯于北京时间7月1日上午发布了一封措辞悲伤的公开信，信中表示：“无法解释为何会发生如此可怕的事情，未来的几天，我们将迎来正义和公平。明天晚上，学校将举行纪念活动，无论你来自哪里，这一刻请与学校在一起。”
+“请让我们一起，同章莹颖的家人一起，度过这个艰难的时刻。”校长琼斯说。
+律师呼吁华人参加第一次聆讯
+美国司法部门将于当地时间7月3日，在伊利诺伊州联邦地区法院开始第一次聆讯，当地律师呼吁华人一起参加本次聆讯，并呼吁有投票权的华人能争取进入陪审团。目前他们已经组织起来，对7月3日的相关活动进行筹备。
+“第一次聆讯一般是决定是否给嫌疑人取保候审。对案件的细节应该不会涉及，如果没有准予取保候审，嫌疑人会继续被联邦执法机关所控制。越多华人到场，面对法官，会给予其压力，拒绝嫌疑人取保候审。如果都是白人陪审团，显然会对嫌疑人有倾向。”伊利诺伊州的律师郭先生告诉南都记者。
+据了解，在警方公布了嫌疑人被捕的信息后，伊利诺伊州当地的华人律师已经组织起来，他们将制作标语口号，在7月3日去法庭参加第一次聆讯，本次出庭将决定是否给嫌疑人取保候审。律师郭先生两年前从章莹颖所在的这所学校毕业，并顺利拿到了律师执业资格。他对南都记者说，现在章莹颖还下落不明，
+根据美国司法机关提供的案件细节披露，嫌疑人曾经把章莹颖绑架到他的公寓里，且汽车的副驾驶座位被清洗过。对此，律师郭先生说：“联邦调查局认定凶多吉少，但我觉得只要没有尸体，我就认定她还活着，活要见人，死要见尸。”
+章家：希望尽快找到章莹颖
+绑架章莹颖的嫌疑人在美国被捕后，南都记者专访了义务为章莹颖家人提供法律咨询的芝加哥华人律师王志东，他表示，章莹颖的父亲目前很悲伤，希望给嫌疑人最严厉的刑罚：死刑。同时家人希望能尽快找到章莹颖，带她回家。
+据王志东透露，受害者与犯罪嫌疑人并不认识，而章莹颖平时警惕性很高，但比较“路痴”，可能因为迷路又赶时间，情急之下才上了陌生人的车。
+根据警方提供的消息，7月3日，嫌疑人将会到法庭进行第一次聆讯。王志东透露，这次聆讯主要内容是询问犯罪嫌疑人是否认罪，有可能谈及“是否会取保候审”，但对于这样一个案子，法庭可能会对保释金设置得很高，或者不允许取保候审。
+王志东表示，7月3日的聆讯程序会相当短，因为从案件本身来讲，有三个最重要的要素：找车、找嫌疑人、找受害人，现在前两项已经完成，寻找受害人不会需要太长时间。
+“对于取保候审，法官在裁定的时候，一个很重要的根据就是，这个人有可能伤害到其他人。本案的嫌疑人，检方会想办法证明这种可能性(对其他人有伤害)是很大的，检方肯定不同意嫌疑人取保候审，不过最终怎么裁定，还不好说。”王志东说。
+按照目前对嫌疑人起诉的“绑架罪”，根据美国联邦法律，因绑架导致被绑架者死亡，可被判死刑。不过嫌疑人所在地是伊利诺伊州，该州没有死刑。
+“检方以联邦法来起诉罪犯，而不是以伊利诺伊州法来起诉，相信是经过一番斟酌的，这说明检方正在寻求最严厉的刑罚来惩罚罪犯。”王志东说。
+对于章莹颖是否已经死亡，王志东对南都记者说：“按照我知道的情况，他们现在并没有找到尸体，但基本已经判断死亡。按照美国这边的惯例，如果这件事情不是很确定，他们大概也不会这样讲。”

@@ -1,0 +1,71 @@
+原始链接：http://news.163.com/17/0712/10/CP4UHPAC0001899N.html
+
+女子疑滴滴司机下迷药突然跳车 网上公布司机信息
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/7/U/I/VCO75NBUI.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1707/12/pilck7512/SD/pilck7512-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+怀疑滴滴司机下迷药跳车，女乘客发朋友圈投诉
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+怀疑滴滴司机下迷药跳车，女乘客发朋友圈投诉
+（来源：~）
+
+金华兰溪的郑师傅是名滴滴专车司机。7月9日晚上，他接了一单生意，开到半路，女乘客突然跳下车。第二天，他发现女乘客发了微信朋友圈，说他在车里放了迷药。
+女乘客跳下车，司机也迷糊了
+郑师傅说，9号晚上9点半左右，接到了一笔订单，从金华兰溪余店村西侧到安居苑，乘客是一位年轻的姑娘，拖着一个行李箱。
+郑师傅：“在那个开出500米的时候，她突然间，因为我那个车是雪弗兰的，是老款的，没有自动上锁的，她开了门以后，就往外跳，我吓死了，就立马刹车了。”
+郑师傅说，车子停下之后，女乘客跑回车里，拎了行李箱就跑了。突然发生的这一幕，让郑师傅一阵迷糊。回到车里，郑师傅赶紧拨通了乘客的电话。
+郑师傅：“再我马上就跟她沟通了，她在电话里跟我说，还有你这种男人的，你是不是在车里放迷药了，她说发现自己头越来越晕，但是我自己还好啊。”
+师傅报了警，女乘客发了朋友圈？
+郑师傅越想越不对劲，当场报了警。经过民警检查，郑师傅车上并不存在任何迷药或者违禁品的成分。本以为事情就过去了，第二天，郑师傅发现，那名女乘客将事情发到了微信朋友圈，还配上了他的滴滴信息和电话。
+郑师傅：“污蔑我，我在这个兰溪，至少在这个金华地皮上怎么混的下去，因为我毕竟是做服务行业的，这个事情我也不是说让她怎么样，赔偿我损失，那现在负面影响先帮我消除掉。”
+民警没有发现问题
+记者找到了郑师傅当时报案的兰溪云山派出所，民警介绍，当天确实对郑师傅的车进行过检查，没有发现问题，接下来，他们会帮助双方进行调解。随后，记者联系了滴滴出行的工作人员。
+滴滴出行公关部 管吴澄：“按她（乘客）自己的描述，是感觉司机不像好人，就选择了一个时间跳车，乘客也承认将司机的个人信息，发布到微信朋友圈，也并没有相关迷药的证据。”
+滴滴方面表示，他们会配合当地的派出所，尽可能将这件事情妥善处理。

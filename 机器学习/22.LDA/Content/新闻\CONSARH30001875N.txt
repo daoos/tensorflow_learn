@@ -1,0 +1,76 @@
+原始链接：http://news.163.com/17/0707/08/CONSARH30001875N.html
+
+辽宁舰今晨抵达香港 市民:作为中国人好开心
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/7/T/A/VCNQHSETA.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1707/07/Xxguq4070/SD/Xxguq4070-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+惊不惊喜！彩虹桥迎接辽宁舰驶入香港，画面太美！
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+惊不惊喜！彩虹桥迎接辽宁舰驶入香港，画面太美！
+（来源：~）
+
+2017年7月7日，香港，中国首艘航空母舰辽宁舰，今日清晨已经驶抵香港最南端岛屿蒲台岛南面海域。多艘船只在蒲台岛以南水域排成一线，并闪亮红灯引领，形成一条航道。ANTHONY WALLACE /视觉中国
+据报道称，辽宁舰来港掀起全港热潮。7日一早就有市民在海旁等候，希望亲眼目睹辽宁舰雄姿。鸭脷洲晨运客陈先生表示，航母访港令人振奋，显示国家海军力量强大、进步。他希望日后有第2及第3艘航母来港。
+另一名市民黎女士说，航母编队访港，感到十分高兴，她希望今日天气转晴，令更多市民可目睹其风采。
+辽宁舰编队抵港后，将首度对外开放，报道称，周六(8日)至下周日(9日)，辽宁舰及其三艘属舰于将向公众开放，让市民登舰参观。
+解放军驻港部队较早时间公开派发合共2000张参观券，专供香港永久性居民参观，由于一票难求，掀起排队热潮，有关参观券于短时间内一扫而空。
+图为辽宁舰。
+图为前来参观的市民。
+香港东网7月7日报道称，万众期待的中国首支航空母舰辽宁舰编队，今日清晨已经驶抵香港最南端岛屿蒲台岛南面海域。多艘船只在蒲台岛以南水域排成一线，并闪亮红灯引领，形成一条航道。有香港市民表示，航母显示中国的强大，作为中国人感到好开心。
+东网报道称，辽宁舰来港，掀起全港热潮，今晨一早就有市民在海旁等候，希望亲眼目睹辽宁舰雄姿。鸭脷洲晨运客陈先生表示，航母访港令人振奋，显示国家海军力量强大、进步。他希望日后有第2及第3艘航母来港。另一名市民黎女士说，航母编队访港，感到十分高兴及光荣，她希望今日天气转晴，令更多市民可目睹其风采。
+鸭脷洲居民陈先生对航母访港感到振奋
+黎女士表示，对舰队访港感到高兴和光荣。
+康先生专程到瀑布湾公园观看辽宁舰
+在华富邨瀑布湾公园晨运的郑婆婆，对辽宁舰访港表示好开心，代表重视香港。市民康先生今晨专程到瀑布湾公园，希望近距离看见辽宁舰，他表示航母显示中国的强大，作为中国人感到好开心。市民余女士亦觉得中国拥有航母足见国家强大。
+辽宁舰编队抵港后，将历史性首度对外开放。
+报道称，周六(8日)至下周日(9日)，辽宁舰及其三艘属舰于将向公众开放，让市民登舰参观。解放军驻港部队较早时间公开派发合共2000张参观券，专供香港永久性居民参观，由于一票难求，掀起排队热潮，有关参观券于短时间内一扫而空。
+济南舰现身
+银川舰现身
+烟台舰现身

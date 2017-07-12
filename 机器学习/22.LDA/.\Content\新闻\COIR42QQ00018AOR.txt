@@ -1,0 +1,72 @@
+原始链接：http://news.163.com/17/0705/09/COIR42QQ00018AOR.html
+
+男子地铁拒让座并抢夺拍摄手机:做了1天志愿者太累
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/7/H/1/VCNL2ATH1.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1707/05/LkhsB0005/SD/LkhsB0005-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+上海地铁一男子称太累未让座引纠纷，警方已调解处理
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+上海地铁一男子称太累未让座引纠纷，警方已调解处理
+（来源：~）
+
+如果下班路上很累，你还会让座吗？
+近日，有网友发帖称，上海地铁上有一年轻男子因上班太累为由，拒绝给抱小孩的妇女让座，还抢夺乘客拍摄的手机。随后，该男子回应称，原本是想让座的，但乘客再三指责让他很气愤，因此赌气不让。
+7月4日，澎湃新闻记者从上海轨交公安获悉，事发后，该男子接受了警方讯问，称当天是去做志愿者，一天下来也很累，所以没有主动让座。对于抢他人手机的行为，他已向当事人道歉。最后，警方就此次事件中各个当事人进行了调解处理。
+上海地铁运营方有关负责人表示，应该倡导乘客文明有序乘车，礼貌让座、礼貌出行。
+不过，网友对此事的看法不一，观点分正反两派。正方认为，小伙子健健康康，理应给抱幼儿的妇女让座。反方则表示，上班族也很累，年轻人也有体力透支的时候，不应把“让座”当成一种道德绑架。
+网友称年轻小伙地铁不让座。 本文图片均来自网络
+近日，网友发帖称，6月30日下午4点20分左右，上海地铁9号线开往七宝方向的地铁上，一热心大妈劝一小伙让座给抱幼儿上车的女乘客。该男子拒绝让座，并表示自己也站了很久，很累。随后，周围乘客表示，不让座也就算了，还要强词夺理。结果男子拿出手机对着热心阿姨拍摄。旁边乘客想把他的行径拍下，男子还面带笑容对镜头比“耶”。不久后，指控男子不让座的原微博被删除。
+当事小伙儿事后给出回应：他原本收拾耳机准备让座的，大妈再三指责下，他就赌气不让了。
+网友上传的视频显示，地铁上有一男子坐在座位上不肯让，旁边的阿姨指责道：“他反过来和我说，我上班十几个小时，谁来照顾我，居然讲这种话，那么我把你抱在手上好吗？”一旁的乘客也纷纷指出：“你还拍人家阿姨干什么呢？”随后，该男子对着乘客的拍摄镜头，面露笑容比出“耶”的手势。还有现场目击者称，当时该男子突然抢了对面姑娘的手机。被几个男士按倒之后说了一串外语，其中听到了骂人的话。
+该小伙还表示，当时老太太拿出手机要拍他，他的怒火实在忍不住，才拿出手机想装个样子反击。
+随后，视频中的男子对此事做出了回应。
+7月1日，该男子发微博称，他原本收拾耳机准备让座的，这时大妈就开始说他这不是那不是，说得他很气愤，就赌气不让了。
+同日，有疑似该男子的朋友发微博澄清，称被拍男子脾气不差，盗拍还面带笑容。另外，其实是被拍男子被抢手机，同时，还附上一张视频中男子被抢手机时被挠伤的照片。而且视频中也没看到他坐在爱心专座上，发布视频的人就是想找事情。
+疑似被拍男子的朋友发微博澄清。

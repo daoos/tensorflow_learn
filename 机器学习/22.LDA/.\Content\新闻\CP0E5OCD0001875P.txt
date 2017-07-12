@@ -1,0 +1,81 @@
+原始链接：http://news.163.com/17/0710/16/CP0E5OCD0001875P.html
+
+暴走队伍占行车道晨练 遭的姐驾车冲撞致1死多伤
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/7/M/6/VCO2KEJM6.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1707/10/ojLKP5198/SD/ojLKP5198-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+临沂女司机开车冲进暴走队伍
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+临沂女司机开车冲进暴走队伍
+（来源：~）
+
+7月8日清晨，临沂一出租车司机因操作不当，开车冲进暴走队伍，造成一死两伤。这起事故距7月1日夜市区滨河西路与广州路交会处南行车道上轿车撞死步行的一对夫妇，刚好一周。
+据交警情况通报称，7月8日5时20分许，位于兰山区涑河北街与临西十二路交会东50米处发生一起交通事故。接警后，临沂市公安局交警支队直属二大队事故处理中队迅速赶赴事发现场。经过现场调查：事故发生于7月8日5时20分许，出租车驾驶人董某驾驶鲁QT***2号出租车，沿涑河北街由东向西行驶至临西十二路交会东50米处时，因操作不当，与正在晨练的行人丁某、王某、商某发生碰撞，致使丁某、王某、商某受伤，其车辆部分损坏的道路交通事故。商某经抢救无效死亡。
+目前，出租车驾驶人董某因涉嫌交通肇事罪现已被刑事拘留。事故正在进一步调查之中。
+车祸现场
+暴走团，健身？扰民？
+每当清晨夜幕，健身的市民就多了起来，其中暴走健身颇受市民欢迎。据了解，暴走团普遍排着整齐队列在道路上快步疾走，多是几十人的队伍，主要由中老年人组成，统一着装，挎着腰包式播放器，喊着口号，场面蔚为壮观。记者调查发现，暴走健身虽异常火爆，但市民对此却褒贬不一。
+支持者：暴走强身健体让生活充满激情
+“我现在每天晚上都暴走，身心更健康了。”经常暴走的张女士告诉记者，自从她加入暴走队伍以来，真切体会到暴走带来的变化，“一方面提高了身体素质，一方面释放了生活中的压力，这也是我每天坚持暴走的原因。”
+“刚开始走的时候，只有四五个好友，现在我加入的这个暴走团，少的时候五六十人，多的时候高达两三百人，队伍就像一列火车，一路上风景无限。”加入暴走团坚持五年的刘先生说，加入暴走团之前，他身体不好，还有重度脂肪肝，现在不仅体重降了，连脂肪肝都变成轻度的了，“天天9公里的暴走，伴着动感的音乐，暴走队员们一路向前激情无限。一个多小时的运动时间非常享受，运动带来了快乐，暴走不仅锻炼身体，也让平淡的生活充满了激情。”
+有个别暴走团不遵守交通规则，甚至逆行占据行车道（视频截图）。
+反对者：暴走团噪音扰民，还不遵守交规
+“我个人不反对健身，但当一群人每天从你家附近时不时喊着口号经过时，还是让人烦。”家住市区火车站附近的张先生说，“我们附近的居民已经多次和暴走团进行了沟通，还向相关部门反映。可到目前为止，事情还是没有得到很好的解决。”
+“有些暴走团成员竟在机动车道上暴走，甚至是逆行！”市民张先生告诉记者，暴走团有些成员是老人，难免会掉队，为了追上队伍，有些人会不顾红绿灯一直向前，有时还不避让来往车辆，存在一定的交通安全隐患。
+网友“竟然去摘桃了”表示，暴走健身是好事，但不应在公路上穿行，“有次有个暴走团成员还用警示棒砸我的车，我停车质问，结果上来好几个人围攻我，我一没超速，二没违反交通规则。他们却随意横穿马路，不走人行道，不看交通灯，不走斑马线，谁给他们的权利？就因为‘人多力量大’？”
+不管晨练还是夜跑 务必遵守交通规则
+据了解，近期，我市连续发生几起交通事故，都是道路上市民锻炼和机动车发生的碰撞，交警工作人员介绍，清晨和傍晚天色较暗的时候，人的身体反应能力较弱，视力和听力都不好，遇到突发情况不能迅速反应。还有的市民有不少不良交通习惯，比如过马路时犹犹豫豫，给驾驶员造成错位感；有的甚至在锻炼时倒着走路，非常容易发生车祸，“驾驶员潜意识里觉得早上和晚上车少、行人少，极易引发事故。”
+采访中，交警部门表示，因为锻炼发生交通事故的案件中，还是以夜跑居多。如何安全夜跑？交警部门建议首先是避开雾霾天；其次，最好有同伴。如果找不到同伴，尽量选择小区或者学校的跑道，女孩最好不要单独夜跑。
+“无论是晨练还是夜跑的市民，尽量避开道路，穿上颜色鲜艳的衣服，并且务必遵守交通规则。夜跑时衣服颜色要鲜艳，最好带有反光条。锻炼的路线最好要有路灯，还要注意观察，不要急停、急转，按照交通标识行走，这样可以大大降低事故几率。”工作人员介绍，“超过晚上9点，路上车速会相对较快，危险系数增加，而且温度也低，不利于健康。”
+另据华西都市报： 
+【#暴走团占主路暴走遭撞#致1死2伤 女司机：大意了】7月8日，山东临沂一“暴走团”占据主路内侧车道行走，一辆出租车从后方撞入人群，致1死2伤。肇事女出租车司机董某称“大意了”。有网友质疑，“暴走团”在机动车道上行走，应承担部分责任。临沂警方通报称，司机董某现已被刑拘。
+相关链接
+暴走不是人人适合 晨练不是越早越好
+为减肥，每天暴走上万步，扬州35岁的沈女士结果患上了“跟痛症”。据骨科专家介绍，“跟痛症”的发生，与骨骼的劳损和退化有密切关系，患上“跟痛症”后，长路不能走。

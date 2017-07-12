@@ -1,0 +1,98 @@
+原始链接：http://news.163.com/17/0706/13/COLQS74800018AOP.html
+
+湖南一看守所副所长被判刑:带嫌犯K歌 纵容其吸毒
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/7/9/0/VANPD3D90.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1707/07/mkJuH5021/SD/mkJuH5021-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+带3嫌犯外出K歌，湖南一看守所副所长被判刑
+（来源：original）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+带3嫌犯外出K歌，湖南一看守所副所长被判刑
+（来源：original）
+
+法制晚报讯 将三名犯罪嫌疑人带出看守所监区，一起到KTV唱歌;放纵牢头狱霸，导致其平日里在监室为所欲为;其监管的多名在押人员还可以用民警手机长期与外界联系，从而将毒品带进看守所内吸食。
+《法制晚报》记者独家获悉，湖南省湘西土家族苗族自治州中级法院终审以滥用职权罪、玩忽职守罪终审判处原湖南省凤凰县看守所副所长张杰宇有期徒刑3年。
+湖南一看守所副所长
+带仨嫌犯上KTV
+张杰宇从2015年3月起担任凤凰县看守所副所长，分管管教岗，主管10号、11号监室，其主要工作职责包括对监室进行安全检查，及时清理监室内违禁品，及时检查监室秩序等。
+2015年3月25日，吉首市经开区党工委原书记易榕(副处级)因涉嫌受贿，被纪委立案审查并采取“两规”措施。2015年5月，易榕被移送司法机关处理，5月24日19时许，张杰宇明知易榕是处于侦查阶段的犯罪嫌疑人，故意趁酒意以谈话名义将11号监室在押人员易榕、龙林辉、向卫民带出监区。
+凤凰县看守所教导员麻某得知张杰宇想带在押人员出监后进行劝阻，但张杰宇不听劝告。在凤凰县看守所监区外交谈约半小时后，张杰宇提出带三人到KTV唱歌。张杰宇还把电话交给了易榕，易榕打电话叫其姑姑田某赶至凤凰县城。
+随后，张杰宇、易榕等人搭乘一辆出租车赶至一家KTV。进入包厢后，张杰宇等人相继喊了一些陪酒小姐一起唱歌。不久田某和易榕妻子赶至KTV包厢与易榕见面，三人躲在KTV包厢的厕所内进行了长达十余分钟的谈话。易榕与其配偶等人违规见面，严重妨碍侦查机关刑事诉讼活动，导致侦查机关无法继续查清易榕涉嫌的其他犯罪事实。
+民警手机成纽带
+嫌犯看守所内吸食冰毒
+判决书显示，张杰宇疏于管理监室，没有履行好对监室的安全检查职责。龙林辉、龙田丰等在押人员，自2015年5月至8月，多次通过非法持有的手机或者通过看守所其他民警与外界联系，利用民警传递生活物品夹带用于吸食的冰毒。每次吸食冰毒持续时间都在半个小时以上，有时持续近两个小时。
+吴俊波作为凤凰县看守所协警，从事巡视监控工作。2015年8月11日上午，凤凰县看守所11号监室在押人员龙林辉、龙田丰等人想吸食冰毒，就请正在巡视的吴俊波给龙田丰的朋友张某打电话，让张某帮忙准备好拖鞋、香烟，交给吴俊波带入监室内。
+吴俊波同意二人请求，并收受2包黄芙蓉王香烟。当晚，在看守所监控室值班的吴俊波离开看守所，从张某处取得了准备送给龙田丰的物品。未经收押民警登记、检查，擅自将龙田丰朋友带来的物品带入监区，并在11号监室监门上面的岗楼观察口直接将一双白色拖鞋和香烟扔给了龙林辉。
+龙林辉和龙田丰接到鞋子后，从每只拖鞋的脚后跟处各取出一小包冰毒。8月11日至13日，龙林辉、龙田丰等人在监室内吸食冰毒。
+纵容狱霸管理监室人员
+致一在押人员被打身亡
+此外，张杰宇还使用11号监室在押人员龙林辉管理其他监室人员，龙林辉在监室内发展在押人员龙田丰等人成为打手，还责令其他在押人员相互殴打、逼其他在押人员喝尿等侮辱人格的方式取乐。2015年8月18日，谭祖兴因未完成生产任务，龙林辉安排他人用脚踢、踩谭祖兴脑袋，用拖鞋打耳光，持续殴打至8点14分左右。8点30分左右，值班民警吴俊波发现谭祖兴伤势严重，将其送往医院抢救。9点30分，谭祖兴抢救无效死亡。
+凤凰县看守所副所长 张杰宇
+违规带在押人员进入监区外娱乐场所
+犯滥用职权罪、玩忽职守罪，获刑3年
+凤凰县看守所协警 吴俊波
+违规将外界物品传递给在押人员 犯滥用职权罪，获刑2年，犯玩忽职守罪，免予刑事处罚
+凤凰县看守所值班人员
+吴黎智、龙成东、张汉清
+擅离职守
+犯玩忽职守罪，免予刑事处罚
+事发时值班民警看电视
+有人擅离职守提前下班
+根据相关规定，监区应实施24小时巡视监控制度，凤凰县看守所采取两班倒(白班和晚班)，2015年8月17日晚8点至18日8点，当班巡视监控值班人员是龙成东、张汉清，2015年8月18日早上8点至晚上8点，巡视监控值班人员为吴黎智、吴俊波。
+在值班过程中，龙成东与张汉清违反规定，私自内部交接，一人巡视一段时间，在休息室休息一段时间。8月18日3时，龙成东与张汉清进行内部交接班后，离开监控室去了休息室。值班期间，张汉清没有对所有监室的监控进行认真查看，还玩手机、看电视。
+张汉清接班后不久，坐在监控室的椅子上睡到7点，7时55分与吴俊波交接班。龙成东则在早上7点40分左右提前下班。吴俊波清点了各监室的人员情况后，便看电视、玩手机，不认真看监室监控视频。
+案发后，凤凰县人民检察院电话通知凤凰县公安局纪委，要求公安局纪委将五人送至凤凰县人民检察院接受调查。(法制晚报公众号：fzwb_52165216)
+法院：严重损害司法机关声誉
+造成恶劣社会影响
+经过审理，法院认为，张杰宇身为国家机关工作人员，在担任凤凰县监室管教民警期间，违规带在押人员进入监区外娱乐场所，并放任在押人员在外违规与家属见面，严重妨碍了侦查机关的刑事诉讼活动，造成恶劣的社会影响。其不认真履行职责，疏于管理在押人员，并培养、放纵牢头狱霸，导致一名在押人员被同监在押人员殴打致死，及其所监管的在押人员多次与外界联系传递毒品、多名在押人员长期吸食毒品的严重后果，严重损害了司法机关的声誉，造成恶劣的社会影响。
+吴俊波身为合同制民警超越其工作职责，违规将外界物品传递给在押人员，龙成东、吴黎智身为国家机关工作人员，张汉清身为合同制民警，在依法执行巡视、监控工作期间，未按规定认真履行职责，致使监室发生了一名在押人员被同监人员殴打致死的严重后果。
+法院还认定，凤凰县看守所在巡视监控方面长期由一名民警和一名协警搭配组成，严重违反了《看守所执法细则》。超负荷工作，看守所违规操作、管理不严，牢头狱霸的存在，监控设备陈旧，这些是案件发生的客观原因。
+最终，法院以滥用职权罪、玩忽职守罪判处张杰宇有期徒刑3年，另外4人也被分别判刑。
+被告人上诉 称事发期间不当班
+一审判决后，张杰宇、吴俊波不服，提出上诉。张杰宇上诉认为，不应以玩忽职守罪追究其个人责任，称他在谭祖兴被殴打致死期间不当班，对牢头狱霸不知情，从未指使龙林辉管理其他在押人员及允许在押人员殴打同监室人员，谭祖兴死亡与自己无直接因果关系。

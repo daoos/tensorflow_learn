@@ -1,0 +1,75 @@
+原始链接：http://news.163.com/17/0712/14/CP5CVB2A0001899N.html
+
+87岁袁隆平飚英语上热搜 网友:老爷子还有这技能
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/7/J/M/VCO7JRNJM.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1707/12/lcwyY2312/SD/lcwyY2312-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+袁隆平飚英语：87岁的袁隆平院士全程飚英语演讲你听过吗？
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+袁隆平飚英语：87岁的袁隆平院士全程飚英语演讲你听过吗？
+（来源：~）
+
+中国青年网北京7月12日电 (记者) 社会化媒体时代，翻看微博热搜榜成了许多网友每天的“必修课”。在娱乐八卦类讯息霸屏榜单的今天，中国青年网记者在热搜榜单上看到了一股清流：“袁隆平飚英语”，同时搜索量达到近20万。
+7月12日新浪微博热搜榜。 网络截图
+这一关键词之所以成为热搜，源于中国青年网昨天发布的一条短视频：7月11日，在第十届海外高层次人才座谈会暨海外院士青岛行“雁栖湖论坛”中，全国政协常委、中国工程院院士、美国科学院院士袁隆平以流利英语完成了一次长达20分钟的演讲。87岁的袁老用全英文向世界介绍超级杂交水稻，获赞无数。截至7月12日中午12时，该视频累计观看量已破亿。
+在演讲伊始，袁老谦虚地说“I speak broken English”，然而在接下来的发言中，几乎未见停顿或错误。他卓越的科技贡献和精彩的演讲内容获得了现场观众数次热烈的掌声。
+袁隆平院士在第十届海外高层次人才座谈会暨海外院士青岛行“雁栖湖论坛”中发言。 中国青年网记者 李拓 摄
+袁隆平在演讲中谈到：
+It is expected that 60% more rice should be produced in 2030 than that in 1995. Currently, 1 ha. for rice production provides food for 27 people. By 2050, 1 ha. will have to support 43 people.(据估计，2030年全球水稻产量应比1995年增加60%以上才能基本满足人类需求。目前每公顷所产稻谷能养活27人，但到2050年，每公顷所产稻谷必须要养活43人才行。)
+If 50% of the conventional rice is replaced by hybrid rice, and estimating on a 2 t/ha yield advantage of hybrid rice, it is estimated that the total rice production in the world will be increased by another 150 million tons, which can feed 400 million more people each year.
+(如果全球有一半的常规水稻面积改种杂交水稻，按每公顷增产2吨稻谷估算，则全球可增产1.5亿吨粮食，这相当于每年可多养活4亿人。)
+这些与杂交水稻有关的数据，恐怕没有谁比袁老更清楚了吧。“用英文介绍杂交水稻，不止是英语要好，还要懂很多专业术语!”有网友在看完袁老的演讲视频后，幽默地点赞：“袁老的谦虚是真谦虚，我的谦虚是真心虚啊。”
+在现场聆听袁老的全英文演讲，中国青年网记者深受震撼。当记者把袁老“飚英文”的视频传上社交网络，随即被千万网友点赞转发。网友@安拉娅KAspring感叹：他在农业上的贡献真的太大了，养活了几代人!网友@Jiuers青年则竖起了大拇指：没想到老爷子还有这项隐藏技能!
+网友们纷纷在微博评论中向袁老表达敬意。 网络截图
+在点赞“袁氏英文”的同时，我们依然记得，2016年，86岁高龄的袁隆平再一次向世界发起了挑战——种出“海水稻”，增产粮食500亿公斤，多养活约2亿人!
+本该“颐养天年”的年龄，袁隆平却依然奔走在田野中，做着自己的“禾下乘凉梦”。
+袁隆平曾说到他有两个梦：一个是禾下乘凉梦。我的梦里水稻长得有高粱那么高、子粒有花生米那么大。另外一个梦想就是，我希望我的亩产1000公斤早日实现，实现了以后还有没有更高的目标呢?我希望培养一些年轻人向更高的一千一、一千二百公斤来奋斗。这就是我的梦，为我们国家的粮食安全做出我应有的贡献。
+他说，“我的梦想很简单”，而事实证明，这简单的梦想却解决了世界亿万人口的吃饭问题。据不完全统计，全世界有二十二亿五千万亩水稻，2013年中国的杂交稻在印度、越南、菲律宾、美国、巴西等国家推广的面积有九千多万亩，平均亩产量比当地优良品种高出二百六十斤左右。
+国际友人称颂这位“当代神农氏”培育的杂交水稻是中国继指南针、火药、造纸、活字印刷之后，对人类作出的“第五大贡献”。

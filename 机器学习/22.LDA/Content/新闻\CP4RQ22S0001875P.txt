@@ -1,0 +1,90 @@
+原始链接：http://news.163.com/17/0712/09/CP4RQ22S0001875P.html
+
+小孩商场玩小火车被卡住 未被及时发现不治身亡
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/7/4/R/VCO72I24R.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1707/12/nPbDy4131/SD/nPbDy4131-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+一儿童在游乐园玩耍时被游乐设施卡住不治身亡
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+一儿童在游乐园玩耍时被游乐设施卡住不治身亡
+（来源：~）
+
+7月11日，一段某儿童游乐园的2分钟监控视频在多个家长群及朋友圈传开，引发热议。视频中，一名小孩在玩耍过程中爬上“小火车”行驶“轨道”，不慎卡在其中，而小孩身旁的家长及周围其他人均未能及时发现。事后，小孩不治身亡。
+11日下午3时许，成都商报客户端记者在红光派出所见到视频中小孩的家人，家属正与游乐园商家及商场管理方协商处理。下午5时许，各方达成一致，不过对于具体赔偿标准家属表示无法透露。
+对于这一悲剧，事发游乐园现场多名商家表示，目前正处于假期，家长带孩子游玩时应当尤为重视安全，相关游乐园商家也应做好防护措施。
+▲监控视频截图
+事发
+小孩游乐园玩耍被卡 监控录下全程
+11日，一段2分钟的监控视频在网上热传。
+视频中，一位阿姨带着一名小孩在一游乐园“小火车”上玩耍，“小火车”转了几圈后，小孩开始伸手，示意要从“小火车”上下来，接着，阿姨顺势将小孩抱了下来。而后，小孩跑向一旁的其他游乐设施前，阿姨也跟了过去。
+1分15秒，小孩再次跑向另一游乐设备，阿姨则在原处转过身相望;
+1分32秒，小孩回到之前玩的“小火车”并开始往上爬，而此时画面中的阿姨则处于背身相对状态;
+1分38秒，小孩刚刚爬上“轨道”，身后的“小火车”正好驶来，小孩随之被卡在其中;
+直到2分01秒，背着身的阿姨才转过身来，或许是处于视线盲区，发现孩子不在后，阿姨急忙向外走，准备寻找，与被卡的小孩擦身而过……
+在小孩被卡整个过程中，现场还有另外3人，不过都处于背身状态，未察觉小孩被卡。
+现场视频：
+探访
+事发游乐园拉起警戒 已暂停营业
+随后，成都商报客户端记者依照视频来源找到事发游乐园。该儿童乐园位于郫都区红光镇龙城国际一家商场二楼。整个乐园面积达百余平方米，事发的“小火车”位于乐园最左侧角落。目前，整个儿童乐园外围均拉上了一根红色警戒线，处于暂停营业状态。
+▲事发现场
+成都商报客户端记者从游乐园相邻的多个商家及商场管理方工作人员处了解到，事发时间为7月8日晚9时30分许，当事小孩不到2岁。
+小孩被卡难道没有发出任何哭闹声音吗?据一名现场商家介绍，的确未留意到小孩是否发出声音，“后来这个阿姨还出来找了一圈，最后好像是其他人发现的”。
+▲事发游乐园已停业
+处理
+家属商家管理方三方调解 达成一致
+根据游乐园现场传单上留下的商家电话，成都商报客户端记者多次拨打试图与其取得联系，不过电话均无人接听。随后，记者又找到商场管理方了解此事，一名招商部工作人员回应，目前此事正在红光派出所进行调解，在没有结果前暂不接受采访。
+随后，成都商报客户端记者赶到红光派出所。此时，派出所调解室内，多名家属与商家及商场管理方正在相关部门协调下就此事进行协商。
+成都商报客户端记者在外等候期间，几名小孩家属走出调解室。据家属介绍，事发时间为7月8日晚，小孩还不到2岁，对于孩子的突然离去，深感悲痛。现场一名家属表示，对于此事，各方都有责任，家属或许存在照看不到位的情况，但商家如果及时发现就不会酿成悲剧，而商场管理方也有对商家管理不力的连带责任。而对于当晚的事发详情，家属表示还需看协调情况才能回答，让记者“再等一等”。
+下午5时许，一名家属走出调解室表示，目前三方已经达成一致，对于赔偿各方均无异议，对于具体赔偿标准无法透露，并表示不想再多谈此事。
+呼吁>>>
+假期到来，安全不容忽视，游乐园应做好防护
+对于这一悲剧，事发游乐园现场多名商家表示，目前正处于假期，家长在带孩子游玩时应当尤为重视安全，相关游乐园商家也应该做好防护措施。
+“孩子离开了，对谁都很痛心，我们心情也不好受，这件事中其实现场照看的家属是有疏忽责任的，而商家如果有人巡查，能够及时发现被卡的小孩，也能让这起悲剧避免。”一名受访商家介绍。
+“在游乐设施的护理上也应该多用心，一旦发现有人被卡，这类小儿游乐设施是不是能自动停止运转呢?”另一商家表示，“如果设施能够及时停下，就可减少对小孩的伤害”。

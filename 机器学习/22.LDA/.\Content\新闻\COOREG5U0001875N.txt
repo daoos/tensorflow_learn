@@ -1,0 +1,81 @@
+原始链接：http://news.163.com/17/0707/17/COOREG5U0001875N.html
+
+著名“姐妹花”与高官勾连 姐姐干的事让人吃惊
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/7/A/O/VANRQF2AO.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1707/08/EtzSO6136/SD/EtzSO6136-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+3D：姐妹花与高官勾连 姐姐干的事让人吃惊
+（来源：original）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+3D：姐妹花与高官勾连 姐姐干的事让人吃惊
+（来源：original）
+
+山西“首虎”、山西省人大常委会原副主任金道铭被宣判9个月后，与他有“特定关系”的“姐妹花”姐姐，日前在江苏省镇江市中级人民法院受审。
+6日，江苏省镇江市中级人民法院一审公开开庭审理了被告人胡昕受贿、非法经营一案。
+据检察院指控：2010年至2011年，胡昕作为金道铭（已判刑）的特定关系人，接受山西文峰焦化科技有限公司实际控制人孔庆智、经办人赵海斌的请托，与金道铭共谋，利用金道铭担任中共山西省委常委、省纪委书记、省委副书记等职务上的便利，为山西文峰焦化科技有限公司参与兼并重组整合谋取利益，帮助山西汾西正城煤业有限责任公司分立采矿权、实行分区开采的方案通过审批。
+“政事儿”注意到，胡昕受贿罪、非法经营罪的涉案金额，共达15亿多元之巨，这个数目着实让人吃惊。
+其中，2010年5月至2011年初，胡昕先后收受孔庆智、赵海斌给予的人民币1亿元。
+此外，胡昕于2009年下半年，以其实际控制的山西奥科新得信息技术有限公司建设山西数字矿山信息化技术研发基地项目为名，取得山西省太原高新技术产业开发区工业（科研）用地使用权，至2012年6月，在该地块上建成嘉名国际大厦。
+期间，胡昕将该科技项目用楼定位为高端商务写字楼并对外预售，以每平方米人民币1.73万元至1.78万元不等的单价将该大厦出售，得款人民币20.799亿余元。经鉴定，违法所得人民币14.763亿余元。
+“政事儿”注意到，审判胡昕的江苏省镇江市中级人民法院，也是金道铭的受审之地。
+金道铭是十八大后山西落马的“首虎”，于2014年2月落马。去年10月，其因受贿1.23亿元，被判处无期徒刑。
+在中纪委对其双开的通报中，问题描述只有34个字：利用职务上的便利为他人谋取利益，索取、收受巨额贿赂；收受礼金礼品；与他人通奸。
+在金道铭落马一个月后，其在山西官场的“白手套”——时年37岁的女商人胡昕、和胡磊一起被查。当时，胡昕胡磊被多家媒体指称为姐妹，均为金道铭的情人。
+曾与胡昕有过生意往来的人告诉媒体，“胡昕的个子不高，就一米六多一点，身材苗条。她很有气质，很干练，做生意也很有气场。在我们面前，她从来没有挑明过跟金道铭之间的关系，只称跟金是‘老乡’，说她自己是辽宁大连人，金道铭是辽宁朝阳人”。
+那么，傍上金道铭的胡昕，究竟有何能力？
+据报道，胡昕生于1977年。早年间，胡昕在山西做网络工程、信息通讯等“小生意”。2006年8月，金道铭从北京调到山西，出任省委常委、省纪委书记。当时，胡昕与金道铭还不认识。
+在2008至2009年间，胡昕、胡磊被介绍进入太原的政商圈，并与金道铭结识。
+其后，两人操控7家企业大举倒卖土地、涉足煤炭资源整合、承揽政府电子工程，令资本快速套现。经营胡氏企业的，除了胡昕、胡磊，还有胡昕的父母。
+7日，“政事儿”查询了解到，胡昕为实际控制人、妹妹胡磊为企业法人、父亲胡祥俊为企业监事的山西奥科新得信息技术有限公司，目前已处于注销状态。
+同时，胡昕家族直接控制的十余家公司，也已多数处于注销和吊销状态。
+“政事儿”注意到，今年热播的反腐电视剧《人民的名义》中，剧中“白手套”女商人高小琴和妹妹高小凤，作为高官的情人，周旋于汉东省官场，依靠权力集团攫取了巨额财富。据媒体分析，高小琴这一角色的现实原型，正是胡昕。
+图为电视剧《人民的名义》中的高小琴?
+与之相印证的是，山西商界人士，也曾对胡昕的财富崛起作出评价：“主要有两个原因。我们都知道胡昕背后是金道铭，一些人是为了讨好胡昕，求她办事。另一方面，我们也不敢惹她，万一她害我们一下呢？”
+此外“政事儿”注意到，起诉书中叙述胡昕的身份时，用了“金道铭的特定关系人”这一措辞。
+中纪委曾于2007年5月印发《关于严格禁止利用职务上的便利谋取不正当利益的若干规定》，其中显示，特定关系人是指“与国家工作人员有近亲属、情妇(夫)以及其他共同利益关系的人”。

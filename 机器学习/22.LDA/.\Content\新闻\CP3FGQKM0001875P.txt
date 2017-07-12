@@ -1,0 +1,70 @@
+原始链接：http://news.163.com/17/0711/20/CP3FGQKM0001875P.html
+
+男子约女网友开房遇"仙人跳" 未动手被敲诈8万多
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/7/6/M/VAO5LUI6M.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1707/11/wZjKP7452/SD/wZjKP7452-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+男子约女网友开房遭遇“仙人跳” 什么都没干被敲诈8万多
+（来源：original）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+男子约女网友开房遭遇“仙人跳” 什么都没干被敲诈8万多
+（来源：original）
+
+男青年小何是广东人，近期来大连出差，住在一家宾馆内。6月21号凌晨，他在网上认识了一位美女，本以为会有一场艳遇，没想到却掉进了陷阱，自己成了“猎物”，被抢走了8万多元钱。
+小何告诉记者，当天凌晨，他在网上跟一位女网友聊天，两人相约出去吃宵夜，对方询问他在哪家宾馆住，说要到宾馆来找他。凌晨3点50分左右，那名女子如约前来。
+小何说，她就进来了房间，她就坐在床边，我就坐在我的电脑桌，没多久，她说打电话。打电话的时候出去打的。开门的瞬间，她就跑了，然后四个男的，就冲进了房间。
+四名男子二话不说，先打了小何一顿，说刚才那名女子是他们的朋友，被小何给欺负了，必须给钱作为赔偿。小何这才意识到，那位女网友和这四名男子是一伙的，他掉进了几人设计好的“仙人跳”陷阱。
+小何说，几个人就围着我，说这事怎么整。就一直在说，怎么搞，你说。然后，把我的行李，手机、银行卡全部搜出来了。然后就对我的手机进行了各种转账，包括里面的支付宝、微信，所有的钱全被转走，总共金额是8万4千多。
+几名男子将钱转走后，又控制了小何将近3个小时，直到早上7点多才离开。小何立即报了警，白山路公安派出所对此案展开侦查。民警调取了小何所住宾馆的监控录像，发现当天凌晨，一辆遮挡号牌的吉普车，将那名女子送到了宾馆。
+白山路公安派出所副所长孙玉江介绍，女性犯罪嫌疑人下车，进入酒店。3点55分37秒，女性犯罪嫌疑人进入房间。3点59分40秒，4名犯罪嫌疑人进入房间。
+女子从进入房间到离开，前后只有4分钟时间。监控录像显示，另外四名男子离开宾馆时，有两人乘坐开来的那辆吉普车驶离，另外两人打了一辆出租车。
+警方沿途调取了监控录像，并查询了出租车的轨迹，发现犯罪嫌疑人在火车站附近一酒店内落脚。
+当天下午6点多，办案民警来到这家酒店，一举端掉了这个犯罪团伙。现场搜出了2万元赃款。
+除了参与抢劫小何的5人外，民警还在这家酒店内抓获了另外一名团伙成员，此人参与实施了其他抢劫案。经调查，犯罪嫌疑人李某、张某、赵某等6人，今年都20岁左右，黑龙江人，是朋友关系。几人交代，他们在网上学到了这种“仙人跳”的手段，觉得来钱挺快，决定合伙作案。几人6月15号来到大连，轮流上网聊天，寻找被害人，团伙中唯一的女犯罪嫌疑人赵某，负责与被害人相约见面。
+赵某成功进入被害人房间后，其他几名男子就在门外等候，伺机进屋敲诈勒索，勒索不成就动手抢。

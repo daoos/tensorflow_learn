@@ -1,0 +1,73 @@
+原始链接：http://news.163.com/17/0705/19/COJS0QIA00018AOR.html
+
+陕西一家7口遭捆绑后房屋被强拆 警方介入调查
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/7/I/V/VANMJQDIV.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1707/06/tEFRe1591/SD/tEFRe1591-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+现场：陕西西乡一家7口遭捆绑强拆房屋 警方介入调查
+（来源：original）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+现场：陕西西乡一家7口遭捆绑强拆房屋 警方介入调查
+（来源：original）
+
+7月2日报道，陕西汉中西乡县，网友“Aliyyah_Wang”在论坛发帖反映：“今早（7月1日）七点把吴家房子强拆了，房子全挖了东西全埋，把一家人大人打伤很严重，小娃全拿胶带绑起来，把反抗说话的人用胶带把嘴全封起，看着很残忍。”图文：华商网 西乡宣传
+对此，陕西省西乡县委宣传部则发帖表示：7月1日早，一群操外地口音的男子擅自闯入西乡县城北街道前锋社区吴某家，将其砖混结构房屋损毁。事件发生后，在妥善安置受害人居住、生活和医疗救助的同时对事件开展调查和侦破。目前政府已租赁一套住房免费提供给受害人居住，并帮助购置了必要的生活用品和米面油等物品，同时安排民政所进行临时救助。
+图为强拆现场，男子被胶带捆绑。
+图为强拆现场。
+图为强拆现场。
+图为网友发图。
+新京报快讯 日前，陕西省汉中市西乡县吴某某家及家人遭到捆绑后，房子被强拆，此事在网上引发关注。新京报记者今天从陕西省汉中市西乡县委宣传部获悉，经初步查明，拆迁公司赵某在拆除吴某某房屋的过程中，与吴某某发生冲突，遂指挥其他人员，将吴某某等7人拖出房外，用塑料带或胶带绑住，并用挖掘机将吴某某家房屋拆除。目前，公安机关已经介入调查。
+吴某某的妹夫李少城告诉新京报记者，7月1日上午6时许，他接到电话，得知姐夫的家遭到不明人士强拆。李少成称，接到电话10分钟后，他到达现场，发现有多名手持木棍的人围在现场，有挖掘机正在拆房子，而在拆迁现场附近，他的家属几人遭到捆绑，躺在地面上无法动弹。其中，有的家属的嘴巴被胶带紧紧缠着。
+据李少成介绍，早2014年，岳父及姐夫的家被划入拆迁区域，但由于补偿条件没谈妥，房子迟迟没有拆掉。
+今天下午，该县委宣传部一名工作人员回复新京报记者称，吴某某的家确实在2014年被划入拆迁范围，房屋面积为301平方米。该工作人员称，按补偿条例，吴某某的房子拆迁后，可得到4套房(共计500余平)的补偿和9.6万的拆迁补偿款，“但是他们家要求补偿5间门面，4套商品房，4个车位和120万元的装修费，价值约合900万元以上。”于是，双方迟迟没有谈妥。
+下午6时许，西乡县委宣传部针对此事发布官方通报称，7月1日6时52分，西乡县公安局110指挥中心接群众报警：有人在前锋社区四组打架。指挥中心立即指令城内派出所出警。
+民警于7时6分到达现场，发现前锋社区四组吴某某家房屋被拆除，在地基东侧约20米远处，吴某某夫妻及其弟弟、母亲、两个女儿和侄女共7人分别坐在或倒地哭喊，其中吴某某俩兄弟被用塑料带绑住手脚，吴某某还被用胶带缠绕封嘴，其母、其妻被用塑料带或胶带绑住。民警给上述人员松绑被拒，遂联系120救治，急救车到现场后，吴某某等人拒绝接受诊治。
+事件发生后，县公安局成立专案组开展调查。现初步查明：东关片区属于棚户区改造项目，该项目由庆华公司承担，从2015年2月启动，具体由庆华公司下属的东关片区项目部负责。
+截止目前有6户未达成拆迁补偿协议，吴某某房屋属于此范围，项目部经理张某某将6户的拆迁委托给西乡县和坤动迁工程公司赵某承担。6月30日，赵某在拆迁与吴某某相邻的养猪场过程中，与吴某某发生纠纷。次日6时许，赵某召集工人到吴某某家准备实施拆除。在此过程中，吴某某向赵某等人抛扔燃烧物，并持刀挥舞，致赵某员工曹某腹部受伤;赵某遂指挥其他人员，将吴某某等7人拖出房外，用塑料带或胶带绑住，并用挖掘机将吴某某家房屋拆除。目前，公安机关已对赵某等4人采取强制措施。
+县卫计局、县医院对伤者进行积极治疗。据了解，伤者有一人肋骨骨折，其他人软组织挫伤。目前，医院正观察治疗，伤者病情平稳。相关部门到医院看望慰问。

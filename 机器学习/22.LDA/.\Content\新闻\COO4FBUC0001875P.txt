@@ -1,0 +1,89 @@
+原始链接：http://news.163.com/17/0707/11/COO4FBUC0001875P.html
+
+摔断玉镯女游客录视频公开道歉 表示会负责赔偿
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/7/J/U/VCNQB4PJU.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1707/07/OeNrg7018/SD/OeNrg7018-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+摔断30万玉镯女游客道歉：我一定会赔偿
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+摔断30万玉镯女游客道歉：我一定会赔偿
+（来源：~）
+
+江西游客在瑞丽失手摔断手镯现场晕倒的新闻在全国都引发了很高的关注度， 此前也一直在报道：
+碎了!30万玉镯没拿稳!晕了!江西女游客当场倒地!
+被摔碎的玉镯值18万元!当地宝玉石协会做出了估价……
+失手摔玉镯晕倒事件追踪：江西女游客接受采访 细说事发经过!
+事件时间线：
+1
+6月27日上午
+上午自由行游客费女士自行前往瑞丽市姐告玉城游览。期间，在试戴手镯的时候，不慎将卖家林先生叫价30万元的手镯摔断。因过度紧张，费女士当场晕厥，经120急救，身体没有大碍。
+6月28日
+受姐告公安分局国门派出所委托，瑞丽市宝玉石协会给出评估意见，6月27日发生在姐告玉城的“翡翠手镯损坏”中的受损手镯，评估市场价值为18万，建议损坏手镯可通过镶嵌包金方式修复。
+3
+双方协商不成
+双方进行过私下协商，协商不成后又在当地警方的主持下进行过调解，货主林某同意费某赔偿17万元解决此事，但费某只能拿出1万元，因为赔偿额度相差太大，最终没能达成赔偿协议。知情人士透露，费某还想再做一份司法鉴定，她可能想通过法律渠道解决这件事。
+4
+6月30日摔断手镯游客“失联”？
+事发商城姐告玉城通过其官方微信公众号，隔空喊话：到目前为止，费女士不知所踪，电话失联，不正面出来解决事情，导致事情一拖再拖。希望费女士能出面正面协商解决问题。如果她对之前的评估报告存在质疑，可以按照正常的司法程序。同时，可以找一家双方都认可、具有说服力的第三方权威评估机构，重新作出评估。
+对于费女士事发后便失联一事，姐告玉城实业责任有限公司总经理李月超回应，费女士种种做法和其前后不一的言辞，令他们摸不着头脑。
+“她也没跟我们联系。然后打了几通电话，手机也都是关机。她一直含糊其辞的，一会儿这样，一会儿那样。我们也不知道她哪句话是真的。一开始问她哪天来的，她说是6月27日来的。后来又了解了一下，她又说是26日到的瑞丽。她又说她家里如何如何困难，是跟她另外一个朋友两个人出来散心的。结果，事情发生后又流出两个视频，一个是她在渡船上的，另一个是在一家根雕店门口的。我们也不知道她说的哪句话是真的，现在也不想去理会。”
+看完，还真是一波三折。
+而最近，事件再次出现转机!
+7月3日，费女士录制了一段视频，表示会对事情负责。
+摔断玉镯游客公开道歉 表示仍会赔偿 多家媒体报道称，事发之后费女士不见踪影。
+一段网传视频中，费女士的朋友表示她不再进行赔偿。
+这段视频拍摄于6月28日，视频中一名男子说费女士不进行赔偿，偷渡跑路了。随后媒体纷纷报道费女士失联，不再对此事负责。
+随后，当事人费女士联系上了条形码， 表示自己并没有失联!
+7月3日，费女士录制了一段视频，拍摄者同样是上一段视频的拍摄者江先生，当时一起乘船的范先生也出现在了视频里。
+江先生说，费女士摔坏玉镯之后心情不好，于是邀约她外出乘船游玩。自己当时说这段话是为了逗费女士开心，仅仅是个玩笑。
+江先生：“没想到这段视频引起媒体关注、转载，给社会和费女士带来了不好的影响，这是我的错，在这里我郑重地向媒体公开道歉，尤其是费女士，向你说声对不起。”
+江先生说，费女士和自己的母亲是好友，为了让他们不担心，他把视频发给了母亲，谁知视频流出，引起了社会关注。
+费女士：“我接受你的道歉，因为你也是为了让我开心，我原谅你。打坏首饰是我的不对，我一定会赔偿，我也没有偷渡和不负责任，视频中的微笑和打手势是为了给家里报个平安，不想让他们过于担心。”
+费女士说，由于母亲手被烫伤，自己在6月29日就赶回了江西老家，并不是逃避责任。

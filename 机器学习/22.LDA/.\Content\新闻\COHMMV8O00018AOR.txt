@@ -1,0 +1,63 @@
+原始链接：http://news.163.com/17/0704/23/COHMMV8O00018AOR.html
+
+全球最危险职业:死亡率超常人30到40倍 5天赚70万
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/7/R/T/VANLT5SRT.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1707/05/QHDNu7238/SD/QHDNu7238-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+5天能赚70万却常年招不到人！揭秘“全球最危险职业”
+（来源：original）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+5天能赚70万却常年招不到人！揭秘“全球最危险职业”
+（来源：original）
+
+中国网消息，在地球上还有这样一份工作一年只需要做5天就能赚到近70万人民币，其它时间都可以放假休息。大家是不是觉得这应该是一份大家挤破头都想要去做的工作？然而这工作特别缺人，这种工作的名字就叫——阿拉斯加捕蟹人。
+说起俄罗斯堪察加半岛和美国阿拉斯加州这两个地方可能很多人都知道，但在这两个地方之间有一处海域叫白令海峡，海区呈三角形，1728年丹麦船长白令(Vitus Bering)航行到此海域，因而以他的姓氏命名。而这个地方是全世界海蟹资源最丰富的地方之一。那里有着一种无比霸气的螃蟹，它身披红色盔甲，个头奇大，是螃蟹种族中的王者。它们叫——阿拉斯加帝王蟹。
+海蟹，它们是深受人们喜爱的美味。但为了这些美味，无数捕蟹人付出了巨大的代价。根据有关研究，渔民，特别是捕蟹的渔民，他们的工伤死亡率可能是普通工人的三十到四十倍。在捕蟹船上，只要一步走错，就可能出现灾难性的后果。从上船一直到返回故乡，捕蟹人每一分钟都处在危险里。
+捕蟹人是全世界最高危的职业之一，他们要面临的是恶劣的天气和凶险的捕蟹环境。白令海捕蟹季节在每年的冬天，这个季节气候十分寒冷，并且经常会出现北极圈风暴，海浪十分汹涌。每次出海时间在5天到12天不等，每天的工作时间近20个小时，有时甚至是连轴转。极度的疲劳加上寒冷的气候, 会使渔民们的反应逐渐变得迟钝，在颠簸打滑的甲板上开始站立不稳。
+船员因为大浪冲击在船上摔倒或撞到物品受伤就是家常便饭，还有很多人就这么被凶猛的巨浪卷入海中，溺水身亡。即使顺利捕捉到蟹，还要和螃蟹们“搏斗”，小心提防螃蟹的猛烈攻击。

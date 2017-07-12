@@ -1,0 +1,75 @@
+原始链接：http://news.163.com/17/0706/06/COL3Q8P0000187VE.html
+
+章莹颖案嫌犯录音:曾向他人描述章莹颖反抗情形
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/7/2/N/VCNNFU32N.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1707/06/dRHuE1375/SD/dRHuE1375-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+章莹颖案嫌犯录音公开,称实施绑架
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+章莹颖案嫌犯录音公开,称实施绑架
+（来源：~）
+
+受害者的父亲和男朋友走进法院
+美国中部时间7月5日下午（北京时间7月6日凌晨），中国访问学者章莹颖被绑架一案的嫌疑人布伦特·克里斯滕森在美国中部地区联邦法院第二次聆讯。负责审理此案的美国治安法官埃里克·朗（Eric Long）做出决定，克里斯滕森将不会被保释出狱。
+据当地媒体《新闻报》(News Gazette)报道，嫌疑人克里斯滕森在聆讯过程中一言不发，只是在面对法官的提问时用点头来予以应对。在经历长约32分钟的聆讯后，法官表示，基于检方提供的证据，释放克里斯滕森将对他所在的社区构成威胁，因此驳回克里斯滕森的保释申请，他将被继续羁押，直到7月14日正式审讯开始。
+《新闻报》报道称，检方在此次聆讯中公开了一些最新的证据。其中包括对克里斯滕森的一些监听录音。在这些录音中，克里斯滕森表示自己正在寻找其他的犯罪对象，并描述了“理想的受害人有什么特点”，此外他还描述了在把章莹颖带回自己公寓时后者的反抗情况。
+检方代表，助理检察官布莱恩·福瑞雷斯（Bryan Freres）表示，“这些事实表明嫌疑人将为所在的社区带来多大的危险。”
+埃里克·朗法官表示，这些证据“看上去非常有力”。
+不过克里斯滕森的辩护律师伊万·布鲁诺（Evan Bruno）则在聆讯结束后对媒体称，在没有经过盘问和质证的情况下，目前检方单方面提供的录音尚不能被称为“证据”。法庭已经授权辩方对检方提供的录音的可信度进行调查。
+受害人章莹颖的家人出席了聆讯现场，他们在聆讯开始前被引领至法庭。
+据美联社此前报道，本次庭审是美国法律程序上规定的“拘留听审”（Detention Hearing），将决定嫌疑人是否有资格被保释。具体而言，拘留听审通常聚焦于两个问题，一是嫌疑人是否有可能对社区内其他人造成伤害，二是嫌疑人是否有可能逃逸。
+在本月3日进行的第一次聆讯中，克里斯滕森除了表明理解自己作为被告的权利以外全程保持沉默，并拒绝认罪。
+一名在法庭外示威的群众对《中国日报》记者表示，自己对法庭拒绝保释克里斯滕森的决定表示欣慰，“他不应该大摇大摆地走出这栋建筑（指法院），来到大街上再去危害别人。”
+中国访美学者章莹颖于6月9日在美国中部伊利诺伊州厄巴纳-香槟市失踪。6月30日晚，美国联邦调查局宣布已经逮捕一名嫌疑人，并表示相信章莹颖已经死亡。
+章莹颖案嫌犯作案前细节曝光 浏览另类性癖好网站
+6月29日，克里斯滕森还曾在电话里描述自己是如何绑架章莹颖的，这段对话被联邦调查局监听到。
+此外，他曾经上过“恋物人生”另类性癖好网站，还在结婚后依然在约会网站上注册寻找所谓的女友，声称自己已婚，但可接受多重伴侣。
+嫌疑人仍拒绝交代章莹颖下落 其妻或知晓内情
+尽管嫌疑人克里斯滕森在网络上留下的痕迹很少，但美国媒体还是发现，在6月12日前后，克里斯滕森以及他的妻子米歇尔·克里斯滕森在社交媒体“脸书”上出现的异样状况。

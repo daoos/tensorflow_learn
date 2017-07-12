@@ -1,0 +1,88 @@
+原始链接：http://news.163.com/17/0711/21/CP3HGMRJ0001875P.html
+
+中考700分只能上职高考生以泪洗面 正申请重填志愿
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/7/O/8/VCO5MSPO8.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1707/11/iDBnU8242/SD/iDBnU8242-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+中考700分只能上职高？老师改志愿孩子以泪洗面
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+中考700分只能上职高？老师改志愿孩子以泪洗面
+（来源：~）
+
+刚刚结束不久的中考，安徽霍山一考生考了700分，却因为“老师擅自修改报考志愿”，只能上职业高中。校方负责人表示，涉事老师出于好心帮学生修改志愿，但不应该删除学生的第一批次定向志愿。
+消息一出，很多网友在遣责同时，也为这个孩子的情绪表示担心。7月11日中午，发信求助的父亲张德才向重案组37号表示，儿子张朝阳情绪很仍不稳定，常以泪洗面。不过重案组37号探员从霍山县教育局得知，他们目前已向上级申请调配指标，让该考生重新填报志愿。
+中考700分考生张朝阳的志愿表，因志愿被老师修改，其面临只能就读职高的处境。 视频截图
+实验班变职高 父亲一度报警求助
+近日，安徽霍山县一位父亲张德才在网上发了一封信，称自己的儿子张朝阳中考考出700分的好成绩，却因为“老师擅自修改报考志愿，导致儿子仅能上职业高中。”信中写道，孩子所就读的文峰学校一名毛姓老师在指导孩子填报志愿时，将孩子的定向志愿给予了删除，导致该学生本来定向可以上霍山中学实验班，结果只能上职业高中。
+张德才的求助信通过网络传播，引发关注 微博截图
+“孩子现在情绪很低落，烦躁不安，经常以泪洗面”，7月11日中午，重案组37号联系到张德才，张德才称，自己对于这件事没有过多的诉求，只希望可以让孩子正常填报志愿就好。自己是肯定不能接受儿子就读职高。
+张德才告诉重案组37号探员，孩子就读于文峰学校，平时成绩很好，在班级都是前几名。他在填报志愿之前的家长会上了解到，如果定向志愿填霍山中学的话，录取档案的时候有个标准，裸分630-640分肯定是可以进实验班。霍山中学，是当地人眼里最好的高中，实验班，更是重点培养的班级。
+张德才说，张朝阳的总成绩为700分，虽然没有达到霍山县今年的统招分数线的，但是按照定向志愿填写霍山中学的话，是可以被录取的。因此，在和张朝阳的老师沟通过以后，张德才决定在第一定向志愿中填写霍山中学，没有填写其他志愿。
+张德才说，当时填报志愿时是在文峰学校的微机室，门口老师不允许家长进入，因此自己要求孩子每操作一步都会拍个照片。孩子在填写好志愿以后，曾拍了一张照片发给自己，当时还是和自己签名的是一致的，但是在一两分钟以后，孩子又发了一张照片过来，照片显示只填写了第一批次统招而没有第一批次定向。孩子出来以后告诉张德才，是一名姓毛的指导老师将孩子的定向志愿给删除了。
+随后，张德才迅速向文峰学校进行了反映，并且报了警。张德才回忆称，学校桑副校长解释称，毛老师是出于好心帮学生修改志愿，却不应该删除学生的第一批次定向志愿。
+张德才称，今年统招的分数线是716分，自己儿子能考到700分已经算不错了，在县城里排五六百名，他裸分647，体育测试加实验分数53分，总分700分。现在由于定向志愿没有填，定向的霍山中学也无法就读，只能去读职高。
+张德才接受采访时认为，学校和老师应为改志愿造成的后果承担责任。 视频截图
+霍山教育局递申请：调配指标重新填志愿
+7月5日，张德才已就此事和霍山县教育局反映过情况，随后也曾找到六安市教育局以及安徽省教育厅、省考试院反映情况。
+据媒体报道，霍山县文峰学校副校长桑世国称，张朝阳当时填报志愿时第一批次统招志愿与第一批次定向志愿，都是填写的霍山中学，代码为059，是没有问题的。张朝阳在咨询毛老师的时候，毛老师看其分数够了，便觉得没有必要填那么多，就把定向志愿给删除掉了。
+桑世国表示，老师尽管不是故意的，毕竟造成了一个失误。学校只能逐级反映，就是请求上级主管部门给予补救措施。
+霍山县文锋学校副校长桑世国。 视频截图
+为张朝阳修改志愿的毛老师接受媒体采访时表示，当时听张朝阳说自己分数够了，便感觉没有必要填这么多志愿。结果没想到张朝阳是定向的分数够了，统招的分数不够。
+为张朝阳修改志愿的毛老师。 视频截图
+7月10日下午，安徽六安市教育局回应此事时表示，已督促霍山县教育局进行调查核实，严肃处理。
+针对700分中考生因老师指导填错志愿只能上职高一事，重案组37号7月11日从霍山县教育局得知，目前已向上级申请调配指标，让该考生重新填报志愿。
+当天上午，重案组37号探员从六安市霍山县教育局获悉，霍山县教育局已经向上级六安市教育局提交文件，申请为该考生调配一个指标能让其重新填报志愿，同时对霍山文峰中学进行通报批评。
+随后，探员就此事致电六安市教育局，一名工作人员表示，上午已经接到霍山县教育局的文件，现在正在研究处理当中，一旦事情有最新进展，会及时对外公布。
+六安市教育局官方微博回应称将调查核实，严肃处理。 微博截图
+霍山县文峰学校一名工作人员则表示，学校已就此事向六安市教育局进行情况说明，但是对于为何会出现填报志愿出现错误一事，该工作人员表示并不知情。
+截至11日中午，张德才从霍山县教育局得到的答复还是等着，关于儿子的志愿究竟还能不能修改回来，目前还没有确切的答复。
+霍山县教育网于6月28日公布了霍山县2017年中考成绩，重案组37号查询发现，霍山县今年中考总成绩满分为820分，全县共有2641人参加考试，750以上67人，占考试总人数的2.5%,700分以上667人，占25.3%。
+张朝阳第一定向志愿中填写霍山中学。资料图片
+探员追访

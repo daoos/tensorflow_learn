@@ -1,0 +1,88 @@
+原始链接：http://news.163.com/17/0620/23/CNDN81LJ0001875P.html
+
+演员变脸失败尴尬离场 川剧大师：泄露国粹玄机
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/6/0/5/VCMC7CK05.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1706/19/SRwXG9565/SD/SRwXG9565-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+川剧演员表演变脸失败，尴尬离场
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+川剧演员表演变脸失败，尴尬离场
+（来源：~）
+
+近日，一段“川剧变脸”的视频在网上火热传开，这“火”的原因却有些“尴尬”，表演者在“变脸”过程中接连失误，最终捂脸离场。
+还原现场 ：大写的尴尬！
+“变脸”失败后“捂脸”离场
+通过视频可以看到，河北保定一商场内的某火锅店，一位穿着戏服的演员正在表演川剧变脸，一开始，他快速的变脸引来顾客阵阵掌声，但在连续变了三张脸后开始出现失误，“变脸”脸谱“斜挂”在脸上，露出下一张脸谱，他急忙捂脸“纠正”，可仍然“无济于事”，最终尴尬捂脸离场。
+今日，成都晚报记者联系到了视频中的火锅店，该店店员告诉成都晚报记者，表演者并不是专业川剧演员而是该火锅店员工。火锅店于半个月前开业，为了开业酬宾，该店所属的餐饮公司组织员工进行相关培训，其中就有川剧变脸，该表演者在培训后每天都会在火锅店表演，与顾客互动，表演的时段不定，每次几分钟。而关于该表演者是否为四川人、是否对川剧有一定的了解，该店员工称不方便透露。
+该段视频在网上传开后，引起网友热议，有网友调侃，也有网友表示理解。
+@你的手机屏幕有根头发：我还以为我色盲呢
+@AdvancedMaterial：别先入为主，人家表演的是喜剧，才不是川剧呢
+@南客远归：这位一定是别的戏种派来的奸细
+@克里斯丁笛卡尔BK：台上一分钟，台下十年功。人生如戏，演员不易。希望他以后表演的越来越好。
+@没事晒太阳：都是混口饭吃的 。。。多理解。
+@七童-：他当时肯定很无助…不想笑，觉得很心酸
+还有网友表示，砸了川剧的牌子，更有爆料调侃称“川剧演员变脸失败暴露国粹玄机，尴尬捂脸离场”。
+一段表演会暴露国粹玄机？针对于此，成都晚报记者采访了成都市川剧研究院著名青年演员康勇。
+康勇简介
+康勇，“变脸”大师彭登怀爱徒，擅长变脸，吐火绝技，他拓宽了变脸的领域，不但能变各种传统脸谱，还能根据现实生活中的人进行变脸。他先后在美国，日本，韩国，新加坡，泰国，香港，台湾等国家和地区演出，获得了“巴蜀怪客”“川蜀骄子”“青年变脸王”等称号。
+“变脸”大师
+“木偶式表演”让人痛心
+康勇表示，看了这段视频中的表演，他真有点痛心。“从该表演者的身段和一招一式的动作就能看出是个‘门外汉’，从专业角度看他的动作像‘木偶式表演’，没有精髓和情感，毫无传情传艺可言。”康勇解释道，该表演者的失误从直观形式上泄露了川剧变脸特殊道具的组合程序，从演出服装、道具配饰、表演风格上，严格讲是对川剧这项非物质文化遗产艺术名片的“腐蚀”。所以，该表演者在出现失误时，才会显得不知所措，尴尬离场。
+康勇告诉成都晚报记者，川剧绝搜、绝活包括变脸、吐火、藏刀、滚灯、水秀等，这些绝技的表演艺术形式在国际上享有很高的知名度和影响力。
+康勇表演川剧
+专业表演者不仅需要变脸有术，还需要有深厚的基本功，否则就会露出马脚，当场现丑。康勇还透露，虽然失误是表演中不可避免的，但专业演员会快速的用技巧及时“修正”，让观众看不出破绽。而视频中表演者的尴尬失误却给川剧变脸绝技画了一个污点，让专业演员有点痛心。
+尊重国粹
+走心表演才能得益于尊重
+康勇提到，川剧变脸作为国粹，不仅是四川的一张旅游文化名片，更是国家二级文化机密。在全国，依靠川剧绝技谋生的业余表演者也不占少数，但作为一名专业的川剧演员，康勇通过成都晚报发声：川剧变脸艺术表演者要遵守行业规则，尊重川剧绝技艺术的表演风格及精准度，在未学到精髓之际不要急于登台。
+康勇
+康勇介绍，川剧的“变脸”被称为“国宝、绝活、奇观”，变脸艺人头一扭，手一挥，黑脸、花脸、红脸、人脸、鬼脸，唰唰唰十几张脸就能变出来。成都晚报记者了解到，康勇目前1分钟内可以“变脸”15张次。
+图据网络
+此外，川剧的收徒也有严格的标准，年龄和天赋都很重要，“年龄最好是在8至35岁之间，其次要讲究身、色、艺，是否具有可塑性，学起来才能接受快、反应快、掌握快、完成快。”康勇说。
+图据网络

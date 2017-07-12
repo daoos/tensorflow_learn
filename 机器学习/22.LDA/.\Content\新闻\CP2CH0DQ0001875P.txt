@@ -1,0 +1,80 @@
+原始链接：http://news.163.com/17/0711/10/CP2CH0DQ0001875P.html
+
+外婆商场乘电梯脱手4月大外孙坠亡 家人起诉商场
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2016/11/J/U/VC4NUF8JU.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1611/12/LYojQ4973/SD/LYojQ4973-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+奶奶坐扶梯不慎失控脱手 男婴自动扶梯坠落
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+奶奶坐扶梯不慎失控脱手 男婴自动扶梯坠落
+（来源：~）
+
+视频监控截图
+2016年11月，上海一大型商场内发生了一起惨剧：一位老人抱着尚不满四个月的外孙乘坐自动扶梯时不慎脱手，婴儿从三楼摔下坠亡。近日，孩子的父母将商场告上法庭要求赔偿。经法院调解，双方均有责任，商场和孩子的父母在赔偿问题上达成一致。
+孩子电梯坠亡，家人将商场告上法院
+2016年11月11日，外婆、母亲带着年幼的外孙女和外孙在某大型购物广场购物，该商场三楼有儿童乐园，当外婆抱着尚不满四个月的外孙走下儿童乐园旁自动扶梯时，令人意想不到的惨剧发生了-----外婆在电梯上站立不稳，抱在怀中的婴儿从她手中掉落，从三楼摔下，跟在外婆身后牵着大女儿的母亲想要接住小孩却无能为力，只能眼看孩子坠落一楼，最终孩子抢救无效，离开了人世。
+孩子的离去给一家人带来了巨大的伤痛，他们认为该事故的发生，商场负有不可推卸的责任，悲痛欲绝的父母将这家商场告上法庭，要求其承担死亡赔偿金、精神抚慰金等费用。
+负责该案件诉前调的法官助理认为，该事故的发生已经给这个家庭带来了巨大而不可弥补的伤痛，且已经产生了广泛的社会影响和争议，如果开庭审理此案，将有可能对这个家庭带来二次伤害，为了让这个家庭从事故的阴影中走出，开始新生活，采用诉前调解能够快速化解该纠纷。法官助理在主审法官的指导下，对孩子父母的进行了心里疏导，并引导父母对目睹全部事发经过的大女儿做好心理疏导工作。
+同时，法官助理积极联络商场方面，希望商场做好孩子事故的处置工作，并对自身可能存在的安全隐患进行排查，避免再次发生类似事件。
+法院调解：双方均有责任
+在庭前调解中，孩子的家人回忆起发生的一切情绪低落，他们认为商场没有尽到安全保障义务，应承担事故50%的责任，该商场的电梯是变速电梯，商场并未设立标识，且三楼的商铺多针对儿童，对儿童应提高安全保障的标准，且该商场未在电动扶梯周围适当位置设立安全网等设备。
+而商场认为事故主要是由于孩子的外婆造成的，商场的扶梯是符合法律规范的，事故发生前不久有关部门对电梯进行了例行检查并出具了检验合格报告，且商场在电梯
+ 
+的醒目位置设置了警示标识，从监控录像和网友拍摄的手机视频可以看出，事发时，外婆怀抱幼童脚踩到扶梯的黄线，导致其未站稳，这是事故发生的主要责任。因此，双方对责任划分和赔偿金额差异较大。
+在调解中法院发现，虽然在涉事电梯的警示中告知使用人若为儿童需要有成年人陪同，但是对学步前尚不能独立站立或行走的婴幼儿的使用并无告知或警示，且涉事电动扶梯所处的三楼多是面对未成年人，应承担最高的安全保障义务，在本院的调查事实及释明法律的过程中，被告也表示自己愿意对原告进行相应的赔偿，并积极制定赔偿方案。就原告一方，法院指出父母作为监护人，没有尽到谨慎的注意义务。
+法官助理并引导原告，对于已经发生的悲剧，无论如何也挽不回孩子的生命，与其不断地回忆事故发生的细节，不如尽快了结这一纠纷，从伤痛中走出，开始新的生活。最终，商场和孩子的父母在赔偿问题上通过庭前的证据交换和调解达成一致，该纠纷就此结束。
+法官提示：现代社会的复杂性导致了危机无处不在，为了弥补损失、分散风险，预防事故，安全保障义务应运而生，作为大型公共场所的经营者，必须具有高度的风险意识。我国目前社会公共对儿童安全措施的意识还较为薄弱，无论是机构和个人，往往缺乏对儿童安全设施、行为准则的全面认知，从这一角度而言，该起案件值得引起对儿童安全防护意识的反思。
+乘坐自动扶梯这些一定要注意
+实际上，因电梯而出现的事故近来时有发生，特别是对家长来说，去商场或地铁乘坐自动扶梯时，一定要看护好自己的孩子。
+1、父母千万不要让自己的孩子单独玩扶梯；
+2、在上电扶梯前，一定要看清楚运行方向，在踏入电梯时要小心。不要光脚或穿着松鞋带的鞋子乘坐扶梯。穿长裙子或手拎物品乘坐扶梯时，请留意裙摆和物品，谨防被挂住；
+3、进入扶梯时，不要踩在两个阶梯的交界处，以免扶梯运行至倾斜段时，因前后阶梯的高差而摔倒。用手拉紧儿童或抓紧容易掉落的小件物品。在电梯上行时，特别要注意三角区；
+4、乘坐扶梯时，紧握扶手，双脚稳站在梯级内，避免站近级边。特别要注意的是，不能靠在扶梯两边或倚在扶手上，容易被带倒。还有的人因为赶时间，会在自动扶梯上跑步，这样不但增大摔倒的几率，也容易引起自动扶梯故障。
+5、当扶梯出现突发状况，前面的乘客不慎倒下时，可一手紧握扶手，一手顶着对方使其不倒下，同时大声呼救。自动扶梯的首尾都有“紧急停机”按钮，电梯遇到紧急情况时，工作人员或乘客都可以按动按钮让电梯制动。

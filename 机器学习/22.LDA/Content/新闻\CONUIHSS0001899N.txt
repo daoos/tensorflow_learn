@@ -1,0 +1,78 @@
+原始链接：http://news.163.com/17/0707/09/CONUIHSS0001899N.html
+
+港珠澳大桥海底隧道今日贯通 提前穿越"海底巨龙"
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/7/F/9/VANRBB7F9.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1707/07/RrVwK0201/SD/RrVwK0201-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+港珠澳大桥海底隧道贯通 3D揭在海下48米咋呼吸？
+（来源：original）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+港珠澳大桥海底隧道贯通 3D揭在海下48米咋呼吸？
+（来源：original）
+
+全长6.7公里的海底隧道到底长啥样？
+发布君提前为你揭晓：
+目前，港珠澳大桥主体桥梁工程已经和岛隧工程的桥梁部分打通连为一体，发布君驱车经由珠澳口岸人工岛进入主体桥梁，然后一路往东向海底隧道进发。
+（▲图/陈新年资料图）
+天公作美，前一天还是瓢泼大雨，昨日上午已是艳阳高照，海天一色。全长22.9公里的主体桥梁犹如一条柔软的彩带，在大海上舒展开来。
+（▲图/陈新年  资料图）
+桥面铺装工程已进入尾声，黑黝黝的沥青路面安静舒适。一路迤逦而行，穿过九洲航道桥的“风帆”主塔……
+穿过江海直达船航道桥的“海豚”主塔，再穿过青州航道桥的“中国结”主塔，一座蚝贝形的人工岛犹如明珠缀在海面上。这就是港珠澳大桥的西人工岛。
+（▲西人工岛效果图）
+为了给珠江口这条世界上最繁忙的航道让出通道，港珠澳大桥主体工程中6.7公里采用海底隧道。这是国内首条外海沉管隧道，也是当今世界上埋深最大、综合技术难度最高的沉管隧道。两个面积各为十万平方米的人工岛，承担着桥隧转换的功能。
+（▲正在建设中的西人工岛）
+换乘中交港珠澳大桥岛隧项目部的电瓶车，我们来到西人工岛东头，这里是海底隧道暗埋段，也即海底隧道的西侧起点。沿着暗埋段继续前行，缓缓下降，我们便进入了海平面以下四五十米的海底沉管隧道内部。
+一进入隧道内部顿觉凉爽。想起置身伶仃洋海底，四周被各种鱼类乃至中华白海豚包围，一瞬间有一种梦幻感。尽管身处海底，但隧道内部感觉不到一丝潮湿气息。这是建设者们最引以自豪的地方：这条世界上难度最高的海底沉管隧道，建设者们做到了“滴水不漏”。
+因为有送风系统，车辆继续前行，也不觉得憋闷。这和隧道双向六车道的宽敞空间颇有关系。建设者告诉我们，此前国内外的海底隧道，大部分是双向四车道，在复杂海况和深埋条件下，建设双向六车道的巨型沉管隧道，这是港珠澳大桥的又一创举。
+沿着海底隧道一路向东，33节巨型沉管之间的钢封门已全部拆除，一路畅通无阻。不过沿路都是建设者们忙碌的身影。他们正在加紧铺设路面沥青，同时安装防火板、中管廊、支架、盖板、装饰板等。别看如今隧道里光线不好，颜色单调，等装饰工程完成后可是非常高大上。
+仅用时不到十分钟，我们便驱车走完了海底隧道全程，从东人工岛上的暗埋段穿出。
+（▲正在建设中的东人工岛）
+同样是一个蚝贝形的岛屿，东人工岛和西人工岛的功能定位不同：西岛以桥梁的养护服务及办公为主；东岛则拟建设集交通、管理、服务、救援和观光功能为一体的综合运营中心，且开放游客观景揽胜功能。
+（▲东人工岛效果图）
+“我们正在建设的岛上建筑上面三层，都是留作商业用途。”建设者告诉发布君，不久的将来，旅客乘车经过此处，不仅能在东岛停下车驻足欣赏360度无敌海景，甚至有可能在岛上的咖啡厅里来上一杯咖啡，“运气好的话，还能邂逅‘海上大熊猫’中华白海豚呢！”

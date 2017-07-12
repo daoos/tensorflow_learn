@@ -1,0 +1,66 @@
+原始链接：http://news.163.com/17/0707/03/CONA9O9G0001875P.html
+
+半夜货车后头飘着个"聂小倩" 拍视频的网友被吓哭
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/7/L/C/VANQIGNLC.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1707/07/PsUQl4751/SD/PsUQl4751-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+午夜惊魂！货车尾现白衣女子吓坏网友 交警称涉嫌违法
+（来源：original）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+午夜惊魂！货车尾现白衣女子吓坏网友 交警称涉嫌违法
+（来源：original）
+
+视频截图
+视频截图
+昨日零时许，大连北站附近发生了惊悚一幕!有网友看到，一辆大货车的后边，凌空悬着一个“白衣女鬼”，大货车在前边跑，“女鬼”跟在后边飘……拍摄这段视频的网友被吓坏了，他追上去凑近一看，才发现“女鬼”其实是一个白衣女子，站在货厢的架子里惬意地吹着风。此举不仅吓人，也存在安全隐患。那么，她大半夜跑到车厢货架里干吗?
+网友“见鬼”被吓坏了
+视频显示，在前方行驶的大货车货厢里，飘着一个“聂小倩”!她身着一袭白衣，衣衫和长发在风中摆动，情形甚是骇人。拍摄视频的网友“单眼皮的xiao眼睛”吓了一跳，他追上去一瞧，才发现那是一名女子。一身冷汗的他操着地道的大连话称，“(那名女子)像鬼似的站着，在大货车后边，吓死个人。”
+昨日下午，记者联系到了视频拍摄者李先生。他告诉记者，事情发生在昨日零时许，地点在东联路下道口往大连北站行驶路段。当时正值午夜，李先生驾车往金州赶，没想到半路“见鬼了”。“那辆大货车上拉着汽车，所以车厢里有个大架子(用于搭载汽车)……晚上本来就黑，猛地看到架子里站个白色人形物体，差点没被吓死。”李先生拿出手机，拍下了现场的场景。 
+大半夜为啥跑到架子上?
+直到确认那是一名女子，李先生才稍感放心。他自己出了一身的汗，也为那名女子捏了一把汗。“她这样吓人不说，自己也不安全啊。一旦路况有变，大货车突然刹车，女子可能就飞出去了。”李先生百思不得其解，大半夜的，她为啥要跑到货架子上站着?
