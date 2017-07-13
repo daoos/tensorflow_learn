@@ -1,0 +1,95 @@
+原始链接：http://news.163.com/17/0712/22/CP67V7Q50001899N.html
+
+劫持护士被击毙男子两枪均命中头部 其母已去世
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/7/2/K/VCO8ENB2K.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1707/12/IyFoA0524/SD/IyFoA0524-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+还原 鸡西医院劫持护士男子被击毙 两枪均命中头部！
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+还原 鸡西医院劫持护士男子被击毙 两枪均命中头部！
+（来源：~）
+
+医院凌晨响起枪声 周围居民当时不知情
+鸡西市人民医院周边多是五金店、服饰店、药店等，多数都在23时前打烊。一家超市的值班员工称，夜里曾看到有警车进入医院，但不知道是什么事。
+“当天夜里，大约1点听到过“砰”的一声响，但并不大，也不知道那是枪声”，他第二天早上买早餐时多辆警车仍在医院，向人打听后才知道“有人在医院闹事被警察开枪击毙”。
+7月11日下午，黑龙江鸡西市公安局鸡冠区分局通过微信公众号发布情况通报。通报称，7月11日零时32分，鸡西市公安局接到报警称：市医院内有人持刀伤人。
+接警后，相关警种立即赶赴现场，发现医院值班室内一男子右手持砍刀抵在一名女护士胸前，左手持尖刀抵在其颈部，情绪失控。
+民警劝说期间，犯罪嫌疑人再次持刀欲刺向人质胸部，民警果断开枪，将其击毙，成功解救人质。
+通报显示，经初步调查，犯罪嫌疑人杨某某1965年生人，曾因犯罪被判刑。事发前因不满医院对其患病母亲抢救方式，在砍伤两名医护人员后，持刀挟持值班护士。
+目前，鸡西市公安局已报请当地检察机关依法介入，案件正在调查中。
+男子持刀劫持护士前 其弟弟打伤一名护士
+鸡西市人民医院常务副院长、新闻发言人王玉民介绍，嫌疑人杨某某的母亲张某兰已经87岁，7月7日起在该院神经科住院治疗。张某兰入院后被诊断为脑梗，并发有肺炎胆囊炎胸腔积水等，自入院来高烧不退。
+7月8日，医院向病患家属下发了他母亲的病危通知。张某兰的多名家属同意放弃治疗，唯独张某兰的儿子杨某某（后被击毙者）不同意，且情绪激动。
+7月10日下午16时20分，神经科护士交接班。一位赫姓护士接班，负责护理张某兰。当天下午，张某兰的另一个儿子、杨某某的弟弟也在病房，他向护士反映张某兰的口咽通气道管露在了外面，要求护士整理。
+赫姓护士向其解释说，这个管子在这种情况下是可以的，“可以从嘴边通气，不存在问题”。杨某某的弟弟坚持要求护士整理好，护士随即为其在整理，但其认为护士操作造成了他母亲的痛苦，于是便出手打了护士。造成护士头皮、左眼等处挫伤。
+发生了打人事件后医院报警。鸡冠区公安分局立即出警赶到现场带走了打人者。
+赫护士被打后不能继续值班，医院派出一位年龄稍大的姜姓护士接班护理张某兰。
+当天晚上接近24时，张某兰的儿子杨某某带着两把刀来到了值班室。
+杨某某当天下午目睹了自己弟弟打护士和警察带走其弟弟的整个过程。他回来后拿了两把刀劫持了后来换班的姜护士。
+据在场人员描述：杨某某用一把带钩的长刀勾住了姜护士的脖子。并且要求找来医院的总值班。这时医院第二次报警，警察立即赶到。
+杨某某对警察提出条件，要求把刚才被打的护士叫来，让她跪在杨某某母亲的病床前。
+杨某某与警方从事发的7月10日夜一直僵持到7月11日凌晨，警方与其谈了一个多小时，劝说他放下刀，但杨某某始终不放且情绪失控，约凌晨2点20分警察开枪将杨某某击毙，护士毫发无伤的被救下。
+据了解，开枪前，嫌疑人反应剧烈，将姜护士拉到值班室窗口，高喊“你知道跳楼啥滋味吗？”并砸碎其中一扇窗口的玻璃。
+病历显示，87岁的张某兰，多脏器衰竭，医院多次向包括杨某某在内的家属发出了病危通知。其他儿子均表示同意放弃治疗。但这个儿子不同意。他在劫持女护士时称“我母亲死，我就死”。
+病历记录显示，7月11日上午9时41分，病人家属签字，放弃治疗。张淑兰在儿子被击毙之后的12小时内病逝。
+民警多次劝解无效 射击前做好抢救准备
+鸡西市鸡冠分局宋副局长介绍，他是当天值班的局领导，7月11日凌晨将近一点时接到指挥中心的报警通知称鸡西市人民医院有人劫持人质，宋副局长带领备勤的一个刑警中队的干警赶赴现场。
+宋副局长称，他到达市医院后与市刑警支队以及其他分局的领导一起组成指挥部，并对现场的情况作出了研判。
+当时，犯罪嫌疑人杨某某脾气暴躁、态度恶略、情绪激动。手持一长一短两把尖刀劫持了女护士。
+警方立即开展对犯罪嫌疑人杨某某进行谈判工作。一个警方的谈判专家也来到现场，包括医院的领导及杨某某家属分头去做杨某某的工作都没有奏效。
+警方在现场与杨某某家属做了短暂的交流得知，杨某某脾气暴躁，并且有犯罪前科，有厌世倾向。
+杨某某所处环境和所劫持着人质的位置比较复杂，谈判工作难有进展，嫌疑人也不允许任何人靠近。
+杨某某提出诉求称，要求被其弟弟打伤的护士赫某到场给他的母亲赔礼道歉，同时下跪在其母的病床前。
+为了解救被劫持的人质，指挥部给护士赫某做了大量工作，虽然赫某身上多处受伤，但为了解救她的同事，仍被轮椅推着来到事发现场。并答应“通过跪下的动作，来减缓事态的发展”。
+但此时杨某某情绪更加激烈，任何人不能靠近。为避免伤亡和损失，警方也准备了一些常规的警械控制局面。但是由于杨某某情绪波动较大均没有奏效。
+警方针对杨某某用双刀抵住受害人的颈部，随时可能造成颈部大动脉破裂的情况判断，任何的正面攻击都可能造成严重的后果。而对嫌疑人做思想工作和劝阻也都遭到了抵抗。因此，警方要求医院方随时做好抢救嫌疑人和人质的准备。
+7月11日凌晨两点多，杨某某将劫持的护士带到窗前，并高喊“我妈死了你也别活”、“你知道跳楼啥滋味吗”，然后自己跨上窗台并强行拉被劫持的女护士上窗台。
+此时，嫌疑人手中的双刀一把在护士胸前一把在护士颈部情况十分危险，于是警方做出了开枪射击的决定。
+据了解，现场民警是用手枪射击嫌疑人，杨某某头部中弹，经现场初步查看，已无生命体征。

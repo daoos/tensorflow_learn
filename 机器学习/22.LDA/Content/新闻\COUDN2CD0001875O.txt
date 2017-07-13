@@ -1,0 +1,64 @@
+原始链接：http://news.163.com/17/0709/21/COUDN2CD0001875O.html
+
+伊拉克摩苏尔全城解放 士兵载歌载舞游行庆祝胜利
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/7/H/G/VCO0M4KHG.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1707/09/VXBWl9845/SD/VXBWl9845-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+IS末日：伊拉克第二大城市摩苏尔解放
+（来源：网易）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+IS末日：伊拉克第二大城市摩苏尔解放
+（来源：网易）
+
+当地时间2017年7月8日，伊拉克摩苏尔，伊拉克警方在摩苏尔老城庆祝。视觉中国 图
+7月9日，伊拉克总理阿巴迪宣布，伊第二大城市摩苏尔全城解放。
+据俄罗斯卫星通讯社消息，伊拉克总理办公室发表声明称，在与极端组织“伊斯兰国”进行了近九个月的艰苦战斗之后，伊政府军成功解放摩苏尔。阿巴迪祝贺伊拉克武装力量战胜了恐怖分子，并前往被解放的摩苏尔城，与当地战士和人民共同庆祝胜利。
+就在数小时前，伊拉克政府军就曾宣布，极端组织“伊斯兰国”(IS)在摩苏尔的防线崩溃，伊军将在“数小时内”攻陷该组织的最后据点，全面收复摩苏尔。这将标志着“伊斯兰国”在伊拉克遭受重大战略挫折。
+伊军8日还击毙了35名试图撤离老城区据点的“伊斯兰国”武装分子，并逮捕了多人。
+9日，一些伊拉克政府军士兵在军方未正式发布胜利宣言之前，就已迫不及待的庆祝。央视网消息称，在摩苏尔老城区靠近底格里斯河的街道上，在战乱过后的断壁残垣上，伊拉克士兵们载歌载舞，兴高采烈。他们乘坐在装甲车上，在摩苏尔街道上进行胜利游行，与居民一起欢呼雀跃，还向天鸣枪庆祝，现场热闹非凡。

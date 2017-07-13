@@ -1,0 +1,77 @@
+原始链接：http://news.163.com/17/0712/19/CP5TDJUT00018AOR.html
+
+姚常凤交代曾奸杀一名9岁女孩 此前已背负3条人命
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/7/Q/A/VAO8RM9QA.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1707/13/NBlmU3900/SD/NBlmU3900-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+3D：至此4命案！姚常凤交代新案情 5年前奸杀一女孩
+（来源：original）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bb\d+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+3D：至此4命案！姚常凤交代新案情 5年前奸杀一女孩
+（来源：original）
+
+新京报快讯7月11日，湖北宣恩籍公安部B级追逃疑犯姚常凤交代新案情。据警方披露，姚常凤除了杀害了两名儿童和一名未成年少女外，2012年他还曾在湖北省宣恩县涉嫌奸杀一名9岁女童。至此，姚常凤身上已经背负了4条人命。
+三地公安会审 姚常凤交代另一起案件
+7月8日，姚常凤在湖南省沅陵县七甲坪镇被当地群众抓获。7月10日，姚被押解到湖南龙山县审讯。湖北恩施州、宣恩县公安机关民警于7月11日前往龙山县看守所，会同浙江警方，共同讯问姚常凤。
+据恩施州公安局办案民警介绍，姚常凤交代，2011年他在浙江新昌打工期间杀害住在隔壁的一对姐弟，遇害时姐姐7岁，弟弟6岁。随后姚常凤花了两个月时间从浙江一路潜逃至湖南龙山，后又辗转重庆、湖南、湖北三省交界之地。
+姚常凤落网后还向警方供述，2012年7月，他在潜回其老家时，经过宣恩县李家河镇，欲强奸一名正路过柑橘林间小路的小女孩郑某某，遭到反抗后将其残忍杀害并埋尸。
+据恩施州公安局办案民警介绍，郑某某生于2003年，是广州市越秀区人，跟随父母常住在湖北省宣恩县李家河镇老司城村9组，生前是宣恩县李家河小学二年级二班的学生。2012年7月5日16时左右，她在回家途中失踪，随后家人报警。
+此前姚常凤已被列为重要嫌疑人
+2012年7月10日8点左右，湖北省宣恩县公安局接到附近村民报警，报警人称在李家河镇(原李家河乡)老司城村11组的“卢家河”河道里，发现一具被掩埋的女尸。
+宣恩县公安局民警迅速赶到现场，确认死者为失踪5日的郑某某。由于小女孩被埋在河道附近，经过河水冲刷，现场并未留下有价值的线索。“小女孩的肋骨断了，看上去也比较像交通事故造成的。”恩施州公安局刑侦支队大队长彭晋说。
+经过勘察走访，民警发现，事发现场和发现女孩的地方有近十米远。随后有村民反映，案发前他曾见到一名陌生青年男子尾随郑某某。经过相貌比对，民警认为村民所说的陌生男子与2011年在浙江省新昌县所发命案嫌疑人姚常凤相似，加上郑某某被害的作案手段、方式也和此前多起案件十分相似，姚常凤被作为重要嫌疑人。
+7月11日下午，姚常凤在面对警方审讯时，对2012年宣恩县李家河郑某某被害案的作案事实供认不讳。
+据他交代，2012年某天下午，他经过湖北老家附近一条河边时，在旁边的一处橘树林里看到了一个独自玩耍的小女孩。观察发现周围没人经过后，姚常凤起了歹念，将小女孩拖入橘树林实施了强奸。因小女孩大声呼叫，姚常凤便将她掐死，最后埋尸河边。怕河道上的沙被水冲走，他还在上面堆了两块石头。
+目前，案件仍在进一步审理中。
+姚常凤首次犯案后曾给家人打电话
+7月10日，记者在宣恩县红旗坪村姚常凤的家中见到其母亲姚水英。她坐在矮小的竹凳上，面无表情。
+姚水英说，姚常凤在浙江犯案后给家里打了个电话。她还记得，那天姚常凤是中午12点多打来的电话，很突然。“他平常白天不打电话，都是晚上打电话，因为白天要上工。”
+姚常凤先打给弟弟，又打给继父。电话里，他语速很快，让家人好好生活，就迅速挂断了电话。养父再打回去时，电话已经打不通了。“我们不知道怎么了，就给他老板打电话。老板才告知我们，姚常凤杀人了。”姚水英说。
+民警：提起家人他眼中才有光
+7月11日，湖北恩施州宣恩县公安局刑侦支队队长彭晋第一次见到姚常凤。在此之前，他已经追踪了多年，研究过所有的资料和视频，姚常凤的外貌、体型和走路的动作，都印在他脑子里。但眼前少年身上散发出的死气沉沉还是让他有点惊讶。彭晋能感觉到，姚常凤的心理防线很强，多年四处流浪的生活，他眼中透着一种寒气。

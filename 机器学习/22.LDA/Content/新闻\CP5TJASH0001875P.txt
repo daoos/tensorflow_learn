@@ -1,0 +1,120 @@
+原始链接：http://news.163.com/17/0712/19/CP5TJASH0001875P.html
+
+摔坏30万手镯女游客:我是低保户 但从没想过"逃"
+
+
+
+	#endText .video-info a{text-decoration:none;color: #000;}
+	#endText .video-info a:hover{color:#d34747;}
+	#endText .video-list li{overflow:hidden;float: left; list-style:none; width: 132px;height: 118px; position: relative;margin:8px 3px 0px 0px;}
+	#entText .video-list a,#endText .video-list a:visited{text-decoration:none;color:#fff;}
+	#endText .video-list .overlay{text-align: left; padding: 0px 6px; background-color: #313131; font-size: 12px; width: 120px; position: absolute; bottom: 0px; left: 0px; height: 26px; line-height: 26px; overflow: hidden;color: #fff; }
+	#endText .video-list .on{border-bottom: 8px solid #c4282b;}
+	#endText .video-list .play{width: 20px; height: 20px; background:url(http://img1.cache.netease.com/video/img14/zhuzhan/play.png);position: absolute;right: 12px; top: 62px;opacity: 0.7; color:#fff;filter:alpha(opacity=70); _background: none; _filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png"); }
+	
+	#endText .video-list a:hover .play{opacity: 1;filter:alpha(opacity=100);_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="http://img1.cache.netease.com/video/img14/zhuzhan/play.png");}
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ if (/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)||/safari|chrome|firefox/i.test(navigator.userAgent)&&navigator.plugins&&!navigator.plugins["Shockwave Flash"]){ var str1 = '<video controls="controls" preload="auto" width="100%" poster="http://vimg3.ws.126.net/image/snapshot/2017/7/Q/6/VCO84FSQ6.jpg" style="max-height:100%">'; var str2 = '<source type="video/mp4" src="http://flv.bn.netease.com/videolib3/1707/12/fWFcT9464/SD/fWFcT9464-mobile.mp4">您的浏览器暂时无法播放此视频.</video>';document.getElementById("FPlayer1404863609673").parentNode.innerHTML = str1 + str2;}
+
+
+
+摔坏“30万”手镯的江西女游客:我是低保户,但从没想过“逃”
+（来源：~）
+
+
+
+
+
+
+
+
+window.NTES && function(d){var f=function(c){var b=c.getAttribute("flashvars"),a=c.getAttribute("repovideourl").replace(".flv","-mobile.mp4");h=d(c.parentNode.parentNode.parentNode),g='<embed src="http://v.163.com/swf/video/NetEaseFlvPlayerV3.swf" flashvars="'+b+'" allowfullscreen="true" allowscriptaccess="always" quality="high" wmode="opaque" width="100%" height="100%" type="application/x-shockwave-flash" />';if(/(iPhone|iPad|iPod|Android|NETEASEBOBO|blackberry|bbd+)/ig.test(navigator.userAgent)){g='<video controls="controls" preload="auto" width="100%" height="100%"><source type="video/mp4" src="'+a+'">您的浏览器暂时无法播放此视频.</video>';}h.$(".video")[0].innerHTML=g;},e=function(b){var a=d(b.parentNode.parentNode.parentNode);a.$("li").removeCss("on"),b.addCss("on"),a.$(".video-title")[0].innerHTML="string"==typeof b.textContent?b.textContent:b.innerText,a.$(".video-title")[0].setAttribute("href",b.getAttribute("url")),a.$(".video-from")[0].innerHTML="（来源："+b.getAttribute("source")+"）",f(b);};window.continuePlay=function(){var a,b=d(d(".video-list .on")[0].nextSibling);3==b.nodeType&&(b=d(b.nextSibling));if(b&&d(".video-inner input")[0].checked){e(b);}},function(){var a={init:function(){if(d(".video-list li")[0]){d(d(".video-list li")[0]).addCss("on"),this.eventBind();}},eventBind:function(){d(".video-list li").addEvent("click",function(b){e(d(this)),b.preventDefault();});}};a.init();}();}(NTES);
+			
+
+
+
+摔坏“30万”手镯的江西女游客:我是低保户,但从没想过“逃”
+（来源：~）
+
+因朋友拍摄的两段游船和在红木店门口的视频，外界都在疯传摔碎“30万”手镯的费女士“逃跑了”。
+自6月27日失手打碎喊价“30万”的翡翠手镯至今，费建勤经历了五味杂陈的体验。她遇到了很多好心人，但也被视作一个“逃跑者”被人指指指点点”。
+她很瘦，半个月来，她的体重从48公斤降到45公斤。她的白头发又冒出来了，她剪了短发，并将其染成看上去显年轻的紫色。在接受红星新闻专访时，她一会儿哭，一会儿笑。
+“我没有逃，也没有失联，除了回江西时坐飞机，我自始至终都没有关机。”11日中午，在瑞丽某单位办公室，费建勤告诉红星新闻，再次回到瑞丽，就是她直面现实的证明。
+谈去瑞丽
+非策划非炒作
+“一场临时决定的旅行”
+红星新闻：这是不是一次有“预谋”的行程？
+费建勤：我有一个朋友，跟我沾亲带故，平常像亲戚一样走动亲密，彼此常互相吃请。她家做生意，经济条件比我好。原本我家在上饶弋阳县还算富裕，但自从我老公车祸出事后，家境就越来越差。
+这些年我过得很难，从今年过完年到现在，我一直过得低迷。6月23日晚，我睡不着觉，就给她打电话，她说她明天准备去泰国，问我去不去，她是想让我散散心。我说去是想去，但关键是怎么去。她说你真的想去，她就帮我出钱买机票。
+后来有人怀疑说，“30万”摔坏手镯事件是炒作。但我要澄清，这次行程是临时电话决定的，没有丝毫“预谋”。
+红星新闻：外界猜测你报了“低价团”，进了“强制购物店”。
+费建勤：我们是自由行，来自同一个县城。我们一行6个人，除了我，其他还有两对夫妻，以及一个老总朋友。我们原计划是去泰国游玩，都准备好了护照，但这个老总说，要来瑞丽办点事，于是决定从云南边境出境去泰国。
+我们24日到瑞丽，但25日这天，这个老总朋友因糖尿病发作导致眼睛失明，临时决定去上海治疗。我们其他人——包括当天从成都来到瑞丽的一个熟人的儿子小江，一起开车到腾冲玩了一天，26日又回到瑞丽。
+一起出来玩的老总都病了，加上我家里还有需要照顾的老母亲，接下来哪还有心思玩？于是我提出来要先回江西，叫他们帮我定28日的返程机票，但这天的机票没有订到，只能订到29日的机票。
+红星新闻：怎么选择去了姐告玉城？
+费建勤：老家有朋友知道我要回去，托我帮他带一个几千元的玉手镯，因27日还有一天的空闲，我就答应帮他到玉石市场上看一看。
+26日晚上，我问酒店前台服务员瑞丽有哪些出名的玉石市场，这时候过来两个住同一家酒店的浙江人，他们说，正好也打算第二天去逛逛玉石市场。我说我不懂玉石，他们说他们懂，还会还价，于是我们就约好第二天早上8点在大厅集合。第二天我们就在大厅集合，一起打的去了姐告玉城。
+谈事发
+失手摔玉被围观
+“我当时真的很害怕”
+红星新闻：“30万”手镯是怎么摔碎的？
+费建勤：到玉城后，我们起初在一起，后来就各逛各的。我买了两三百元的玉石，后来就来到了林氏翡翠店。当时柜台有两个服务员，一个服务员在铺货，另一个和别的顾客交谈。这些手镯没有标价，我看到其中一个手镯很漂亮，那服务员把头抬起来的时候，我已经把那个手镯戴到了手上了。我问她多少钱，她说30万。我就想，这么高的价格，连砍价的余地都没有，就一边把手镯往下扯一边说，这么贵，叫我怎么还价。
+我朋友的手腕比我稍大，我试戴手镯的时候，专门找那些偏大的尺寸，所以这个手镯戴上去和取下来都很轻松。当天早上下了雨，我带了一把伞，手上还拎着钱包，没想到一脱，这个手镯就掉在桌面上，然后弹到地上，一下摔成两截。
+红星新闻：当时怎么会晕倒呢？
+费建勤：当时我傻眼了，我不知所措，第一时间想到的，是给我那些江西朋友打电话。我打了七八个电话都没人接，心里就乱了。后来他们告诉我，我出门太早了，当时他们还在睡觉。
+当时周围的人陆陆续续过来，围观的人、各种议论越来越多，都在说这个手镯多贵啊，怎么不小心打破了啊等等，我压力越来越大。这时候两个浙江人也过来了，我问他们这个到底要多少钱，他们说，你能出多少钱。我就说我对这个行业真的不懂，等我朋友来了再协调。两个浙江人一直陪着我，等我朋友来了之后才走，当天我们都没有留电话，但我现在一直感谢他们。
+我孤独一人，身在一个陌生的环境，担心遇到暴力，心里又急又难过，大家议论纷纷，我不但害怕，还无地自容。我就和老板说，让我趴一下。我有不吃早饭的习惯，但没有低血糖等疾病，我也不知道怎么回事，一趴下就休克过去了，这是我这辈子第一次晕倒。后来我感觉有人给我掐人中，一个好心的大姐还给我刮痧，林氏翡翠的老板也不停地问我有没有事，慢慢地我就清醒过来了。
+谈调解
+协商至深夜仍无果
+“权威鉴定比进价还高一万”
+红星新闻：此后双方如何调解的？
+费建勤：我们协商到晚上12点都没有结果。对方要价15万，我觉得太贵了，没办法进行调解。我将手镯图片发给了懂行的朋友，但朋友说，看图片无法看出价位，建议我不要一口答应。我一下子出不了对方提出的这么多的赔偿价钱，但我想两三万应该是要的。当时我和一起来的朋友能凑齐3万块钱，但对方说，这个翡翠手镯价格不菲，不可能这么便宜，3万元连进价都不够，提出走司法程序。我也提出，等我朋友来，找个部门认定一下，我要让自己所出的钱公平、公正。
+红星新闻：你怎么看瑞丽宝玉石协会对这个手镯的评估意见？
+费建勤：我不认可瑞丽市宝玉石协会认定的18万元评估结论。我看到了这个翡翠进价单显示价格是17万，这个进价肯定还有水分，但“权威”鉴定竟然比这17万还多出1万。
+红星新闻：你觉得林氏翡翠店和商城有责任吗？
+费建勤：我对翡翠没什么认识，我帮朋友带个一千多元的手镯回去就好了，如果它明码标价30万，我碰都不会碰，也不会有后来的事。后来我查过相关规定，商品都要明码标价，商城也有责任，这么名贵的翡翠卖场，就应该在地上铺设地毯，或装一些起到保护作用的装置。
+红星新闻：为何拒绝法院调解？
+费建勤：27日晚上我彻夜难眠，28号早上，我接到了法院的调解电话。我非常害怕，心想怎么这么快就牵扯到了法院？但当天我毫无力气，加之害怕出门，所以没答应去法院。我打电话咨询律师，律师说，我没有犯法，当时的情况下，我可以接法院的电话，也可以不接法院的电话，我可以回家，一天24小时我都是自由的。
+谈“逃跑”
+为了散心出去玩的
+“朋友逗我开心拍的视频”
+红星新闻：事情没解决，你这么快就回了老家？
+费建勤：当天中午，我打坏手镯的事情就传到了老家，我妈妈心急，一不小心把手烫伤了。我父亲十年前去世了，我还有弟弟妹妹，他们都在厦门工作，一直以来我陪我妈生活的时间多一些。我当时很着急，万一我妈有个三长两短，我在亲戚朋友面前、在当地怎么做人？于是一心想着回去。
+▲费建勤说，妈妈听说她的事情后不小心把手烫伤了。
+红星新闻：接下来你去“游山玩水”了？
+费建勤：28号上午我没有出门，下午的时候，朋友为了让我散心，把我拉了出去，但我整个人都是稀里糊涂的。第一段视频，是在酒店旁一家木艺店门口等车的时候，小江为逗我开心拍的，我当时还强调不要乱拍，我随意地坐在地上，我心事重重，笑得也非常牵强。随后我们一起去坐船，但直到现在，我都不知道乘船的地方是哪里，在那里小江又拍了一段逗我开心的视频。
+29号我按原计划回老家，当时我人还在瑞丽，就收到了我朋友发过来的质问我“跑路”的新闻。我告诉他，我人都还在瑞丽，怎么就成了“逃跑”的头条了？回到家期间，商家没有联系过我，我平时24小时都开机，仅仅在飞机上关过机，所谓“失联”，可能就是飞机上那段时间。
+红星新闻：在老家怎么过的？
+费建勤：我过得很难堪，在老街上买个菜，跟朋友吃个饭，都会遇到别人指指点点，有人调侃说我“最勇敢”，我觉得那是讽刺我。我儿子也问我，外面说我逃回来，到底怎么回事？为了我的事，儿子担心影响女朋友的未来，郑重其事地和她谈“分手”，这都让我很难过。
+打坏玉镯这件事让我低人一等，别人说起这个事，都说不愿意赔偿就逃回来了，我没有勇气面对这样的指责。这些日子我过得很压抑，没好好吃过一口饭。我只是打坏了一个玉镯，我没有杀人放火，我没有罪大恶极，我受不了那种感觉。
+谈家庭
+曾为救治丈夫花百万
+“就算打工也会赔偿”
+红星新闻：可以谈谈你现在家庭情况是怎么样的吗？
+费建勤：我以前自己做生意搞个体，老公在弋阳县供电部门开车当司机，经济条件最好的时候，我们在弋阳县有两套房子。9年前我丈夫因车祸成了植物人，把房子全卖了，花了100多万，也没能把他抢救回来。当时我儿子未成年，母子俩生活实在困难，在2013年我就列为低保户，现在我每月能获得400多元的救助金，但我也不想让大家因此而同情我。
+▲费建勤的低保证。
+红星新闻：为何会选择再次回到瑞丽？
+费建勤：我接到瑞丽一位玉石企业负责人打来电话，他问我是不是逃避责任。我说我会赔，但要经过法律程序，他说他被我这句话感动，想看看我是个什么样的人，于是专门去了一趟江西，看了我家的实际情况。这位负责人是位中间人，他不会偏袒任何一方，但希望解决争议，不希望外界无休止地讨论。
+前些年我和人合伙做了一些生意，但越做越亏。但我想，人落魄的时候总要讨生活，总不可能坐家里，天上也不会掉馅饼来，我从没做过违背良心的事，为什么不敢面对?
+ 
+我受不了熟人和舆论的压力，万一再被人偷拍到一个笑脸，我都无法澄清这件事，所以我决定回瑞丽，让它尽早有个了结。现在我再次回到瑞丽，就是我没有逃避的证明。
